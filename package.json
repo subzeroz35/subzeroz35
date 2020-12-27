@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/nguyenthanhan/nguyenthanhan#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "0.19.2",
+    "dotenv": "8.2.0",
+    "wakatime-client": "2.0.3"
   }
 }
