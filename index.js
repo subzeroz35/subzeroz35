@@ -67,21 +67,21 @@ const getQuote = async () => {
 const generate = async () => {
   try {
     const stats = await wakatime.getMyStats({ range: RANGE.LAST_7_DAYS });
-    console.log("waka time stats", stats);
+    console.log("waka time stats languages:", stats.data.languages);
     let lines = calLines(stats);
 
     lines =
       lines.length > 0
-        ? `\n\n📊 Weekly development breakdown\n${lines.join("\n")}`
+        ? `<pre>\n\n📊 Weekly development breakdown\n\n${lines.join("\n")}\n</pre>`
         : "";
 
     console.log("lines:", lines);
 
-    const { quote, author } = await getQuote();
+    const {quote, author} = await getQuote();
 
     const _quote =
       quote && author
-        ? `## 😄 Daily Quotes 😄\n\n_**${quote}**_\n\n${author}${lines}`
+        ? `## 😄 Daily Quotes 😄\n\n_**${quote}**_\n\n${author}\n\n`
         : "";
 
     const content =

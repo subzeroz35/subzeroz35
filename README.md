@@ -1,16 +1,14 @@
-### Hi there 👋
+<pre>
 
-<!--
-**nguyenthanhan/nguyenthanhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Weekly development breakdown
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript  4 hrs 33 mins  ██████████████▉░░░░░░  71.1%
+JSON        44 mins        ██▍░░░░░░░░░░░░░░░░░░  11.6%
+Docker      22 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
+Markdown    18 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
+Other       13 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+YAML        8 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+TypeScript  2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+</pre>
