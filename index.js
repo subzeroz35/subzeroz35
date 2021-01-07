@@ -72,7 +72,7 @@ const generate = async () => {
 
     lines =
       lines.length > 0
-        ? `## 📊 Weekly development breakdown 📊\n\n<pre>\n\n${lines.join("\n")}</pre>`
+        ? `\n\n## 📊 Weekly development breakdown 📊\n\n<pre>${lines.join("\n")}</pre>`
         : "";
 
     console.log("lines:", lines);
