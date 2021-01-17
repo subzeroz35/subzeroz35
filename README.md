@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.**_
+_**You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).**_
 
-William James Moore
+Edmund Hillary
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  25 hrs 42 mins ██████████████████░░░  85.9%
-JavaScript  1 hr 58 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
-JSON        1 hr 57 mins   █▎░░░░░░░░░░░░░░░░░░░   6.5%
+<pre>TypeScript  25 hrs 42 mins ██████████████████▎░░  87.1%
+JSON        1 hr 57 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
+JavaScript  1 hr 34 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
 Properties  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Other       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Git Config  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
