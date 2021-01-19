@@ -1,18 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
+_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
 
-Sidney Greenberg
+Christiane Northrup
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  25 hrs 42 mins ██████████████████▊░░  89.5%
-JSON        1 hr 57 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
-JavaScript  47 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
-Properties  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Git Config  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Prolog      3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Other       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  20 hrs 38 mins ███████████████████▏░  91.4%
+JSON        1 hr 3 mins    ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+JavaScript  46 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Properties  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
