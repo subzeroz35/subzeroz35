@@ -1,15 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**The man who removes a mountain begins by carrying away small stones..**_
 
-Christiane Northrup
+Chinese Proverb
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  20 hrs 38 mins ███████████████████▏░  91.4%
-JSON        1 hr 3 mins    ▉░░░░░░░░░░░░░░░░░░░░   4.7%
-JavaScript  46 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Properties  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  15 hrs 55 mins ███████████████████▌░  93.3%
+JavaScript  39 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+JSON        29 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%</pre>
