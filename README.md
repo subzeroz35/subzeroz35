@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**There's such a thin line between winning and losing.**_
+_**Think ahead. Don't let day-to-day operations drive out planning.**_
 
-John R. Tunis
+Donald Rumsfeld
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 51 mins  ███████████████▉░░░░░  75.9%
-JavaScript  2 hrs 25 mins  ████▎░░░░░░░░░░░░░░░░  20.8%
-JSON        23 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%</pre>
+<pre>TypeScript  4 hrs 12 mins  ████████████▍░░░░░░░░  59.0%
+JavaScript  2 hrs 34 mins  ███████▌░░░░░░░░░░░░░  36.2%
+JSON        20 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%</pre>
