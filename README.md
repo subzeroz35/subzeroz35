@@ -1,13 +1,11 @@
 ## 😄 Daily Quotes 😄
 
-_**Think ahead. Don't let day-to-day operations drive out planning.**_
+_**Positive anything is better than negative thinking.**_
 
-Donald Rumsfeld
+Elbert Hubbard
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 12 mins  ████████████▍░░░░░░░░  59.0%
-JavaScript  2 hrs 34 mins  ███████▌░░░░░░░░░░░░░  36.2%
-JSON        20 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%</pre>
+<pre>JavaScript  2 hrs 34 mins  █████████████████████ 100.0%</pre>
