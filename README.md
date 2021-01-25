@@ -1,11 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.**_
+_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
 
-Niccolo Machiavelli
+John Muir
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  3 hrs 35 mins  █████████████████████ 100.0%</pre>
+<pre>JavaScript  7 hrs 10 mins  ████████████████████▉  99.8%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
