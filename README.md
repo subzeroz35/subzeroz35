@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it.**_
+_**The best way to not feel hopeless is to get up and do something. Don't wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.**_
 
-Larry Page
+Barack Obama
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  7 hrs 10 mins  ████████████████████▉  99.8%
+<pre>JavaScript  6 hrs 42 mins  ████████████████████▉  99.8%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
