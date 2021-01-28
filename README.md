@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**The best way to not feel hopeless is to get up and do something. Don't wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Barack Obama
+Japanese Proverb
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  6 hrs 42 mins  ████████████████████▉  99.8%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>JavaScript  4 hrs 45 mins  ████████████████████▉  99.7%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
