@@ -1,6 +1,6 @@
 ## 😄 Daily Quotes 😄
 
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**When it comes to winning, you need the skill and the will.**_
 
-Mohamad Ali
+Frank Tyger
 
