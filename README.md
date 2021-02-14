@@ -1,6 +1,6 @@
 ## 😄 Daily Quotes 😄
 
-_**Winning is not everything, but the effort to win is.**_
+_**Where there is ruin, there is hope for a treasure.**_
 
-Zig Ziglar
+Rumi
 
