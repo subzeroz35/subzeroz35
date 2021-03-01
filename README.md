@@ -1,6 +1,6 @@
 ## 😄 Daily Quotes 😄
 
-_**Excellence prospers in the absence of excuses.**_
+_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
 
-Lorii Myers
+Phil Grimshaw
 
