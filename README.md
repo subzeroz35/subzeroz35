@@ -1,6 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
+_**You will never win if you never begin.**_
 
-Zaha Hadid
+Helen Rowland
 
+
+
+## 📊 Weekly development breakdown 📊
+
+<pre>JavaScript  4 hrs 7 mins   ████████████████████▋  98.7%
+JSON        3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%</pre>
