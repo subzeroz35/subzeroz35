@@ -1,12 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**You will never win if you never begin.**_
+_**A quitter never wins and a winner never quits**_
 
-Helen Rowland
+Napoleon Hill
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  4 hrs 7 mins   ████████████████████▋  98.7%
-JSON        3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%</pre>
+<pre>JavaScript  6 hrs 45 mins  ████████████████████▊  99.0%
+JSON        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%</pre>
