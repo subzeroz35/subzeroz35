@@ -1,12 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**A quitter never wins and a winner never quits**_
+_**There is nothing noble about being superior to some other man. The true nobility is in being superior to your previous self.**_
 
-Napoleon Hill
+Hindu Proverb
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  6 hrs 45 mins  ████████████████████▊  99.0%
-JSON        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%</pre>
+<pre>JavaScript  11 hrs 48 mins ████████████████████▊  99.0%
+JSON        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+TypeScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
