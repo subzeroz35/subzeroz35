@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
+_**Winning is not everything, but the effort to win is.**_
 
-Daireth Winehouse
+Zig Ziglar
 
 
 
