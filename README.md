@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Winning is not everything, but the effort to win is.**_
+_**We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light**_
 
-Zig Ziglar
+Mary Dunbar
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  11 hrs 50 mins ████████████████████▊  99.0%
-JSON        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-TypeScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
+<pre>JavaScript  18 hrs 20 mins ████████████████████▊  99.2%
+JSON        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+TypeScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
