@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light**_
+_**You make a living by what you earn; you make a life by what you give.**_
 
-Mary Dunbar
+Winston Churchill
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  18 hrs 20 mins ████████████████████▊  99.2%
-JSON        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
-TypeScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+<pre>JavaScript  16 hrs         ████████████████████▉  99.4%
+JSON        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+TypeScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
