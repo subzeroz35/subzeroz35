@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**You make a living by what you earn; you make a life by what you give.**_
+_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
 
-Winston Churchill
+Christiane Northrup
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  16 hrs         ████████████████████▉  99.4%
-JSON        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-TypeScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
+<pre>JavaScript  15 hrs 38 mins ████████████████████▉  99.5%
+TypeScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+JSON        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
