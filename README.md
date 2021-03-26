@@ -1,13 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.**_
 
-Christiane Northrup
+Charles Bukowski
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  15 hrs 38 mins ████████████████████▉  99.5%
-TypeScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-JSON        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+<pre>JavaScript  13 hrs 3 mins  ████████████████████▉  99.7%
+JSON        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
