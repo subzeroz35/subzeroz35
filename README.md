@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Great things are done by a series of small things brought together.**_
+_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
 
-Vincent Van Gogh
+Bel Pesce
 
 
 
