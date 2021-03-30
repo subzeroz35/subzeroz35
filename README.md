@@ -1,12 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
+_**If you can consciously let yourself get taken and see where you go, that's an exercise. That's discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.**_
 
-Bel Pesce
+Bill Murray
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  14 hrs 32 mins ████████████████████▉  99.8%
-JSON        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+<pre>JavaScript  10 hrs 12 mins ███████████████████▋░  93.6%
+TypeScript  41 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%</pre>
