@@ -1,12 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**If you can consciously let yourself get taken and see where you go, that's an exercise. That's discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.**_
+_**The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.**_
 
-Bill Murray
+Charles Bukowski
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  10 hrs 12 mins ███████████████████▋░  93.6%
-TypeScript  41 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%</pre>
+<pre>JavaScript  8 hrs 39 mins  ███████████████████▍░  92.4%
+TypeScript  41 mins        █▌░░░░░░░░░░░░░░░░░░░   7.4%
+JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
