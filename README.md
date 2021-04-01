@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.**_
+_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
 
-Charles Bukowski
+Isaac Lidsky
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  8 hrs 39 mins  ███████████████████▍░  92.4%
-TypeScript  41 mins        █▌░░░░░░░░░░░░░░░░░░░   7.4%
+<pre>JavaScript  6 hrs 56 mins  ███████████████████░░  90.7%
+TypeScript  41 mins        █▉░░░░░░░░░░░░░░░░░░░   9.1%
 JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
