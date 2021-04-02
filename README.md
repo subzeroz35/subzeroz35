@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
+_**You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it.**_
 
-Isaac Lidsky
+Larry Page
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  6 hrs 56 mins  ███████████████████░░  90.7%
-TypeScript  41 mins        █▉░░░░░░░░░░░░░░░░░░░   9.1%
+<pre>JavaScript  7 hrs 11 mins  ███████████████████░░  91.0%
+TypeScript  41 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
 JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
