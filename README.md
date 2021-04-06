@@ -1,13 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**The best way to predict the future is to create it.**_
+_**Sustenance! Your health is always the best prescription.**_
 
-Abraham Lincoln
+Lorii Myers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  7 hrs 44 mins  ███████████████████▏░  91.6%
-TypeScript  41 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
+<pre>JavaScript  8 hrs 1 min    ████████████████████▉  99.8%
 JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
