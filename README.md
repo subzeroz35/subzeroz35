@@ -1,12 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Sustenance! Your health is always the best prescription.**_
+_**Let go of who you think you're supposed to be; embrace who you are.**_
 
-Lorii Myers
+Brene Brown
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  8 hrs 1 min    ████████████████████▉  99.8%
-JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+<pre>JavaScript  7 hrs 50 mins  ████████████████████▎  96.4%
+TypeScript  17 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
