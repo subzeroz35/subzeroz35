@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Let go of who you think you're supposed to be; embrace who you are.**_
+_**The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.**_
 
-Brene Brown
+Lorii Myers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  7 hrs 50 mins  ████████████████████▎  96.4%
-TypeScript  17 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>JavaScript  7 hrs 27 mins  ████████████████████▏  96.0%
+TypeScript  18 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
