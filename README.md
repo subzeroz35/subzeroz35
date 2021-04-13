@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.**_
+_**Remove the temptation to settle for anything short of what you deserve.**_
 
-Sheryl Sandberg
+Lorii Myers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  8 hrs 6 mins   ███████████████████▌░  93.4%
+<pre>JavaScript  8 hrs 7 mins   ███████████████████▌░  93.4%
 TypeScript  18 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
 Dart        15 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
