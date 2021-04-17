@@ -1,13 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**Core passions and aspirations should be consistent and in sync.**_
+_**Persistence is very important. You should not give up unless you are forced to give up.**_
 
-Lorii Myers
+Elon Musk
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  4 hrs 51 mins  ███████████████████▉░  94.9%
-Dart        15 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
-TypeScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>JavaScript  3 hrs 59 mins  ████████████████████▉ 100.0%
+TypeScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
