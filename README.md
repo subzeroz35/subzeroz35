@@ -1,18 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**I wanted to achieve something essential in life, something that is not measured by money or position in society. The mountains are not stadiums where I satisfy my ambitions to achieve. They are my cathedrals, the houses of my religion. In the mountains I attempt to understand my life. They are the way I practice my religion. In the mountains I celebrate creation, on each journey I am reborn.**_
+_**The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.**_
 
-Anatoli Boukreev
+Bill Murray
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  13 hrs 40 mins █████████████████▎░░░  82.5%
-JavaScript  1 hr 9 mins    █▍░░░░░░░░░░░░░░░░░░░   7.0%
-JSON        56 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
-XML         23 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-Other       15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Groovy      7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  9 hrs 54 mins  █████████████████▋░░░  84.3%
+JavaScript  1 hr 5 mins    █▉░░░░░░░░░░░░░░░░░░░   9.3%
+XML         23 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+JSON        12 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Groovy      7 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
