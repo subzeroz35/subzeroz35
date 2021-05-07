@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**We don't have to do all of it alone. We were never meant to.**_
+_**Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.**_
 
-Brene Brown
+Mark Twain
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 37 mins  ████████████████████▎  96.7%
-JavaScript  10 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
-JSON        9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+<pre>TypeScript  5 hrs 9 mins   ████████████████████▎  96.7%
+JavaScript  9 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
