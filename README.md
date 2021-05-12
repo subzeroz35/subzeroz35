@@ -1,15 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.**_
+_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
 
-Dale Patridge
+Michelle Obama
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 1 min    █████████████████▏░░░  81.8%
-JavaScript  1 hr 45 mins   ███▊░░░░░░░░░░░░░░░░░  18.0%
-JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  8 hrs 1 min    ████████████████▍░░░░  78.1%
+JavaScript  2 hrs 14 mins  ████▌░░░░░░░░░░░░░░░░  21.7%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
