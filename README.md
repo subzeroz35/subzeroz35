@@ -1,14 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
+_**You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.**_
 
-Michelle Obama
+Bill Murray
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 1 min    ████████████████▍░░░░  78.1%
-JavaScript  2 hrs 14 mins  ████▌░░░░░░░░░░░░░░░░  21.7%
-JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>TypeScript  4 hrs 31 mins  ██████████████▍░░░░░░  68.6%
+JavaScript  2 hrs 4 mins   ██████▌░░░░░░░░░░░░░░  31.4%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
