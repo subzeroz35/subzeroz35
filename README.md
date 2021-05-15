@@ -1,13 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**Do not let what you cannot do interfere with what you can do.**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-John Wooden
+Winston Churchill
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  3 hrs 23 mins  ███████████▍░░░░░░░░░  54.2%
-TypeScript  2 hrs 52 mins  █████████▌░░░░░░░░░░░  45.8%
+<pre>JavaScript  8 hrs 9 mins   ████████████████████▉ 100.0%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
