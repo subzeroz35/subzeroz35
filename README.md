@@ -1,17 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.**_
+_**You make a living by what you earn; you make a life by what you give.**_
 
-William James Moore
+Winston Churchill
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  8 hrs 14 mins  ███████████████▏░░░░░  72.4%
-TypeScript  3 hrs 3 mins   █████▋░░░░░░░░░░░░░░░  26.8%
-JSON        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Objective-C 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>TypeScript  9 hrs 30 mins  ███████████▍░░░░░░░░░  54.7%
+JavaScript  7 hrs 46 mins  █████████▍░░░░░░░░░░░  44.7%
+JSON        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Objective-C 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Properties  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
