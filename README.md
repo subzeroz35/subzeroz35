@@ -1,17 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.**_
+_**A man can suffer to bring a group of people to success, not the other way.**_
 
-Napoleon Bonaparte
+Ganesh
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  11 hrs 35 mins ████████████▉░░░░░░░░  61.6%
-JavaScript  6 hrs 43 mins  ███████▍░░░░░░░░░░░░░  35.7%
-Other       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-JSON        9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+<pre>TypeScript  17 hrs 1 min   ██████████████████▎░░  87.5%
+JavaScript  1 hr 54 mins   ██░░░░░░░░░░░░░░░░░░░   9.8%
+Other       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+JSON        10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 Objective-C 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Properties  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
