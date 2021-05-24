@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Failure is the condiment that gives success its flavor.**_
+_**You are very powerful, provided you know how powerful you are.**_
 
-Truman Capote
+Yogi Bhajan
 
 
 
