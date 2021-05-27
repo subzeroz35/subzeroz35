@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.**_
+_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
 
-Barack Obama
+Isaac Lidsky
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  18 hrs 2 mins  ████████████████████▏  96.2%
-Other       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-JavaScript  16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-JSON        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%</pre>
+<pre>TypeScript  17 hrs 20 mins ████████████████████▌  97.8%
+JavaScript  16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+JSON        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
