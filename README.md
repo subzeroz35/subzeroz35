@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Barack Obama
+Carl Lewis
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  10 hrs 35 mins ████████████████████▊  99.0%
-JSON        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
-JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+<pre>TypeScript  6 hrs 30 mins  ████████████████████▋  98.3%
+JSON        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+JavaScript  2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
