@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**If you don't have confidence, you'll always find a way not to win**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Carl Lewis
+Brene Brown
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 hrs 30 mins  ████████████████████▋  98.3%
-JSON        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-JavaScript  2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+<pre>TypeScript  5 hrs 18 mins  ███████████████░░░░░░  71.4%
+JavaScript  2 hrs 3 mins   █████▊░░░░░░░░░░░░░░░  27.7%
+JSON        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
