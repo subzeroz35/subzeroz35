@@ -1,14 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**Named must your fear be before banish it you can.**_
 
-Brene Brown
+Yoda
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 18 mins  ███████████████░░░░░░  71.4%
-JavaScript  2 hrs 3 mins   █████▊░░░░░░░░░░░░░░░  27.7%
-JSON        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  4 hrs 5 mins   ██████████░░░░░░░░░░░  47.7%
+JavaScript  4 hrs 4 mins   ██████████░░░░░░░░░░░  47.7%
+JSON        23 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%</pre>
