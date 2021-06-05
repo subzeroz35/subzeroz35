@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Named must your fear be before banish it you can.**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-Yoda
+Arnold Horshak
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 5 mins   ██████████░░░░░░░░░░░  47.7%
-JavaScript  4 hrs 4 mins   ██████████░░░░░░░░░░░  47.7%
-JSON        23 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%</pre>
+<pre>TypeScript  8 hrs 6 mins   █████████████▌░░░░░░░  64.5%
+JavaScript  4 hrs 4 mins   ██████▊░░░░░░░░░░░░░░  32.4%
+JSON        23 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%</pre>
