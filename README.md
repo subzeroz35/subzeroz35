@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
+_**Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.**_
 
-Charles F. Kettering
+Charles Bukowski
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 6 mins   █████████████▌░░░░░░░  64.5%
-JavaScript  4 hrs 4 mins   ██████▊░░░░░░░░░░░░░░  32.4%
-JSON        23 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%</pre>
+<pre>TypeScript  13 hrs 35 mins ███████████████▋░░░░░  74.9%
+JavaScript  4 hrs 4 mins   ████▋░░░░░░░░░░░░░░░░  22.5%
+JSON        28 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%</pre>
