@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.**_
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-Tom Hanks
+Lorii Myers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  16 hrs 8 mins  █████████████████▋░░░  84.4%
-JavaScript  2 hrs 4 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
-JSON        54 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  14 hrs 48 mins ████████████████████▎  96.5%
+JSON        31 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
