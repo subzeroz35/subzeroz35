@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Mohamad Ali
+Brene Brown
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  16 hrs 41 mins ████████████████████▍  97.3%
-JSON        27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+<pre>TypeScript  17 hrs 57 mins ████████████████████▍  97.5%
+JSON        26 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
