@@ -1,14 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.**_
 
-Brene Brown
+Tom Hanks
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  17 hrs 57 mins ████████████████████▍  97.5%
-JSON        26 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  18 hrs 38 mins ████████████████████▉  99.9%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
