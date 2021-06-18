@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.**_
+_**If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.**_
 
-Tom Hanks
+Kevin Turner 
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  18 hrs 38 mins ████████████████████▉  99.9%
+<pre>TypeScript  21 hrs 49 mins ████████████████████▉ 100.0%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
