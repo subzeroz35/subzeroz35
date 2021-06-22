@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Winning isn't everything.. It's the only thing.**_
+_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
 
-Vincent van Gogh
+John Gardner
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  12 hrs 14 mins ████████████████████▉ 100.0%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  15 hrs 50 mins ████████████████████▉  99.7%
+JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
