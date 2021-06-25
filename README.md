@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
+_**One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.**_
 
-Zaha Hadid
+Barack Obama
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  31 hrs 20 mins ████████████████████▉  99.5%
+<pre>TypeScript  27 hrs 23 mins ████████████████████▉  99.4%
 JavaScript  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 JSON        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
