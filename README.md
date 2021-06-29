@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Great things are done by a series of small things brought together.**_
+_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
 
-Vincent Van Gogh
+Michelle Obama
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  28 hrs 19 mins ███████████████████▌░  93.1%
-JSON        1 hr 39 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
-JavaScript  24 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  35 hrs 28 mins ███████████████████▋░  93.8%
+JSON        1 hr 54 mins   █░░░░░░░░░░░░░░░░░░░░   5.0%
+JavaScript  25 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Other       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
