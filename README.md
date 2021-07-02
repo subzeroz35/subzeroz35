@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
 
-Japanese Proverb
+Jack Ma
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  25 hrs 10 mins ██████████████████▊░░  89.7%
-JSON        2 hrs 17 mins  █▋░░░░░░░░░░░░░░░░░░░   8.2%
-JavaScript  30 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+<pre>TypeScript  28 hrs 54 mins ██████████████████▋░░  88.8%
+JSON        2 hrs 45 mins  █▊░░░░░░░░░░░░░░░░░░░   8.5%
+JavaScript  47 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 Other       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
