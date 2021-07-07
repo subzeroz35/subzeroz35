@@ -1,20 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
+_**I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.**_
 
-Martina Navratilova
+Steve Jobs
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  25 hrs 27 mins ███████████████▍░░░░░  73.5%
-JavaScript  4 hrs 11 mins  ██▌░░░░░░░░░░░░░░░░░░  12.1%
-JSON        2 hrs 52 mins  █▋░░░░░░░░░░░░░░░░░░░   8.3%
-Other       55 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-Objective-C 23 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Groovy      22 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Java        12 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
+<pre>TypeScript  22 hrs 48 mins ███████████████░░░░░░  71.8%
+JavaScript  4 hrs 3 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
+JSON        2 hrs 49 mins  █▊░░░░░░░░░░░░░░░░░░░   8.9%
+Other       53 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Objective-C 23 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Groovy      22 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Java        12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 XML         11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
 Bash        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Properties  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
