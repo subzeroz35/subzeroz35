@@ -1,16 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.**_
+_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
 
-Lorii Myers
+John Gardner
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  19 hrs 36 mins ████████████████████▏  96.1%
-JSON        43 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-Git Config  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  17 hrs 56 mins ███████████████████▉░  94.9%
+JSON        42 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Groovy      4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Properties  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Java        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Objective-C 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
