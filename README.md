@@ -1,20 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.**_
 
-Christiane Northrup
+Elon Musk
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 15 mins  ██████████████████▋░░  88.8%
-JSON        55 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
-Groovy      4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Properties  3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-Java        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Objective-C 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+<pre>TypeScript  15 hrs 23 mins ███████████████████▎░  92.2%
+JSON        46 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Other       14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Groovy      6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Properties  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Java        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Objective-C 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
