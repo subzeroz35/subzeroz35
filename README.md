@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
+_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
 
-John Muir
+Michelle Obama
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  20 hrs 7 mins  ███████████████████▍░  92.8%
-JSON        53 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-XML         15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-Other       13 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-JavaScript  8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+<pre>TypeScript  17 hrs 10 mins ███████████████████▊░  94.6%
+JSON        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+XML         15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Other       13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+JavaScript  8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 Groovy      2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
