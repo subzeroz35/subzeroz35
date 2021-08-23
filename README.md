@@ -1,16 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Michelle Obama
+Carl Lewis
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  17 hrs 10 mins ███████████████████▊░  94.6%
-JSON        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-XML         15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Other       13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-JavaScript  8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Groovy      2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+<pre>TypeScript  8 hrs 49 mins  ███████████████████▍░  92.7%
+JSON        17 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+XML         15 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+JavaScript  8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%</pre>
