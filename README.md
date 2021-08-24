@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**If you don't have confidence, you'll always find a way not to win**_
+_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
 
-Carl Lewis
+Greg Child
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 49 mins  ███████████████████▍░  92.7%
-JSON        17 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-XML         15 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-JavaScript  8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%</pre>
+<pre>TypeScript  9 hrs 14 mins  ████████████████████▏  95.9%
+JSON        16 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+JavaScript  6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
