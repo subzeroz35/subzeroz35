@@ -1,18 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**If I work as hard as I can, I wonder how much I can do in a day?**_
+_**You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.**_
 
-Ezra Taft Benson
+Bill Murray
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  17 hrs 29 mins █████████████████▋░░░  83.9%
-JavaScript  2 hrs 46 mins  ██▊░░░░░░░░░░░░░░░░░░  13.3%
-JSON        24 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-Groovy      8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Properties  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  22 hrs 27 mins ████████████████████▏  96.1%
+JavaScript  33 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+JSON        20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
