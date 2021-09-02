@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.**_
+_**At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.**_
 
-Bill Murray
+Lorii Myers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  22 hrs 27 mins ████████████████████▏  96.1%
-JavaScript  33 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-JSON        20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+<pre>TypeScript  22 hrs 23 mins ████████████████████░  95.5%
+JavaScript  33 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+JSON        30 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
