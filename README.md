@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
+_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
 
-George Bernard Shaw
+Jack Ma
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  12 hrs 49 mins ███████████████████▍░  92.6%
-JavaScript  31 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-JSON        27 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>TypeScript  11 hrs 8 mins  ███████████████████▌░  93.3%
+JSON        24 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+JavaScript  20 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+XML         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
