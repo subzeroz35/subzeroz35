@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name.**_
+_**Effort only fully releases its reward after a person refuses to quit.**_
 
-Larry Page
+Napoleon Hill
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 36 mins  ███████████████████▌░  93.1%
-JavaScript  20 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-JSON        11 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-XML         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  14 hrs 11 mins ███████████████████▍░  92.7%
+XML         35 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+JavaScript  20 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+JSON        11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
