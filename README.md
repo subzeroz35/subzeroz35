@@ -1,17 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Effort only fully releases its reward after a person refuses to quit.**_
+_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
 
-Napoleon Hill
+Jean Shinoda Bolen
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  18 hrs 58 mins ███████████████████▊░  94.2%
-Groovy      37 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-JavaScript  19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-JSON        13 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+<pre>TypeScript  26 hrs 25 mins ████████████████████░  95.5%
+Groovy      37 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+JavaScript  19 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+JSON        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Properties  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Properties  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
