@@ -1,16 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-Jean Shinoda Bolen
+Arnold Horshak
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  26 hrs 25 mins ████████████████████░  95.5%
-Groovy      37 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-JavaScript  19 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
-JSON        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Properties  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  24 hrs 57 mins ████████████████████▏  96.3%
+Groovy      37 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+JSON        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Properties  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
