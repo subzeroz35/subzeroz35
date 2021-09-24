@@ -1,16 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
+_**I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.**_
 
-John Gardner
+Steve Jobs
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  17 hrs 39 mins ███████████████████▍░  92.6%
-Groovy      37 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
-JSON        32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-Other       11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Properties  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  26 hrs 6 mins  ████████████████████▏  96.1%
+JSON        32 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Groovy      16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Other       11 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Properties  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
