@@ -1,14 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**A show of confidence raises the bar**_
+_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
 
-Lorii Myers
+Jean Shinoda Bolen
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  13 hrs 49 mins ████████████████████▌  98.2%
-JSON        14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  9 hrs 30 mins  ████████████████████▉  99.9%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
