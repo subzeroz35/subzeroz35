@@ -1,12 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
+_**The real opportunity for success lies within the person and not in the job.**_
 
-Jean Shinoda Bolen
+Zig Ziglar
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 30 mins  ████████████████████▉  99.9%
-JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  6 hrs 50 mins  ███████████████▋░░░░░  75.0%
+JavaScript  2 hrs 6 mins   ████▊░░░░░░░░░░░░░░░░  23.0%
+JSON        7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Java        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
