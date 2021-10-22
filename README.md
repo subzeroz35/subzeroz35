@@ -1,17 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Effort only fully releases its reward after a person refuses to quit.**_
+_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
 
-Napoleon Hill
+John Gardner
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 35 mins  █████████████▌░░░░░░░  64.4%
-JavaScript  2 hrs 22 mins  ██████▉░░░░░░░░░░░░░░  33.1%
-JSON        7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-Java        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  4 hrs 40 mins  ███████████████████▊░  94.5%
+JavaScript  15 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
