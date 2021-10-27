@@ -1,12 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**If you have dreams it is your responsibility to make them happen.**_
+_**Stress is like a pulse, if you have it you are alive.**_
 
-Bel Pesce
+Steve Maraboli
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 42 mins  ████████████████████▋  98.3%
-JSON        9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.8%</pre>
+<pre>TypeScript  8 hrs 37 mins  ████████████████████▍  97.2%
+JSON        14 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%</pre>
