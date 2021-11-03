@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**The man who removes a mountain begins by carrying away small stones..**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Chinese Proverb
+Paul Brown
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  10 hrs 28 mins ███████████████████▊░  94.2%
-JSON        38 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
+<pre>TypeScript  9 hrs 53 mins  ███████████████████▉░  94.7%
+JSON        32 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
