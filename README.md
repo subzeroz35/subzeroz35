@@ -1,19 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
+_**I wanted to achieve something essential in life, something that is not measured by money or position in society. The mountains are not stadiums where I satisfy my ambitions to achieve. They are my cathedrals, the houses of my religion. In the mountains I attempt to understand my life. They are the way I practice my religion. In the mountains I celebrate creation, on each journey I am reborn.**_
 
-John Muir
+Anatoli Boukreev
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  20 hrs 34 mins ████████████████████░  95.6%
-XML         27 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-JSON        24 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Bash        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  25 hrs 1 min   ████████████████████▎  96.7%
+XML         24 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+JSON        23 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Cocoa       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Properties  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
