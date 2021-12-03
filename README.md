@@ -1,17 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.**_
 
-Arnold Horshak
+Stephen Richards
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  21 hrs 34 mins ███████████████████▌░  93.2%
-JSON        1 hr 13 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
-XML         19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  16 hrs 43 mins ███████████████████▎░  91.8%
+JSON        1 hr 9 mins    █▎░░░░░░░░░░░░░░░░░░░   6.3%
+XML         19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
