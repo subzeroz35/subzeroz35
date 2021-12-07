@@ -1,17 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
+_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
 
-Jack Ma
+Dale Carnegie
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  12 hrs 15 mins ███████████████████▊░  94.5%
-JSON        33 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-XML         9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  10 hrs 40 mins ████████████████████▌  98.0%
+JSON        12 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
