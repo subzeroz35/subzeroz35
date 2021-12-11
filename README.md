@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Effort only fully releases its reward after a person refuses to quit.**_
+_**A show of confidence raises the bar**_
 
-Napoleon Hill
+Lorii Myers
 
 
 
