@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**A show of confidence raises the bar**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Lorii Myers
+Carl Lewis
 
 
 
