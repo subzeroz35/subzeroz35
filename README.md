@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
+_**The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.**_
 
-Mark Bezos
+Charles Bukowski
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  11 hrs 38 mins ███████████████████░░  90.7%
-JSON        38 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
-Groovy      26 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Other       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+<pre>TypeScript  17 hrs 21 mins ███████████████████▎░  92.0%
+JSON        56 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
+Groovy      26 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Other       6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
