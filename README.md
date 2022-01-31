@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**When you win, say nothing. When you lose, say less.**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-Paul Brown
+Winston Churchill
 
 
 
