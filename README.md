@@ -1,15 +1,6 @@
 ## 😄 Daily Quotes 😄
 
-_**Extend beyond your preconceived limits!**_
+_**Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.**_
 
-Lorii Myers
+Vince Lombardi
 
-
-
-## 📊 Weekly development breakdown 📊
-
-<pre>JSON        13 mins        ██████████████▍░░░░░░  68.6%
-XML         4 mins         ████▌░░░░░░░░░░░░░░░░  21.7%
-Other       1 min          █▏░░░░░░░░░░░░░░░░░░░   5.6%
-Properties  0 secs         ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
