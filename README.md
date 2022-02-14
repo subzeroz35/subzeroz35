@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.**_
+_**We lose ourselves in the things we love. We find ourselves there, too.**_
 
-Bill Murray
+Dale Patridge
 
 
 
