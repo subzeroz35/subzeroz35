@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
+_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
 
-Phil Grimshaw
+Martina Navratilova
 
 
 
