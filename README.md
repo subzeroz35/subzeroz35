@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
+_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
 
-Larry Page
+Bel Pesce
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 14 mins  ███████████████▋░░░░░  74.6%
-JavaScript  47 mins        ██▍░░░░░░░░░░░░░░░░░░  11.3%
-JSON        32 mins        █▌░░░░░░░░░░░░░░░░░░░   7.7%
-Other       24 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Properties  2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+<pre>TypeScript  6 hrs 55 mins  ███████████████▍░░░░░  73.4%
+JavaScript  1 hr 20 mins   ██▉░░░░░░░░░░░░░░░░░░  14.3%
+JSON        42 mins        █▌░░░░░░░░░░░░░░░░░░░   7.5%
+Other       24 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Properties  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
