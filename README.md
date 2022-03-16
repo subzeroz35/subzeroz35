@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
+_**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
 
-Bel Pesce
+Barbara Pletcher
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 hrs 55 mins  ███████████████▍░░░░░  73.4%
-JavaScript  1 hr 20 mins   ██▉░░░░░░░░░░░░░░░░░░  14.3%
-JSON        42 mins        █▌░░░░░░░░░░░░░░░░░░░   7.5%
-Other       24 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
-Properties  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  4 hrs 23 mins  ██████████████░░░░░░░  66.9%
+JavaScript  1 hr 8 mins    ███▋░░░░░░░░░░░░░░░░░  17.4%
+JSON        33 mins        █▊░░░░░░░░░░░░░░░░░░░   8.4%
+Other       26 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Properties  2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
