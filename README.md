@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
+_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
 
-Barbara Pletcher
+John Muir
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 23 mins  ██████████████░░░░░░░  66.9%
-JavaScript  1 hr 8 mins    ███▋░░░░░░░░░░░░░░░░░  17.4%
-JSON        33 mins        █▊░░░░░░░░░░░░░░░░░░░   8.4%
-Other       26 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Properties  2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+<pre>TypeScript  3 hrs 52 mins  ██████████████▌░░░░░░  69.3%
+JavaScript  42 mins        ██▋░░░░░░░░░░░░░░░░░░  12.7%
+Other       37 mins        ██▎░░░░░░░░░░░░░░░░░░  11.1%
+JSON        20 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Properties  2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
