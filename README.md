@@ -1,16 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
+_**I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.**_
 
-John Muir
+Steve Jobs
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 52 mins  ██████████████▌░░░░░░  69.3%
-JavaScript  42 mins        ██▋░░░░░░░░░░░░░░░░░░  12.7%
-Other       37 mins        ██▎░░░░░░░░░░░░░░░░░░  11.1%
-JSON        20 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
-Properties  2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  2 hrs 21 mins  █████████████▊░░░░░░░  65.8%
+JavaScript  41 mins        ████░░░░░░░░░░░░░░░░░  19.3%
+JSON        17 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
+Other       14 mins        █▍░░░░░░░░░░░░░░░░░░░   6.9%</pre>
