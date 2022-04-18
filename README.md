@@ -1,6 +1,6 @@
 ## 😄 Daily Quotes 😄
 
-_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
+_**Think in terms of opportunities and solutions instead of problems, disappointment, and failure.**_
 
 Lorii Myers
 
