@@ -1,19 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.**_
+_**Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.**_
 
-Dale Patridge
+Stephen Richards
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  27 hrs 22 mins ███████████████████▉░  95.2%
-JSON        1 hr           ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Groovy      11 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-PHP         6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+<pre>TypeScript  28 hrs 51 mins ████████████████████░  95.7%
+JSON        1 hr 3 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Other       11 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Apache Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
