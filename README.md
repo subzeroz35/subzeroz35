@@ -1,18 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
+_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
 
-Honore de Balzac
+Michelle Obama
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  11 hrs 49 mins ███████████████▋░░░░░  74.5%
-Bash        2 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░  14.8%
-JSON        1 hr 10 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
-Other       27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+<pre>TypeScript  11 hrs 24 mins ███████████████▋░░░░░  74.7%
+Bash        2 hrs 21 mins  ███▏░░░░░░░░░░░░░░░░░  15.4%
+JSON        1 hr           █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Other       27 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
 JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
