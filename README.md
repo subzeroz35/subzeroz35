@@ -1,16 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**People who are crazy enough to think they can change the world, are the ones who do.**_
+_**One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.**_
 
-Apple Computers
+Barack Obama
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  19 hrs 28 mins ███████████████████▍░  92.7%
-JSON        1 hr           █░░░░░░░░░░░░░░░░░░░░   4.8%
-XML         30 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  16 hrs 3 mins  ██████████████████▏░░  86.6%
+XML         1 hr 40 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
+JSON        30 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Groovy      11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+JavaScript  4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
