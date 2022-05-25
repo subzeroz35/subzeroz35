@@ -1,15 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Your life does not get better by chance. It gets better by change.**_
+_**Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.**_
 
-Jim Rohn
+Charles Bukowski
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  17 hrs 42 mins ███████████████████▋░  93.7%
-JSON        40 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.6%
-Other       31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  19 hrs 51 mins ███████████████████▌░  92.9%
+JSON        51 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Other       39 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
