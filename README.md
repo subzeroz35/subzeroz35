@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There's such a thin line between winning and losing.**_
+_**When there is no distraction, there is clarity.**_
 
-John R. Tunis
+Lorii Myers
 
 
 
