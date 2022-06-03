@@ -1,14 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**We lose ourselves in the things we love. We find ourselves there, too.**_
+_**Don't be tempted to break momentum-work through it.**_
 
-Dale Patridge
+Lorii Myers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 hrs 15 mins  ██████████████████▍░░  87.5%
-Other       42 mins        ██░░░░░░░░░░░░░░░░░░░   9.9%
-JSON        9 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+<pre>TypeScript  1 hr 25 mins   ██████████████████░░░  86.1%
+Other       13 mins        ██▊░░░░░░░░░░░░░░░░░░  13.4%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%</pre>
