@@ -1,13 +1,6 @@
 ## 😄 Daily Quotes 😄
 
-_**Don't be tempted to break momentum-work through it.**_
+_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.**_
 
 Lorii Myers
 
-
-
-## 📊 Weekly development breakdown 📊
-
-<pre>TypeScript  1 hr 25 mins   ██████████████████░░░  86.1%
-Other       13 mins        ██▊░░░░░░░░░░░░░░░░░░  13.4%
-JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%</pre>
