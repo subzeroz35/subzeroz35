@@ -1,6 +1,12 @@
 ## 😄 Daily Quotes 😄
 
-_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
+_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
 
-Charles F. Kettering
+Daireth Winehouse
 
+
+
+## 📊 Weekly development breakdown 📊
+
+<pre>TypeScript  6 mins         ███████████████████▍░  92.6%
+JSON        0 secs         █▌░░░░░░░░░░░░░░░░░░░   7.4%</pre>
