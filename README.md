@@ -1,12 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
+_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
 
-Daireth Winehouse
+Phil Grimshaw
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 mins         ███████████████████▍░  92.6%
-JSON        0 secs         █▌░░░░░░░░░░░░░░░░░░░   7.4%</pre>
+<pre>TypeScript  1 hr 10 mins   ████████████████████▋  98.6%
+JSON        0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
