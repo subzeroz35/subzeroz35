@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
+_**Failure is the condiment that gives success its flavor.**_
 
-John Muir
+Truman Capote
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  1 hr 34 mins   ████████████████████▏  96.0%
-Other       3 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-JSON        0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.8%</pre>
+<pre>TypeScript  2 hrs 57 mins  ███████████████████▎░  92.0%
+JSON        12 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
+Other       3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%</pre>
