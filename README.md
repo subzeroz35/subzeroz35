@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Sustenance! Your health is always the best prescription.**_
+_**I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.**_
 
-Lorii Myers
+Steve Jobs
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  2 hrs 57 mins  ███████████████████▎░  92.0%
-JSON        12 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
-Other       3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%</pre>
+<pre>TypeScript  4 hrs 10 mins  ███████████████████▏░  91.3%
+JSON        12 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+Other       11 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%</pre>
