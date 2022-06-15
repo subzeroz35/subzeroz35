@@ -1,13 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.**_
+_**Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.**_
 
-Steve Jobs
+Arthur Ashe
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 10 mins  ███████████████████▏░  91.3%
-JSON        12 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
-Other       11 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%</pre>
+<pre>TypeScript  4 hrs 34 mins  ████████████████▋░░░░  79.5%
+JSON        45 mins        ██▊░░░░░░░░░░░░░░░░░░  13.1%
+JavaScript  14 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+Other       11 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%</pre>
