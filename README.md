@@ -1,14 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Arthur Ashe
+Paul Brown
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 34 mins  ████████████████▋░░░░  79.5%
-JSON        45 mins        ██▊░░░░░░░░░░░░░░░░░░  13.1%
-JavaScript  14 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-Other       11 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%</pre>
+<pre>TypeScript  6 hrs 14 mins  ██████████████▉░░░░░░  71.1%
+JSON        1 hr 55 mins   ████▌░░░░░░░░░░░░░░░░  22.0%
+JavaScript  14 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Properties  13 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Other       8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%</pre>
