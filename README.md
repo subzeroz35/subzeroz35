@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
+_**Named must your fear be before banish it you can.**_
 
-Zaha Hadid
+Yoda
 
 
 
