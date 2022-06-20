@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Named must your fear be before banish it you can.**_
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-Yoda
+Lorii Myers
 
 
 
