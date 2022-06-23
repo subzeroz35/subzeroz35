@@ -1,15 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**What you do speaks so loudly that I cannot hear what you say.**_
+_**Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.**_
 
-Ralph Waldo Emerson
+Elizabeth Gilbert
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 42 mins  ████████████████░░░░░  76.7%
-JSON        1 hr 50 mins   ███▊░░░░░░░░░░░░░░░░░  18.3%
-JavaScript  14 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Properties  13 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Other       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%</pre>
+<pre>TypeScript  9 hrs 17 mins  ███████████████████░░  90.8%
+JSON        51 mins        █▊░░░░░░░░░░░░░░░░░░░   8.3%
+Other       5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%</pre>
