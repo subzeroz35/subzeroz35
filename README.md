@@ -1,13 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.**_
+_**People who are crazy enough to think they can change the world, are the ones who do.**_
 
-Elizabeth Gilbert
+Apple Computers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 17 mins  ███████████████████░░  90.8%
-JSON        51 mins        █▊░░░░░░░░░░░░░░░░░░░   8.3%
-Other       5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%</pre>
+<pre>TypeScript  10 hrs 29 mins ██████████████████▏░░  86.7%
+JSON        1 hr 11 mins   ██░░░░░░░░░░░░░░░░░░░   9.9%
+Other       23 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
