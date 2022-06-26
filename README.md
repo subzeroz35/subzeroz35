@@ -1,14 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.**_
+_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
 
-Voltaire
+George Bernard Shaw
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  13 hrs 15 mins ██████████████████▌░░  88.3%
-JSON        1 hr 20 mins   █▉░░░░░░░░░░░░░░░░░░░   8.9%
+<pre>TypeScript  13 hrs 15 mins ██████████████████░░░  86.2%
+JSON        1 hr 20 mins   █▊░░░░░░░░░░░░░░░░░░░   8.7%
 Other       23 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Bash        22 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
