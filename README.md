@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Remember that you are very special, no one can play your role better than you.**_
+_**All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.**_
 
-Damayanti Patra
+Niccolo Machiavelli
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  30 hrs 42 mins ███████████████████▍░  92.8%
-JavaScript  2 hrs 1 min    █▎░░░░░░░░░░░░░░░░░░░   6.1%
-JSON        12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Other       8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+<pre>TypeScript  30 hrs 5 mins  ███████████████████▎░  92.0%
+JavaScript  2 hrs          █▎░░░░░░░░░░░░░░░░░░░   6.1%
+JSON        27 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Other       9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
