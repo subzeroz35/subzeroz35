@@ -1,14 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.**_
+_**Never waste your time trying to explain who you are to people who are committed to misunderstanding you.**_
 
-Mohamad Ali
+Dream Hampton
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  30 hrs 31 mins ███████████████████▏░  91.6%
-JavaScript  1 hr 15 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-JSON        1 hr 5 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Other       26 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%</pre>
+<pre>TypeScript  28 hrs 21 mins ███████████████████▌░  93.4%
+JSON        1 hr 10 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Other       43 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+Groovy      3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Prolog      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
