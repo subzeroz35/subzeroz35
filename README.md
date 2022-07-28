@@ -1,15 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-Vince Lombardi
+Arnold Horshak
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  15 hrs 16 mins ██████████████████▊░░  89.4%
-JavaScript  1 hr 14 mins   █▌░░░░░░░░░░░░░░░░░░░   7.2%
-Other       26 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-JSON        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+<pre>TypeScript  9 hrs 58 mins  ████████████████████▋  98.3%
+Other       9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
