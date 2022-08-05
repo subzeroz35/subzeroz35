@@ -1,6 +1,6 @@
 ## 😄 Daily Quotes 😄
 
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.**_
 
-Christiane Northrup
+Thomas Edison
 
