@@ -1,6 +1,6 @@
 ## 😄 Daily Quotes 😄
 
-_**Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Thomas Edison
+Japanese Proverb
 
