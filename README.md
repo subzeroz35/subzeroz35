@@ -1,6 +1,6 @@
 ## 😄 Daily Quotes 😄
 
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**If I work as hard as I can, I wonder how much I can do in a day?**_
 
-Japanese Proverb
+Ezra Taft Benson
 
