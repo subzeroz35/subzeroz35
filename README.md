@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.**_
+_**A quitter never wins and a winner never quits**_
 
-Niccolo Machiavelli
+Napoleon Hill
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 39 mins  ██████████████████▏░░  86.3%
-Other       33 mins        ██▏░░░░░░░░░░░░░░░░░░  10.4%
-JSON        9 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>TypeScript  5 hrs 42 mins  ██████████████████▌░░  88.5%
+Other       33 mins        █▊░░░░░░░░░░░░░░░░░░░   8.7%
+JSON        9 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
