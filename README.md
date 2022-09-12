@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**You are very powerful, provided you know how powerful you are.**_
+_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
 
-Yogi Bhajan
+Larry Page
 
 
 
