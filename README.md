@@ -1,15 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.**_
+_**Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.**_
 
-Vince Lombardi
+G. Kingsley Ward
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 47 mins  ███████████████████▌░  93.0%
-Other       33 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
-JSON        9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  8 hrs          ████████████████████▍  97.4%
+Other       9 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+JSON        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
