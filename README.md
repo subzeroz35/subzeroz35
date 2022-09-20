@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
+_**When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.**_
 
-Martina Navratilova
+Elon Musk
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 5 mins   █████████████▏░░░░░░░  63.0%
-JavaScript  1 hr 34 mins   ██████▊░░░░░░░░░░░░░░  32.2%
-JSON        7 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-XML         5 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+<pre>TypeScript  4 hrs 8 mins   ████████████░░░░░░░░░  57.4%
+JavaScript  2 hrs 50 mins  ████████▎░░░░░░░░░░░░  39.4%
+JSON        7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+XML         5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
