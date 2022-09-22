@@ -1,14 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**If we ever stop thinking about the person we want to become, we stop learning and taking risks.**_
 
-Brene Brown
+Sally Blount
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 33 mins  ████████████▌░░░░░░░░  59.8%
-JavaScript  2 hrs 50 mins  ███████▊░░░░░░░░░░░░░  37.3%
-JSON        7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-XML         5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%</pre>
+<pre>TypeScript  3 hrs 26 mins  ███████████▍░░░░░░░░░  54.4%
+JavaScript  2 hrs 50 mins  █████████▍░░░░░░░░░░░  44.9%
+JSON        2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%</pre>
