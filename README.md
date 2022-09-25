@@ -1,13 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.**_
+_**You must have a positive self perception in order to transcend anything.**_
 
-Barack Obama
+Steve Maraboli
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 56 mins  ████████████░░░░░░░░░  57.7%
-JavaScript  2 hrs 50 mins  ████████▋░░░░░░░░░░░░  41.6%
-JSON        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%</pre>
+<pre>TypeScript  4 hrs 10 mins  ████████████▉░░░░░░░░  61.9%
+JavaScript  1 hr 56 mins   ██████░░░░░░░░░░░░░░░  28.7%
+Other       22 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
+JSON        10 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Bash        4 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
