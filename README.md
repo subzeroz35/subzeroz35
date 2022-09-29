@@ -1,16 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**The determination to win is the better part of winning.**_
+_**Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.**_
 
-Daisaku Ikeda
+G. Kingsley Ward
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 9 mins   ██████████████████░░░  86.0%
-JavaScript  40 mins        █▍░░░░░░░░░░░░░░░░░░░   7.0%
-Other       22 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-JSON        12 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Bash        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  11 hrs 4 mins  ██████████████▋░░░░░░  69.8%
+JavaScript  2 hrs 5 mins   ██▊░░░░░░░░░░░░░░░░░░  13.2%
+JSON        1 hr 46 mins   ██▎░░░░░░░░░░░░░░░░░░  11.2%
+Bash        31 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Other       22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+Diff        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
