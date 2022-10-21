@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
+_**If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.**_
 
-George Bernard Shaw
+Jack Ma
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  11 hrs 53 mins ████████████████████▏  96.3%
-JavaScript  15 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-JSON        9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-XML         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Diff        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  9 hrs 23 mins  ████████████████████▍  97.3%
+JavaScript  9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+JSON        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
