@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Winning isn't everything.. It's the only thing.**_
+_**A man who has no imagination has no wings.**_
 
-Vincent van Gogh
+Mohamad Ali
 
 
 
