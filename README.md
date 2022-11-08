@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**The best way to predict the future is to create it.**_
 
-Brene Brown
+Abraham Lincoln
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  25 hrs 25 mins ███████████████████▏░  91.6%
-JSON        1 hr 2 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-Other       54 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-JavaScript  21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+<pre>TypeScript  27 hrs 17 mins ███████████████████▎░  91.8%
+JSON        1 hr 3 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Other       53 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+JavaScript  28 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
 XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
