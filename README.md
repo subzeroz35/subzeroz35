@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**The best way to predict the future is to create it.**_
+_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
 
-Abraham Lincoln
+Dale Carnegie
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  27 hrs 17 mins ███████████████████▎░  91.8%
-JSON        1 hr 3 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Other       53 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
-JavaScript  28 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+<pre>TypeScript  23 hrs 3 mins  ██████████████████▉░░  90.2%
+JSON        1 hr 3 mins    ▊░░░░░░░░░░░░░░░░░░░░   4.2%
+Other       54 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+JavaScript  30 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
