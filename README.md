@@ -1,15 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.**_
+_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
 
-Elon Musk
+Larry Page
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  31 hrs 9 mins  ███████████████████▊░  94.3%
-JavaScript  1 hr 20 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-JSON        31 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  25 hrs 1 min   ███████████████████▎░  92.0%
+JSON        54 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Other       42 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Bash        20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+JavaScript  9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+XML         4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
