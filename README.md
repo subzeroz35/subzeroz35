@@ -1,17 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.**_
+_**Once your excuses are gone, you will simply have to settle for being awesome!**_
 
-Voltaire
+Lorii Myers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  10 hrs 32 mins ███████████████▏░░░░░  72.4%
-JSON        2 hrs 18 mins  ███▎░░░░░░░░░░░░░░░░░  15.9%
-JavaScript  44 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
-Other       36 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+<pre>TypeScript  10 hrs 11 mins ███████████████░░░░░░  71.7%
+JSON        2 hrs 18 mins  ███▍░░░░░░░░░░░░░░░░░  16.2%
+JavaScript  45 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Other       36 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
 Groovy      8 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 Bash        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
