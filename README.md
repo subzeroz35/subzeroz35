@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**Remember that you are very special, no one can play your role better than you.**_
+_**Sustenance! Your health is always the best prescription.**_
 
-Damayanti Patra
+Lorii Myers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  26 hrs 21 mins ████████████████████▊  99.2%
-JSON        8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Other       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>TypeScript  21 hrs 13 mins ████████████████████▊  99.3%
+JSON        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Other       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
