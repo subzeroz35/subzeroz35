@@ -1,14 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.**_
+_**The idea that everyone should slavishly work so they do something inefficiently so they keep their job - that just doesn't make any sense to me. That can't be the right answer.**_
 
-Vince Lombardi
+Larry Page
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  18 hrs 59 mins ████████████████████▉  99.8%
-JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  17 hrs 22 mins ████████████████████▌  98.1%
+JSON        13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Bash        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
