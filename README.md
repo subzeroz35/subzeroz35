@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**_
+_**A man who has no imagination has no wings.**_
 
-Matthew Keith Groves
+Mohamad Ali
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  17 hrs 22 mins ████████████████████▌  98.1%
-JSON        13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Bash        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  24 hrs 5 mins  ████████████████████▍  97.3%
+JSON        32 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Bash        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
