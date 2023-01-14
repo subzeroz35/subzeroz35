@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Winning is not everything, but the effort to win is.**_
+_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
 
-Zig Ziglar
+Isaac Lidsky
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  19 hrs 47 mins ███████████████████░░  91.0%
-JSON        1 hr 9 mins    █▏░░░░░░░░░░░░░░░░░░░   5.4%
-Bash        29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Other       17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+<pre>TypeScript  20 hrs 3 mins  ███████████████████▏░  91.3%
+JSON        1 hr 13 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
+Bash        23 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Other       16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
