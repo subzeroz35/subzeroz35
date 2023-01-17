@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Think in terms of opportunities and solutions instead of problems, disappointment, and failure.**_
+_**Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.**_
 
-Lorii Myers
+Napoleon Bonaparte
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  20 hrs 3 mins  ███████████████████▏░  91.3%
-JSON        1 hr 13 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
-Bash        23 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
-Other       16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+<pre>TypeScript  17 hrs 12 mins ███████████████████▏░  91.5%
+JSON        55 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
+Bash        23 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Other       16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
