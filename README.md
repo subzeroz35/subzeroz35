@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
+_**Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.**_
 
-John Gardner
+Mohamad Ali
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  21 hrs 59 mins ████████████████████▎  96.6%
-JSON        34 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-JavaScript  7 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+<pre>TypeScript  18 hrs 30 mins ████████████████████▎  96.6%
+JSON        27 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+JavaScript  7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 XML         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Java        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Java        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
