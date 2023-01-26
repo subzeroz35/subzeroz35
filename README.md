@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**There's such a thin line between winning and losing.**_
+_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
 
-John R. Tunis
+George Bernard Shaw
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 9 mins   ████████████████████▊  99.4%
-JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  9 mins         █████████████████▋░░░  84.3%
+JSON        1 min          ███░░░░░░░░░░░░░░░░░░  14.8%
+Other       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.9%</pre>
