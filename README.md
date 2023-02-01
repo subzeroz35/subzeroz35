@@ -1,13 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
+_**Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.**_
 
-Charles F. Kettering
+Arthur Ashe
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JSON        43 mins        █████████████▋░░░░░░░  64.9%
-TypeScript  22 mins        ██████▉░░░░░░░░░░░░░░  33.0%
-Other       1 min          ▍░░░░░░░░░░░░░░░░░░░░   2.1%</pre>
+<pre>TypeScript  2 hrs 36 mins  █████████████▉░░░░░░░  66.3%
+JSON        50 mins        ████▍░░░░░░░░░░░░░░░░  21.4%
+Bash        13 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
+XML         12 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Other       3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%</pre>
