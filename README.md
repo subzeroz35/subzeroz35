@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
+_**Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.**_
 
-Veronica A. Shoffstall
+Elizabeth Gilbert
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 49 mins  █████████████████▋░░░  84.0%
-Bash        14 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
-JSON        14 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
-XML         12 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
-Other       2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%</pre>
+<pre>TypeScript  4 hrs 57 mins  ███████████████████▋░  93.9%
+JSON        12 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+XML         5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Bash        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.6%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
