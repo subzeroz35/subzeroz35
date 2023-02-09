@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.**_
+_**Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.**_
 
-Elizabeth Gilbert
+Napoleon Bonaparte
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 57 mins  ███████████████████▋░  93.9%
-JSON        12 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-XML         5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Bash        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.6%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  9 hrs 15 mins  ████████████████████░  95.6%
+JSON        18 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+XML         5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Bash        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
