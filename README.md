@@ -1,15 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
+_**If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.**_
 
-Honore de Balzac
+John W. Holt, Jr.
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  10 hrs 54 mins ██████████████████▋░░  89.2%
-JSON        1 hr 16 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
-Other       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  9 hrs 56 mins  ███████████████████░░  91.0%
+JSON        58 mins        █▊░░░░░░░░░░░░░░░░░░░   8.9%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
