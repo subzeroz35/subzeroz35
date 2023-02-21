@@ -1,14 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.**_
+_**Stop complaining. Start creating.**_
 
-Kevin Turner 
+Dale Patridge
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  10 hrs 31 mins ███████████████████▌░  93.5%
-JSON        43 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
+<pre>TypeScript  9 hrs 53 mins  ███████████████████▌░  93.0%
+JSON        43 mins        █▍░░░░░░░░░░░░░░░░░░░   6.8%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
