@@ -1,15 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Things are not bad in themselves, but our cowardice makes them so.**_
+_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
 
-Michel de Montaigne
+Daireth Winehouse
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 49 mins  ██████████████████▋░░  89.3%
-JavaScript  24 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-XML         22 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-JSON        16 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-Other       7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%</pre>
+<pre>TypeScript  7 hrs 22 mins  ████████████████▎░░░░  77.8%
+Other       44 mins        █▋░░░░░░░░░░░░░░░░░░░   7.8%
+JSON        30 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+JavaScript  24 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+XML         22 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Bash        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%</pre>
