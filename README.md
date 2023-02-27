@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light**_
+_**The man who has confidence in himself gains the confidence of others.**_
 
-Mary Dunbar
+Hasidic Proverb
 
 
 
