@@ -1,17 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
+_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
 
-David O. McKay
+Lorii Myers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  23 hrs 6 mins  ████████████████████▏  95.9%
+<pre>TypeScript  23 hrs 49 mins ████████████████████▍  97.1%
 XML         22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-JSON        14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-JavaScript  11 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Other       9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+JSON        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 Java        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
