@@ -1,15 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-G. Kingsley Ward
+Winston Churchill
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  27 hrs 52 mins ████████████████████▊  98.9%
-JSON        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+<pre>TypeScript  26 hrs 55 mins ████████████████████▌  97.8%
+Other       18 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+JSON        15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
