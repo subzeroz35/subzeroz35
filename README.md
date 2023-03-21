@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
+_**A man can suffer to bring a group of people to success, not the other way.**_
 
-Bel Pesce
+Ganesh
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  32 hrs 8 mins  ████████████████████▏  96.0%
-JSON        52 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Other       25 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+<pre>TypeScript  29 hrs 21 mins ████████████████████░  95.8%
+JSON        48 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Other       27 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
