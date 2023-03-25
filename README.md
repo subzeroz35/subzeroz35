@@ -1,17 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
+_**Beyond a certain point there is no return. This point has to be reached.**_
 
-Martina Navratilova
+Franz Kafka
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  24 hrs 19 mins ████████████████████▏  96.0%
-JSON        50 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Other       9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+<pre>TypeScript  24 hrs 22 mins ████████████████████▋  98.6%
+JSON        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
