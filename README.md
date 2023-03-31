@@ -1,14 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Don't be afraid of losing, be afraid of playing a game and not learning something.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Dan Heisman
+Brene Brown
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  20 hrs 24 mins ████████████████████▎  96.8%
-JSON        38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>TypeScript  20 hrs 44 mins ████████████████████▍  97.4%
+JSON        31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
