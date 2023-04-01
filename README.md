@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**Great things are done by a series of small things brought together.**_
 
-Brene Brown
+Vincent Van Gogh
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  20 hrs 44 mins ████████████████████▍  97.4%
-JSON        31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+<pre>TypeScript  18 hrs 30 mins ████████████████████▍  97.4%
+JSON        27 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
 XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
