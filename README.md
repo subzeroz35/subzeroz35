@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.**_
+_**Hang Out with People Who are Better than You.**_
 
-Steve Jobs
+Warren Buffett
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  18 hrs 30 mins ████████████████████▍  97.4%
-JSON        27 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
-XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  17 hrs 21 mins ████████████████████▎  96.5%
+JavaScript  16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+XML         12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+JSON        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
