@@ -3,7 +3,7 @@ const axios = require("axios");
 const { WakaTimeClient, RANGE } = require("wakatime-client");
 const fs = require("fs");
 
-const { WAKATIME_API_KEY: wakatimeApiKey } = process.env;
+const { WAKATIME_API_KEY: wakatimeApiKey, QUOTES_REST_API_KEY: quotesRestApiKey } = process.env;
 
 const wakatime = new WakaTimeClient(wakatimeApiKey);
 
@@ -44,7 +44,10 @@ function generateBarChart(percent, size) {
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://quotes.rest/qod?language=en");
+    const configs = {
+      headers: {'Authorization': 'Bearer '+ quotesRestApiKey},
+    }
+    const { data } = await axios.get("https://quotes.rest/qod?language=en", configs);
     const quote = data.contents.quotes[0].quote;
     const author = data.contents.quotes[0].author;
     const background = data.contents.quotes[0].background;
