@@ -88,7 +88,7 @@ const generate = async () => {
         : "";
 
     const content =
-      lines === "" && _quote === "" ? `### Hi there 👋` : _quote + lines;
+      lines === "" && _quote === "" ? `### Hi there 👋` : _quote + lines + `\n\n${new Date().toLocaleDateString()}`;
 
     console.log("content", content);
 
