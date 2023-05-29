@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**When you win, say nothing. When you lose, say less.**_
+_**There's such a thin line between winning and losing.**_
 
-Paul Brown
+John R. Tunis
 
 
 
@@ -14,4 +14,4 @@ XML         2 mins         ░░░░░░░░░░░░░░░░░�
 Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-5/28/2023
+5/29/2023
