@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Winners have simply formed the habit of doing things losers don't like to do**_
+_**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
 
-Albert Gray
+Barbara Pletcher
 
 
 
@@ -14,4 +14,4 @@ Other       15 mins        ▏░░░░░░░░░░░░░░░░�
 JavaScript  12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/3/2023
+6/4/2023
