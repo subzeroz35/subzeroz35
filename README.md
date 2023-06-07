@@ -1,16 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Winning isn't everything.. It's the only thing.**_
+_**Those who know how to win are much more numerous than those who know how to make proper use of their victories**_
 
-Vincent van Gogh
+Polybius
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  21 hrs 6 mins  ███████████████████▉░  95.1%
-JSON        40 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-JavaScript  23 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  16 hrs 44 mins ████████████████████▏  96.3%
+JSON        28 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+JavaScript  11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%</pre>
 
-6/6/2023
+6/7/2023
