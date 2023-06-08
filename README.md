@@ -1,15 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Those who know how to win are much more numerous than those who know how to make proper use of their victories**_
+_**When it comes to winning, you need the skill and the will.**_
 
-Polybius
+Frank Tyger
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  16 hrs 44 mins ████████████████████▏  96.3%
-JSON        28 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-JavaScript  11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%</pre>
+<pre>TypeScript  15 hrs 4 mins  ███████████████████▊░  94.1%
+JSON        42 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+JavaScript  13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-6/7/2023
+6/8/2023
