@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.**_
+_**Your life does not get better by chance. It gets better by change.**_
 
-Barack Obama
+Jim Rohn
 
 
 
@@ -15,4 +15,4 @@ XML         12 mins        ▏░░░░░░░░░░░░░░░░�
 Diff        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-6/11/2023
+6/12/2023
