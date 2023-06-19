@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.**_
+_**By failing to prepare, you are preparing to fail.**_
 
-Stephen Richards
+Benjamin Franklin
 
 
 
@@ -20,4 +20,4 @@ CocoaPods   1 min          ░░░░░░░░░░░░░░░░░�
 Objective-C++ 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/18/2023
+6/19/2023
