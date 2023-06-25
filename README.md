@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Whether you think you can or think you can't, you're right..**_
+_**The man who removes a mountain begins by carrying away small stones..**_
 
-Henry Ford
+Chinese Proverb
 
 
 
@@ -19,4 +19,4 @@ CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░�
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/24/2023
+6/25/2023
