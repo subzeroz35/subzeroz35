@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The man who removes a mountain begins by carrying away small stones..**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Chinese Proverb
+Japanese Proverb
 
 
 
@@ -19,4 +19,4 @@ CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░�
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/25/2023
+6/26/2023
