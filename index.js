@@ -64,6 +64,11 @@ const getQuote = async () => {
     };
   } catch (err) {
     console.error(err.message);
+    return  {
+      quote: 'Unknown',
+      author: 'Unknown',
+      background: 'Unknown',
+    }
   }
 };
 
