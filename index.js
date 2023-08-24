@@ -45,29 +45,27 @@ function generateBarChart(percent, size) {
 const getQuote = async () => {
   try {
     const configs = {
-      headers: {'Authorization': 'Bearer '+ quotesRestApiKey},
+      headers: {'X-Api-Key': quotesRestApiKey},
     }
-    const { data } = await axios.get("https://quotes.rest/qod?language=en", configs);
-    const quote = data.contents.quotes[0].quote;
-    const author = data.contents.quotes[0].author;
-    const background = data.contents.quotes[0].background;
+    const { data } = await axios.get("https://api.api-ninjas.com/v1/quotes", configs);
+    console.log("data", data);
+    const quote = data[0].quote;
+    const author = data[0].author;
 
     console.log(
       "new quote",
-      `${JSON.stringify({ quote, author, background })}`
+      `${JSON.stringify({ quote, author })}`
     );
 
     return {
       quote,
       author,
-      background,
     };
   } catch (err) {
     console.error(err.message);
     return  {
       quote: 'Unknown',
       author: 'Unknown',
-      background: 'Unknown',
     }
   }
 };
