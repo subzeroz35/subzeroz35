@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Unknown**_
+_**You will never cease to be the most amazed person on earth at what God has done for you on the inside.**_
 
-Unknown
+Oswald Chambers
 
 
 
