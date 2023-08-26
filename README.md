@@ -1,21 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**The lonely become either thoughtful or empty.**_
+_**The first of all commodities to be exchanged is labour, and the freedom of man consists only in the exercise of the right to determine for himself in what manner his labour shall be employed, and how he will dispose of its products.**_
 
-Mason Cooley
+Henry Charles Carey
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs          ███████████████████▉░  94.9%
-JSON        16 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
-JavaScript  9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+<pre>TypeScript  7 hrs 54 mins  ███████████████████▊░  94.2%
+JSON        16 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+JavaScript  9 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 YAML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Ezhil       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-MySQL       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/25/2023
+8/26/2023
