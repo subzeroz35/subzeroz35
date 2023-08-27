@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The first of all commodities to be exchanged is labour, and the freedom of man consists only in the exercise of the right to determine for himself in what manner his labour shall be employed, and how he will dispose of its products.**_
+_**A man content to go to heaven alone will never go to heaven.**_
 
-Henry Charles Carey
+Boethius
 
 
 
@@ -16,4 +16,4 @@ XML         0 secs         ░░░░░░░░░░░░░░░░░�
 Ezhil       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/26/2023
+8/27/2023
