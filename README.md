@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**A man content to go to heaven alone will never go to heaven.**_
+_**This is the place where anybody - like an African American kid raised by a single mom - can be president.**_
 
-Boethius
+Jennifer M. Granholm
 
 
 
@@ -16,4 +16,4 @@ XML         0 secs         ░░░░░░░░░░░░░░░░░�
 Ezhil       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/27/2023
+8/28/2023
