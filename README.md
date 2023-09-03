@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Unknown**_
+_**I have always been a firm believer in the longstanding American principle of having the right to bear arms and I will remain committed to see that this freedom is not infringed upon, revoked, or limited in any way.**_
 
-Unknown
+Jeff Miller
 
 
 
@@ -15,4 +15,4 @@ JSON        2 mins         ░░░░░░░░░░░░░░░░░�
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ActionScript 3 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/2/2023
+9/3/2023
