@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I have always been a firm believer in the longstanding American principle of having the right to bear arms and I will remain committed to see that this freedom is not infringed upon, revoked, or limited in any way.**_
+_**I mean, I don't think I'm alone when I look at the homeless person or the bum or the psychotic or the drunk or the drug addict or the criminal and see their baby pictures in my mind's eye. You don't think they were cute like every other baby?**_
 
-Jeff Miller
+Dustin Hoffman
 
 
 
@@ -15,4 +15,4 @@ JSON        2 mins         ░░░░░░░░░░░░░░░░░�
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ActionScript 3 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/3/2023
+9/4/2023
