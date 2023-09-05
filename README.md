@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**I mean, I don't think I'm alone when I look at the homeless person or the bum or the psychotic or the drunk or the drug addict or the criminal and see their baby pictures in my mind's eye. You don't think they were cute like every other baby?**_
+_**Moderation is a virtue only in those who are thought to have an alternative.**_
 
-Dustin Hoffman
+Henry A. Kissinger
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 47 mins  ███████████████████▎░  92.0%
-Bash        21 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
-XML         6 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-JSON        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  5 hrs 14 mins  ███████████████████▏░  91.2%
+Bash        21 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
+XML         6 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.6%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ActionScript 3 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/4/2023
+9/5/2023
