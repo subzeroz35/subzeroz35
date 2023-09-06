@@ -1,18 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Moderation is a virtue only in those who are thought to have an alternative.**_
+_**We have got to change our ethics and our financial system and our whole way of understanding the world. It has to be a world in which people live rather than die a sustainable world. It could be great.**_
 
-Henry A. Kissinger
+Vivienne Westwood
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 14 mins  ███████████████████▏░  91.2%
-Bash        21 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
-XML         6 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
-JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-ActionScript 3 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  8 hrs 41 mins  ███████████████████▎░  91.9%
+Bash        44 mins        █▋░░░░░░░░░░░░░░░░░░░   7.9%
+JSON        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/5/2023
+9/6/2023
