@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Owners of dogs will have noticed that, if you provide them with food and water and shelter and affection, they will think you are God. Whereas owners of cats are compelled to realize that, if you provide them with food and water and affection, they draw the conclusion that they are God.**_
+_**God's forgiveness allows us to be honest with ourselves. We recognize our imperfections, admit our failures, and plead to God for clemency.**_
 
-Christopher Hitchens
+Jonathan Sacks
 
 
 
@@ -13,4 +13,4 @@ Bash        23 mins        █░░░░░░░░░░░░░░░░�
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/9/2023
+9/10/2023
