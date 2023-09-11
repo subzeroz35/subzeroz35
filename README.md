@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**God's forgiveness allows us to be honest with ourselves. We recognize our imperfections, admit our failures, and plead to God for clemency.**_
+_**One of the things that makes Hamlet unique among Shakespeare's characters is his courage to face up to the darker elements of his personality.**_
 
-Jonathan Sacks
+Kenneth Branagh
 
 
 
@@ -13,4 +13,4 @@ Bash        23 mins        █░░░░░░░░░░░░░░░░�
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/10/2023
+9/11/2023
