@@ -1,17 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**Discovery consists in seeing whateveryone else has seen and thinking what no one else has thought.**_
+_**Certainly, travel is more than the seeing of sights it is a change that goes on, deep and permanent, in the ideas of living.**_
 
-von Nagyrapolt, Albert
+Miriam Beard
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 51 mins  ████████████████████▍  97.5%
-Bash        6 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-JSON        5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+<pre>TypeScript  9 hrs 38 mins  ████████████████████▌  97.8%
+Bash        6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+JSON        5 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/14/2023
+9/15/2023
