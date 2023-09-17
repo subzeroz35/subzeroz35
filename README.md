@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Because our entire universe is made up of consciousness, we never really experience the universe directly we just experience our consciousness of the universe, our perception of it, so right, our only universe is perception.**_
+_**I fell in love with theater there, and after graduation I moved to Los Angeles to pursue acting.**_
 
-Alan Moore
+Olivia Wilde
 
 
 
@@ -15,4 +15,4 @@ XML         0 secs         ░░░░░░░░░░░░░░░░░�
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/16/2023
+9/17/2023
