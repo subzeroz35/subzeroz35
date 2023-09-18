@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I fell in love with theater there, and after graduation I moved to Los Angeles to pursue acting.**_
+_**I certainly don't want a child of mine to be famous, or anyone I was very close to who isn't yet... It's the worst thing to be trapped in your house not be able to leave.**_
 
-Olivia Wilde
+Elizabeth Hurley
 
 
 
@@ -15,4 +15,4 @@ XML         0 secs         ░░░░░░░░░░░░░░░░░�
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/17/2023
+9/18/2023
