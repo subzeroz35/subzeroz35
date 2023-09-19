@@ -1,18 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**I certainly don't want a child of mine to be famous, or anyone I was very close to who isn't yet... It's the worst thing to be trapped in your house not be able to leave.**_
+_**I wasn't always a writer. When I went to college and majored in fine arts, I was a painter. Then I was a stay-at-home mom.**_
 
-Elizabeth Hurley
+Janet Evanovich
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 57 mins  ████████████████████▌  97.6%
-Bash        6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-JSON        5 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  5 hrs 9 mins   ████████████████████▋  98.7%
+JSON        2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
 
-9/18/2023
+9/19/2023
