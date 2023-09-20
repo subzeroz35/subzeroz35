@@ -1,15 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**I wasn't always a writer. When I went to college and majored in fine arts, I was a painter. Then I was a stay-at-home mom.**_
+_**Women, as they grow older, rely more and more on cosmetics. Men, as they grow older, rely more and more on a sense of humor.**_
 
-Janet Evanovich
+George Jean Nathan
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 9 mins   ████████████████████▋  98.7%
-JSON        2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
+<pre>TypeScript  3 hrs 54 mins  ████████████████████▋  98.7%
+TSConfig    2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/19/2023
+9/20/2023
