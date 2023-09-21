@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Women, as they grow older, rely more and more on cosmetics. Men, as they grow older, rely more and more on a sense of humor.**_
+_**We must always remember that America is a great nation today not because of what government did for people but because of what people did for themselves and for one another.**_
 
-George Jean Nathan
+Richard M. Nixon
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 54 mins  ████████████████████▋  98.7%
-TSConfig    2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+<pre>TypeScript  3 hrs 51 mins  ████████████████████▋  98.7%
+TSConfig    2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/20/2023
+9/21/2023
