@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I want to be able to look back and say, 'I've done everything I can, and I was successful.' I don't want to look back and say I should have done this or that. I'd like to change things for the younger generation of swimmers coming along.**_
+_**These are not dark days: these are great days - the greatest days our country has ever lived.**_
 
-Michael Phelps
+Winston Churchill
 
 
 
@@ -16,4 +16,4 @@ MySQL       2 mins         ▏░░░░░░░░░░░░░░░░�
 TSConfig    2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/24/2023
+9/25/2023
