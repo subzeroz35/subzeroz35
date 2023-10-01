@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I've learned that life is very tricky business: Each person needs to find what they want to do in life and not be dissuaded when people question them.**_
+_**I was looking for something a lot heavier, yet melodic at the same time. Something different from heavy metal, a different attitude.**_
 
-Eli Wallach
+Kurt Cobain
 
 
 
@@ -17,4 +17,4 @@ MySQL       3 mins         ▏░░░░░░░░░░░░░░░░�
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/30/2023
+10/1/2023
