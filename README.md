@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I was looking for something a lot heavier, yet melodic at the same time. Something different from heavy metal, a different attitude.**_
+_**The exposed nature of life in the public square affects leaders' attitudes toward risk - and failure.**_
 
-Kurt Cobain
+Dee Dee Myers
 
 
 
@@ -17,4 +17,4 @@ MySQL       3 mins         ▏░░░░░░░░░░░░░░░░�
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/1/2023
+10/2/2023
