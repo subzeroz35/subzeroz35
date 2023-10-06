@@ -1,16 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Art is not a handicraft, it is the transmission of feeling the artist has experienced.**_
+_**I don't have a saviour or a royal family.**_
 
-Tolstoy, Leo
+John Malkovich
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 hrs 54 mins  ████████████████████░  95.4%
-JSON        19 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-GDScript3   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  5 hrs 33 mins  ████████████████████▌  98.0%
+JSON        6 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/5/2023
+10/6/2023
