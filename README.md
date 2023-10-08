@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Unknown**_
+_**Other famous men, those of much talk and few deeds, soon evaporate. Action is the dignity of greatness.**_
 
-Unknown
+Jose Marti
 
 
 
@@ -13,4 +13,4 @@ JSON        15 mins        █▏░░░░░░░░░░░░░░░�
 Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/7/2023
+10/8/2023
