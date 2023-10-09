@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Other famous men, those of much talk and few deeds, soon evaporate. Action is the dignity of greatness.**_
+_**Your actions, and your action alone, determines your worth.**_
 
-Jose Marti
+Evelyn Waugh
 
 
 
@@ -13,4 +13,4 @@ JSON        15 mins        █▏░░░░░░░░░░░░░░░�
 Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/8/2023
+10/9/2023
