@@ -1,18 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**Marriage is like paying an endless visit in your worst clothes.**_
+_**It's simple: You get a part. You play a part. You play it well. You do your work and you go home. And what is wonderful about movies is that once they're done, they belong to the people. Once you make it, it's what they see. That's where my head is at.**_
 
-J. B. Priestley
+Denzel Washington
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 50 mins  ████████████████████░  95.7%
-JSON        15 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>TypeScript  6 hrs 56 mins  ███████████████████▊░  94.5%
+JSON        15 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.6%
+Bash        8 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/11/2023
+10/12/2023
