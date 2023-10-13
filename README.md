@@ -1,19 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**It's simple: You get a part. You play a part. You play it well. You do your work and you go home. And what is wonderful about movies is that once they're done, they belong to the people. Once you make it, it's what they see. That's where my head is at.**_
+_**Guys want a 500 horsepower car. I'd rather have one horsepower - in a horse. That's macho. You go to pick up your date and you show up on a horse.**_
 
-Denzel Washington
+Bryan Callen
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 hrs 56 mins  ███████████████████▊░  94.5%
-JSON        15 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.6%
-Bash        8 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+<pre>TypeScript  4 hrs 42 mins  ███████████████████▊░  94.2%
+JSON        9 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Bash        8 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/12/2023
+10/13/2023
