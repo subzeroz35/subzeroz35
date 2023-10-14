@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**Guys want a 500 horsepower car. I'd rather have one horsepower - in a horse. That's macho. You go to pick up your date and you show up on a horse.**_
+_**Education then, beyond all other devices of human origin, is the great equalizer of the conditions of men, the balance-wheel of the social machinery.**_
 
-Bryan Callen
+Horace Mann
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 42 mins  ███████████████████▊░  94.2%
-JSON        9 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.0%
-Bash        8 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+<pre>TypeScript  7 hrs 4 mins   ████████████████████▎  96.8%
+Bash        8 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+JSON        5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/13/2023
+10/14/2023
