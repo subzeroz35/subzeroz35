@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**When I started learning the cello, I fell in love with the instrument because it seemed like a voice - my voice.**_
+_**There are many countries where you can only believe more or you can believe less. But in the United States we have this incredible smorgasbord, and it really interests me why people are drawn to one faith rather than another, especially to a system of belief that to an outsider seems absurd or dangerous.**_
 
-Mstislav Rostropovich
+Lawrence Wright
 
 
 
@@ -18,4 +18,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/21/2023
+10/22/2023
