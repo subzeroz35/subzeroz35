@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There are many countries where you can only believe more or you can believe less. But in the United States we have this incredible smorgasbord, and it really interests me why people are drawn to one faith rather than another, especially to a system of belief that to an outsider seems absurd or dangerous.**_
+_**I just go about my life. I'm a mom, I drive an SUV, I go to the grocery store every day. I'm definitely not a celebrity. I always say that I'm a celebrity-adjacent.**_
 
-Lawrence Wright
+Diablo Cody
 
 
 
@@ -18,4 +18,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/22/2023
+10/23/2023
