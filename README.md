@@ -1,19 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**I have never yet met a healthy person who worried very much about his health, or a really good person who worried much about his own soul.**_
+_**Whether you be man or woman you will never do anything in this world without courage. It is the greatest quality of the mind next to honor.**_
 
-John B. S. Haldane
+James Lane Allen
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  1 hr 44 mins   █████████████▉░░░░░░░  66.6%
-Assembly    30 mins        ████░░░░░░░░░░░░░░░░░  19.3%
-JSON        21 mins        ██▊░░░░░░░░░░░░░░░░░░  13.5%
-MySQL       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>TypeScript  3 hrs 8 mins   ███████████████████▌░  93.0%
+JSON        13 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ezhil       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/25/2023
+10/26/2023
