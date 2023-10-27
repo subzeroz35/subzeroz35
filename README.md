@@ -1,18 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**Whether you be man or woman you will never do anything in this world without courage. It is the greatest quality of the mind next to honor.**_
+_**I want people to think of me as a nice person. I really am so blessed. All of this has been a great experience and I thank the American public so much for putting me in this position. I appreciate every second of it.**_
 
-James Lane Allen
+Carrie Underwood
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 8 mins   ███████████████████▌░  93.0%
-JSON        13 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Ezhil       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  1 hr 41 mins   ████████████████████▎  96.7%
+Bash        3 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Ezhil       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/26/2023
+10/27/2023
