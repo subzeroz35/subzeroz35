@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I gave in, and admitted that God was God.**_
+_**I like that band Get Hustle. They're cool live. I haven't heard their records, though.**_
 
-C. S. Lewis
+Stephen Malkmus
 
 
 
@@ -16,4 +16,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Ezhil       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/28/2023
+10/29/2023
