@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I like that band Get Hustle. They're cool live. I haven't heard their records, though.**_
+_**Flowers... are a proud assertion that a ray of beauty outvalues all the utilities of the world.**_
 
-Stephen Malkmus
+Ralph Waldo Emerson
 
 
 
@@ -16,4 +16,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Ezhil       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/29/2023
+10/30/2023
