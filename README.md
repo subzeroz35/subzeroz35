@@ -1,19 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**Wave after wave of love flooded the stage and washed over me, the beginning of the one great durable romance of my life.**_
+_**The problem of the world today is the people talk on and on about democracy, freedom, justice. But I don't give a damn about democracy if I am worried about survival.**_
 
-Bette Davis
+Imelda Marcos
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  1 hr 46 mins   ████████████████████▎  96.9%
-Bash        3 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+<pre>TypeScript  1 hr 55 mins   ████████████████████▍  97.1%
+Bash        3 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.7%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Assembly    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/31/2023
+11/1/2023
