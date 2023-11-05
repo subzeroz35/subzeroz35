@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Filipinos want beauty. I have to look beautiful so that the poor Filipinos will have a star to look at from their slums.**_
+_**Courage is the art of being the only one who knows you're scared to death.**_
 
-Imelda Marcos
+Earl Wilson
 
 
 
@@ -15,4 +15,4 @@ JSON        3 mins         ▏░░░░░░░░░░░░░░░░�
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/4/2023
+11/5/2023
