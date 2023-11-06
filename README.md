@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Courage is the art of being the only one who knows you're scared to death.**_
+_**I don't want to tell President Obama how to make a speech. He's a much better speech maker than I am. But I think always to tell the truth in a sometimes blatant way, even though it might be temporarily unpopular, is the best approach.**_
 
-Earl Wilson
+Jimmy Carter
 
 
 
@@ -15,4 +15,4 @@ JSON        3 mins         ▏░░░░░░░░░░░░░░░░�
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/5/2023
+11/6/2023
