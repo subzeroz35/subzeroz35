@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I don't want to tell President Obama how to make a speech. He's a much better speech maker than I am. But I think always to tell the truth in a sometimes blatant way, even though it might be temporarily unpopular, is the best approach.**_
+_**What seems to be generosity is often no more than disguised ambition, which overlooks a small interest in order to secure a great one.**_
 
-Jimmy Carter
+Francois de La Rochefoucauld
 
 
 
@@ -15,4 +15,4 @@ JSON        3 mins         ▏░░░░░░░░░░░░░░░░�
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/6/2023
+11/7/2023
