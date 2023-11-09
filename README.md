@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**The Feminist Me says that a woman's right to her own body should be inviolate at all times, free from fear of peeping paps.**_
+_**I am opposed to the use of public funds for private education.**_
 
-Julie Burchill
+Jonathan Kozol
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 33 mins  ███████████████████▉░  95.1%
-Other       12 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-JavaScript  9 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+<pre>TypeScript  8 hrs 17 mins  ███████████████████▉░  95.0%
+Other       12 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+JavaScript  9 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 JSON        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/8/2023
+11/9/2023
