@@ -1,15 +1,14 @@
 ## 😄 Daily Quotes 😄
 
-_**I was brought up in a car family, my dad loved cars and I was taught the art of making an Austin 7 operate.**_
+_**I'm very much into the costuming of any character that I portray and it's one of the great things about making movies is it's a collaborative art form so you get all these artists who are looking specifically about for this instance your character's costume and what that might tell about your character.**_
 
-Nick Mason
+Jeff Bridges
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 hrs 49 mins  ████████████████████▎  96.9%
-Other       12 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  3 hrs 40 mins  ████████████████████▉ 100.0%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-11/11/2023
+11/12/2023
