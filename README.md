@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I'm very much into the costuming of any character that I portray and it's one of the great things about making movies is it's a collaborative art form so you get all these artists who are looking specifically about for this instance your character's costume and what that might tell about your character.**_
+_**I actually was class clown, but I don't know how that happened because I've never been considered an outwardly funny person.**_
 
-Jeff Bridges
+Janeane Garofalo
 
 
 
@@ -11,4 +11,4 @@ Jeff Bridges
 <pre>TypeScript  3 hrs 40 mins  ████████████████████▉ 100.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-11/12/2023
+11/13/2023
