@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I actually was class clown, but I don't know how that happened because I've never been considered an outwardly funny person.**_
+_**The excitement of learning separates youth from old age. As long as you're learning you're not old.**_
 
-Janeane Garofalo
+Rosalyn S. Yalow
 
 
 
@@ -11,4 +11,4 @@ Janeane Garofalo
 <pre>TypeScript  3 hrs 40 mins  ████████████████████▉ 100.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-11/13/2023
+11/14/2023
