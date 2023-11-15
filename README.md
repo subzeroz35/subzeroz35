@@ -1,14 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**The excitement of learning separates youth from old age. As long as you're learning you're not old.**_
+_**Bad humor is an evasion of reality good humor is an acceptance of it.**_
 
-Rosalyn S. Yalow
+Malcolm Muggeridge
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 40 mins  ████████████████████▉ 100.0%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  1 hr 46 mins   █████████████████████ 100.0%</pre>
 
-11/14/2023
+11/15/2023
