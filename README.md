@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Bad humor is an evasion of reality good humor is an acceptance of it.**_
+_**Men make history and not the other way around. In periods where there is no leadership, society stands still. Progress occurs when courageous, skillful leaders seize the opportunity to change things for the better.**_
 
-Malcolm Muggeridge
+Harry S. Truman
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  1 hr 46 mins   █████████████████████ 100.0%</pre>
+<pre>TypeScript  3 hrs 50 mins  █████████████████████ 100.0%</pre>
 
-11/15/2023
+11/16/2023
