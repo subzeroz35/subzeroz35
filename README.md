@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The spectacles of experience through them you will see clearly a second time.**_
+_**Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.**_
 
-Henrik Ibsen
+Washington Irving
 
 
 
@@ -12,4 +12,4 @@ Henrik Ibsen
 Other       2 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-11/17/2023
+11/18/2023
