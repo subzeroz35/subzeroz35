@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**One way or another, we all have to find what best fosters the flowering of our humanity in this contemporary life, and dedicate ourselves to that.**_
+_**Marriage, for a woman at least, hampers the two things that made life to me glorious - friendship and learning.**_
 
-Joseph Campbell
+Jane Harrison
 
 
 
@@ -16,4 +16,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/19/2023
+11/20/2023
