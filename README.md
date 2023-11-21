@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Marriage, for a woman at least, hampers the two things that made life to me glorious - friendship and learning.**_
+_**I should like to suggest to you that the cause of all the economic troubles is that we have an economic system which tries to maintain an equality of value between two things, which it would be better to recognise from the beginning as of unequal value.**_
 
-Jane Harrison
+Paul Dirac
 
 
 
@@ -16,4 +16,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/20/2023
+11/21/2023
