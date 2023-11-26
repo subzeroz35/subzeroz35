@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Good fellowship and friendship are lasting, rational and manly pleasures.**_
+_**It's never been my purpose to become an American icon, or more famous or richer.**_
 
-William Wycherley
+Juliette Binoche
 
 
 
@@ -16,4 +16,4 @@ CocoaPods   6 mins         ▎░░░░░░░░░░░░░░░░�
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/25/2023
+11/26/2023
