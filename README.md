@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**It's never been my purpose to become an American icon, or more famous or richer.**_
+_**They must often change, who would be constant in happiness or wisdom.**_
 
-Juliette Binoche
+Confucius
 
 
 
@@ -16,4 +16,4 @@ CocoaPods   6 mins         ▎░░░░░░░░░░░░░░░░�
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/26/2023
+11/27/2023
