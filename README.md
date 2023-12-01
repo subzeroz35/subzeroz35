@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**No foreigner has a place asking another people, another country, to change their constitution.**_
+_**More particularly, having a largely German-oriented education has made me very responsive to 19th-century German literature.**_
 
-Hamid Karzai
+John le Carre
 
 
 
@@ -17,4 +17,4 @@ TSConfig    0 secs         ░░░░░░░░░░░░░░░░░�
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/30/2023
+12/1/2023
