@@ -1,20 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**You have citizens who don't understand how government works and they're kind of soured on it. All they do is criticize. They have no idea that they can make things happen.**_
+_**My strengths as a businessman lie in the design and sale of women's shoes, and I have never been comfortable with complicated or technical legal or business documents.**_
 
-Sandra Day O'Connor
+Steve Madden
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 27 mins  ████████████████░░░░░  76.6%
-JSON        42 mins        ███▎░░░░░░░░░░░░░░░░░  15.6%
-JavaScript  9 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-CocoaPods   6 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-Bash        4 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  5 hrs 44 mins  ███████████████████░░  91.0%
+JSON        23 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
+JavaScript  9 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/2/2023
+12/3/2023
