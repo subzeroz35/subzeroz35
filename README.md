@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**My strengths as a businessman lie in the design and sale of women's shoes, and I have never been comfortable with complicated or technical legal or business documents.**_
+_**We may sooner be brought to love them that hate us, than them that love us more than we would have them do.**_
 
-Steve Madden
+Francois de La Rochefoucauld
 
 
 
@@ -17,4 +17,4 @@ XML         0 secs         ░░░░░░░░░░░░░░░░░�
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/3/2023
+12/4/2023
