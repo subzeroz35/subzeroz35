@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Being on Oprah? You realize that there are a couple of types of audience members. There are like the cult people in the audience who are just crying before she gets on. And then there are the people who are playing it cool. I definitely was somewhere in the middle.**_
+_**If somebody invented cigarettes today, the government would not legalize them.**_
 
-Genevieve Gorder
+Loni Anderson
 
 
 
@@ -20,4 +20,4 @@ Docker      0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/9/2023
+12/10/2023
