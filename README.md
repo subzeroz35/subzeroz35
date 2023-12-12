@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**In my family, we let our boys have a say in what veggie side they want for dinner that night. We list off a handful of options and get them excited about helping to plan the dinner menu. They're much more inclined to finish their plates when they've helped decide what goes on them.**_
+_**Find out how much God has given you and from it take what you need the remainder is needed by others.**_
 
-Cat Cora
+Saint Augustine
 
 
 
@@ -20,4 +20,4 @@ Docker      0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/11/2023
+12/12/2023
