@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Never eat while doing something else, because you won't get the satisfaction from your food and you'll be more likely to overeat.**_
+_**As the mother of two daughters, I have great respect for women. And I don't ever want to lose that.**_
 
-Bethenny Frankel
+Vera Wang
 
 
 
@@ -17,4 +17,4 @@ CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░�
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/16/2023
+12/17/2023
