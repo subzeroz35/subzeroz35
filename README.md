@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**As the mother of two daughters, I have great respect for women. And I don't ever want to lose that.**_
+_**Money often costs too much.**_
 
-Vera Wang
+Ralph Waldo Emerson
 
 
 
@@ -17,4 +17,4 @@ CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░�
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/17/2023
+12/18/2023
