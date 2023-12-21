@@ -1,20 +1,21 @@
 ## 😄 Daily Quotes 😄
 
-_**Most children - I know I did when I was a kid - fantasize another set of parents. Or fantasize no parents. They don't tell their real parents about that - you don't want to tell Mom and Dad. Kids lead a very private life. And I was a typical child, I think. I was a liar.**_
+_**Guard with jealous attention the public liberty. Suspect everyone who approaches that jewel. Unfortunately, nothing will preserve it but downright force. Whenever you give up that force, you are inevitably ruined.**_
 
-Maurice Sendak
+Patrick Henry
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  42 mins        ████████▎░░░░░░░░░░░░  39.3%
-XML         41 mins        ████████░░░░░░░░░░░░░  38.5%
-JSON        16 mins        ███▎░░░░░░░░░░░░░░░░░  15.7%
-Bash        6 mins         █▎░░░░░░░░░░░░░░░░░░░   6.0%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>Bash        2 hrs 58 mins  █████████████████▍░░░  82.8%
+TypeScript  20 mins        █▉░░░░░░░░░░░░░░░░░░░   9.4%
+JSON        9 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.6%
+Other       5 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+SSH Key     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/20/2023
+12/21/2023
