@@ -1,21 +1,21 @@
 ## 😄 Daily Quotes 😄
 
-_**Guard with jealous attention the public liberty. Suspect everyone who approaches that jewel. Unfortunately, nothing will preserve it but downright force. Whenever you give up that force, you are inevitably ruined.**_
+_**The sexes were made for each other, and only in the wise and loving union of the two is the fullness of health and duty and happiness to be expected.**_
 
-Patrick Henry
+William Hall
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Bash        2 hrs 58 mins  █████████████████▍░░░  82.8%
-TypeScript  20 mins        █▉░░░░░░░░░░░░░░░░░░░   9.4%
-JSON        9 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-Other       5 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.8%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>Bash        3 hrs          ███████████▋░░░░░░░░░  55.6%
+TypeScript  2 hrs 3 mins   ████████░░░░░░░░░░░░░  38.2%
+JSON        10 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Other       8 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 SSH Key     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/21/2023
+12/22/2023
