@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Love is trembling happiness.**_
+_**Photography takes an instant out of time, altering life by holding it still.**_
 
-Khalil Gibran
+Dorothea Lange
 
 
 
@@ -18,4 +18,4 @@ Java Properties 0 secs         ░░░░░░░░░░░░░░░░�
 SSH Key     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/23/2023
+12/24/2023
