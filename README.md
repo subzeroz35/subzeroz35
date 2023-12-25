@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Photography takes an instant out of time, altering life by holding it still.**_
+_**The game of basketball has been everything to me. My place of refuge, place I've always gone where I needed comfort and peace. It's been the site of intense pain and the most intense feelings of joy and satisfaction. It's a relationship that has evolved over time, given me the greatest respect and love for the game.**_
 
-Dorothea Lange
+Michael Jordan
 
 
 
@@ -18,4 +18,4 @@ Java Properties 0 secs         ░░░░░░░░░░░░░░░░�
 SSH Key     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/24/2023
+12/25/2023
