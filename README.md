@@ -1,21 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**A broad margin of leisure is as beautiful in a man's life as in a book. Haste makes waste, no less in life than in housekeeping. Keep the time, observe the hours of the universe, not of the cars.**_
+_**I used to wonder if it was God's plan that I should be alone for so much of my life. But I found peace. I found happiness within people and the world.**_
 
-Henry David Thoreau
+Lana Del Rey
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 20 mins  █████████████▏░░░░░░░  63.0%
-Bash        3 hrs 53 mins  ███████░░░░░░░░░░░░░░  33.3%
-JSON        15 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Other       8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>TypeScript  7 hrs 12 mins  █████████████████▋░░░  84.5%
+Bash        1 hr           ██▍░░░░░░░░░░░░░░░░░░  11.9%
+JSON        14 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Other       3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-SSH Key     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+SSH Key     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/27/2023
+12/28/2023
