@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I made a supreme effort not to do that thing that parents do, which is to bore people without children to death by going on and on about how funny their children are, so there's none of that hopefully.**_
+_**Everything has been figured out, except how to live.**_
 
-Jo Brand
+Jean-Paul Sartre
 
 
 
@@ -15,4 +15,4 @@ JSON        8 mins         ▍░░░░░░░░░░░░░░░░�
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/30/2023
+12/31/2023
