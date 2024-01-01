@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Everything has been figured out, except how to live.**_
+_**I am actually in poor health due to chronic fatigue and immune dysfunction syndrome, and my ability to work is greatly diminished right now, so I have to get better before I can start another big project.**_
 
-Jean-Paul Sartre
+Laura Hillenbrand
 
 
 
@@ -15,4 +15,4 @@ JSON        8 mins         ▍░░░░░░░░░░░░░░░░�
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/31/2023
+1/1/2024
