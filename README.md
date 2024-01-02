@@ -1,18 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**I am actually in poor health due to chronic fatigue and immune dysfunction syndrome, and my ability to work is greatly diminished right now, so I have to get better before I can start another big project.**_
+_**The Philippines is a terrible name, coming from Spain. Phillip II was the father of the inquisition, who I believe died of syphilis. It is my great regret that we didn't change the name of our country.**_
 
-Laura Hillenbrand
+Imelda Marcos
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 22 mins  █████████▍░░░░░░░░░░░  44.8%
-Python      2 hrs 44 mins  ███████▋░░░░░░░░░░░░░  36.4%
-Bash        1 hr 16 mins   ███▌░░░░░░░░░░░░░░░░░  16.9%
-JSON        8 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>Python      2 hrs 44 mins  ██████████████░░░░░░░  66.7%
+TypeScript  43 mins        ███▋░░░░░░░░░░░░░░░░░  17.6%
+Bash        30 mins        ██▋░░░░░░░░░░░░░░░░░░  12.5%
+JSON        7 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-1/1/2024
+1/2/2024
