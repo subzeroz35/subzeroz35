@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**One can always come up with funny lists and jokes. You know what? I take it back. Not everyone can always come up with funny lists and some jokes. I'm very lucky to have a gift where I can do that pretty ably.**_
+_**The greatest pleasure of life is love.**_
 
-John Hodgman
+Euripides
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Python      6 hrs 47 mins  ████████████████▊░░░░  79.8%
-Bash        47 mins        █▉░░░░░░░░░░░░░░░░░░░   9.4%
-TypeScript  43 mins        █▊░░░░░░░░░░░░░░░░░░░   8.5%
-JSON        11 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+<pre>Python      6 hrs 49 mins  █████████████████░░░░  81.0%
+Bash        47 mins        █▉░░░░░░░░░░░░░░░░░░░   9.5%
+TypeScript  39 mins        █▋░░░░░░░░░░░░░░░░░░░   7.9%
+JSON        7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/4/2024
+1/5/2024
