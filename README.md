@@ -1,18 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**The greatest pleasure of life is love.**_
+_**Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again.**_
 
-Euripides
+W. Clement Stone
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Python      6 hrs 49 mins  █████████████████░░░░  81.0%
-Bash        47 mins        █▉░░░░░░░░░░░░░░░░░░░   9.5%
-TypeScript  39 mins        █▋░░░░░░░░░░░░░░░░░░░   7.9%
-JSON        7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>Python      4 hrs 57 mins  ███████████████████▌░  93.3%
+Bash        17 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+JSON        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/5/2024
+1/6/2024
