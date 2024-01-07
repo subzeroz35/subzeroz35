@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again.**_
+_**The aim of every artist is to arrest motion, which is life, by artificial means and hold it fixed so that a hundred years later, when a stranger looks at it, it moves again since it is life.**_
 
-W. Clement Stone
+Faulkner, William
 
 
 
@@ -14,4 +14,4 @@ JSON        3 mins         ▏░░░░░░░░░░░░░░░░�
 SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/6/2024
+1/7/2024
