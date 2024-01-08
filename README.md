@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The aim of every artist is to arrest motion, which is life, by artificial means and hold it fixed so that a hundred years later, when a stranger looks at it, it moves again since it is life.**_
+_**The compulsion to do good is an innate American trait. Only North Americans seem to believe that they always should, may, and actually can choose somebody with whom to share their blessings. Ultimately this attitude leads to bombing people into the acceptance of gifts.**_
 
-Faulkner, William
+Ivan Illich
 
 
 
@@ -14,4 +14,4 @@ JSON        3 mins         ▏░░░░░░░░░░░░░░░░�
 SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/7/2024
+1/8/2024
