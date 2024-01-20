@@ -1,21 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**Not all is doom and gloom. We are beginning to understand the natural world and are gaining a reverence for life - all life.**_
+_**Ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science.**_
 
-Roger Tory Peterson
+Charles Darwin
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 11 mins  ██████████▎░░░░░░░░░░  48.8%
-Bash        3 hrs 34 mins  ███████░░░░░░░░░░░░░░  33.6%
-Python      1 hr 30 mins   ██▉░░░░░░░░░░░░░░░░░░  14.1%
-Other       11 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-Text        5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+<pre>TypeScript  5 hrs 11 mins  ██████████▍░░░░░░░░░░  50.0%
+Bash        3 hrs 43 mins  ███████▌░░░░░░░░░░░░░  35.9%
+Python      57 mins        █▉░░░░░░░░░░░░░░░░░░░   9.2%
+TOML        20 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Text        7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 JSON        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Markdown    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
-TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/19/2024
+1/20/2024
