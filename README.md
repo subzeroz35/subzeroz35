@@ -1,20 +1,22 @@
 ## 😄 Daily Quotes 😄
 
-_**Ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science.**_
+_**I think being a wealthy member of the establishment is the antithesis of cool. Being a countercultural revolutionary is cool. So to the extent that you've made a billion dollars, you've probably become uncool.**_
 
-Charles Darwin
+Sean Parker
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 11 mins  ██████████▍░░░░░░░░░░  50.0%
-Bash        3 hrs 43 mins  ███████▌░░░░░░░░░░░░░  35.9%
-Python      57 mins        █▉░░░░░░░░░░░░░░░░░░░   9.2%
-TOML        20 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
-Text        7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-JSON        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+<pre>TypeScript  5 hrs 11 mins  ████████████▉░░░░░░░░  61.5%
+Python      1 hr 21 mins   ███▎░░░░░░░░░░░░░░░░░  16.1%
+Bash        46 mins        █▉░░░░░░░░░░░░░░░░░░░   9.2%
+TOML        33 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Text        30 mins        █▏░░░░░░░░░░░░░░░░░░░   6.0%
+JSON        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+INI         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/20/2024
+1/21/2024
