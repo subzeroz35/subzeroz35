@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I'm very accepting with my age. It's like notches on your belt: experience, wisdom, and a different kind of beauty. There comes a day when you've become comfortable in your skin.**_
+_**Almost all quality improvement comes via simplification of design, manufacturing... layout, processes, and procedures.**_
 
-Zoe Saldana
+Tom Peters
 
 
 
@@ -22,4 +22,4 @@ CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░�
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/4/2024
+2/5/2024
