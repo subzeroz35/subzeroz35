@@ -1,15 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.**_
+_**Twice and thrice over, as they say, good is it to repeat and review what is good.**_
 
-Honore de Balzac
+Plato
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Bash        30 mins        ██████████████████▉░░  90.2%
-TypeScript  3 mins         ██░░░░░░░░░░░░░░░░░░░   9.7%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>Bash        30 mins        ████████████████████▋  98.6%
+TypeScript  0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-2/9/2024
+2/10/2024
