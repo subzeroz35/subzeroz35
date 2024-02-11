@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Twice and thrice over, as they say, good is it to repeat and review what is good.**_
+_**The most useful piece of learning for the uses of life is to unlearn what is untrue.**_
 
-Plato
+Antisthenes
 
 
 
@@ -12,4 +12,4 @@ Plato
 TypeScript  0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-2/10/2024
+2/11/2024
