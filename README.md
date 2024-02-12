@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The most useful piece of learning for the uses of life is to unlearn what is untrue.**_
+_**You can be in Tokyo or Alberta at four in the morning in your hotel and you can still practice if you feel like it. A trombone cannot do that at four in the morning.**_
 
-Antisthenes
+Toots Thielemans
 
 
 
@@ -12,4 +12,4 @@ Antisthenes
 TypeScript  0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-2/11/2024
+2/12/2024
