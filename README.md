@@ -1,13 +1,9 @@
 ## 😄 Daily Quotes 😄
 
-_**God grant me the courage not to give up what I think is right even though I think it is hopeless.**_
+_**My family really does come first. It always did and always will.**_
 
-Chester W. Nimitz
+Meryl Streep
 
 
 
-## 📊 Weekly development breakdown 📊
-
-<pre>Bash        29 mins        █████████████████████ 100.0%</pre>
-
-2/13/2024
+2/14/2024
