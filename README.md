@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Today, I will vote in support of the Marriage Protection Amendment. I shall do so because like President Bush, I strongly believe that marriage should be between a man and a woman.**_
+_**Before everything else, getting ready is the secret of success.**_
 
-Nick Lampson
+Ford, Henry
 
 
 
@@ -19,4 +19,4 @@ Ruby        4 mins         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/25/2024
+2/26/2024
