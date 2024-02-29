@@ -1,21 +1,21 @@
 ## 😄 Daily Quotes 😄
 
-_**There are a lot of obstacles in the way of our understanding animal intelligence - not the least being that we can't even agree whether nonhuman species are conscious. We accept that chimps and dolphins experience awareness we like to think dogs and cats do. But what about mice and newts? What about a fly? Is anything going on there at all?**_
+_**For 'So Cold the River,' I'm actually working on adapting the book with Scott Silver, who was just nominated for an Oscar for 'The Fighter,' and who also wrote '8 Mile,' which I think is a terrific screenplay. The chance to work with Scott is a tremendous pleasure and I'm learning a lot.**_
 
-Jeffrey Kluger
+Michael Koryta
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  3 hrs 1 min    ██████████▍░░░░░░░░░░  49.7%
-Other       49 mins        ██▊░░░░░░░░░░░░░░░░░░  13.6%
-Bash        44 mins        ██▌░░░░░░░░░░░░░░░░░░  12.3%
-JSON        41 mins        ██▍░░░░░░░░░░░░░░░░░░  11.3%
-XML         15 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
-JavaScript  14 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-TSConfig    12 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Ruby        4 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  3 hrs 23 mins  ████████▉░░░░░░░░░░░░  42.6%
+Bash        2 hrs 5 mins   █████▌░░░░░░░░░░░░░░░  26.2%
+JSON        51 mins        ██▎░░░░░░░░░░░░░░░░░░  10.9%
+Other       51 mins        ██▎░░░░░░░░░░░░░░░░░░  10.8%
+XML         15 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+JavaScript  10 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Diff        9 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+TSConfig    5 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Ruby        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%</pre>
 
-2/28/2024
+2/29/2024
