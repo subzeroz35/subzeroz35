@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Authenticity is the alignment of head, mouth, heart, and feet - thinking, saying, feeling, and doing the same thing - consistently. This builds trust, and followers love leaders they can trust.**_
+_**I've been looking at some video clips on YouTube of President Obama - then candidate Obama - going through Iowa making promises. The gap between his promises and his performance is the largest I've seen, well, since the Kardashian wedding and the promise of 'til death do we part.**_
 
-Lance Secretan
+Mitt Romney
 
 
 
@@ -15,8 +15,7 @@ Other       35 mins        █▊░░░░░░░░░░░░░░░�
 Diff        9 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 CocoaPods   6 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 TSConfig    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/2/2024
+3/3/2024
