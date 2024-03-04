@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I've been looking at some video clips on YouTube of President Obama - then candidate Obama - going through Iowa making promises. The gap between his promises and his performance is the largest I've seen, well, since the Kardashian wedding and the promise of 'til death do we part.**_
+_**From 1965 to 1967, my dad, Jack Gilligan, served in Congress and helped pass landmark laws like the Voting Rights Act.**_
 
-Mitt Romney
+Kathleen Sebelius
 
 
 
@@ -18,4 +18,4 @@ TSConfig    1 min          ░░░░░░░░░░░░░░░░░�
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/3/2024
+3/4/2024
