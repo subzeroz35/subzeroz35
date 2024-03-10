@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The attitude of insolent haughtiness is characteristic of the relationships Americans form with what is alien to them, with others.**_
+_**There is no pain so great as the memory of joy in present grief.**_
 
-Jose Saramago
+Aeschylus
 
 
 
@@ -23,4 +23,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/9/2024
+3/10/2024
