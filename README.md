@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There is no pain so great as the memory of joy in present grief.**_
+_**In itself, homosexuality is as limiting as heterosexuality: the ideal should be to be capable of loving a woman or a man either, a human being, without feeling fear, restraint, or obligation.**_
 
-Aeschylus
+Simone de Beauvoir
 
 
 
@@ -23,4 +23,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/10/2024
+3/11/2024
