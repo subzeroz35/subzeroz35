@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Love isn't something you find. Love is something that finds you.**_
+_**That's the way both they and I travel sometimes. Pick road at random, and when it's time to pull over, you pull over and hope you can find a place to crash.**_
 
-Loretta Young
+Jello Biafra
 
 
 
@@ -20,4 +20,4 @@ Groovy      0 secs         ░░░░░░░░░░░░░░░░░�
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/16/2024
+3/17/2024
