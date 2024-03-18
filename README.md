@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**That's the way both they and I travel sometimes. Pick road at random, and when it's time to pull over, you pull over and hope you can find a place to crash.**_
+_**Like almost everyone who uses e-mail, I receive a ton of spam every day. Much of it offers to help me get out of debt or get rich quick. It would be funny if it weren't so exciting.**_
 
-Jello Biafra
+Bill Gates
 
 
 
@@ -20,4 +20,4 @@ Groovy      0 secs         ░░░░░░░░░░░░░░░░░�
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/17/2024
+3/18/2024
