@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The hope of the nation which throughout the nineteenth century had not for a moment reconciled itself with the loss of independence, and fighting for its own freedom, fought at the same time for the freedom of other nations.**_
+_**And a special thank you to the citizens of Massachusetts: You are paying all the taxes, creating all the jobs, raising all the children. This government is yours. Thank you for letting me serve you. I love this job.**_
 
-Lech Walesa
+Mitt Romney
 
 
 
@@ -21,4 +21,4 @@ CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░�
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/23/2024
+3/24/2024
