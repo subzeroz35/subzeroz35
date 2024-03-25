@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**And a special thank you to the citizens of Massachusetts: You are paying all the taxes, creating all the jobs, raising all the children. This government is yours. Thank you for letting me serve you. I love this job.**_
+_**When I get a new script my mom will read them and just be aghast. I think it's hysterical.**_
 
-Mitt Romney
+Alia Shawkat
 
 
 
@@ -21,4 +21,4 @@ CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░�
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/24/2024
+3/25/2024
