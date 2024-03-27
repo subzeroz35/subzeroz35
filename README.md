@@ -1,24 +1,25 @@
 ## 😄 Daily Quotes 😄
 
-_**In the free/libre software movement, we develop software that respects users' freedom, so we and you can escape from software that doesn't.**_
+_**I've had two romances since moving to Las Vegas. One was with somebody 12 years older than me, and the other was the same age, and neither worked out. I know people still think of me as one of Hugh Hefner's girlfriends, and he of course was much older than me, but that was a whole different lifestyle and a different kind of dating.**_
 
-Richard Stallman
+Holly Madison
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  26 hrs 24 mins ███████████████████▍░  92.7%
-Image (svg) 43 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-CSV         29 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
-JSON        14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+<pre>TypeScript  26 hrs 18 mins ███████████████████▌░  93.2%
+Image (svg) 34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+CSV         20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+JSON        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+XML         14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 TSConfig    12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 Other       11 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-XML         8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 YAML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/26/2024
+3/27/2024
