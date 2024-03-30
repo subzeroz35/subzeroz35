@@ -1,22 +1,22 @@
 ## 😄 Daily Quotes 😄
 
-_**Imitation is being rewarded. They're learning that if you fit right in the mold, you get rewarded. Music is no longer a form of expression - it's a means to a lifestyle.**_
+_**Damien Hirst is the Elvis of the English art world, its ayatollah, deliverer, and big-thinking entrepreneurial potty-mouthed prophet and front man. Hirst synthesizes punk, Pop Art, Jeff Koons, Marcel Duchamp, Francis Bacon, and Catholicism.**_
 
-Mike Watt
+Jerry Saltz
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  23 hrs 57 mins ███████████████████▊░  94.6%
-Image (svg) 33 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-JSON        20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-CSV         13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+<pre>TypeScript  24 hrs 53 mins ███████████████████▋░  93.8%
+JSON        31 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Bash        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+JavaScript  12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 XML         12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Image (svg) 8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Other       8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+CSV         6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/29/2024
+3/30/2024
