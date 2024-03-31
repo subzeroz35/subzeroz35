@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Damien Hirst is the Elvis of the English art world, its ayatollah, deliverer, and big-thinking entrepreneurial potty-mouthed prophet and front man. Hirst synthesizes punk, Pop Art, Jeff Koons, Marcel Duchamp, Francis Bacon, and Catholicism.**_
+_**The road to freedom lies not through mysteries or occult performances, but through the intelligent use of natural forces and laws.**_
 
-Jerry Saltz
+;Paul Ryan"
 
 
 
@@ -19,4 +19,4 @@ CSV         6 mins         ░░░░░░░░░░░░░░░░░�
 Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/30/2024
+3/31/2024
