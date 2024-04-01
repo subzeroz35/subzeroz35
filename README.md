@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The road to freedom lies not through mysteries or occult performances, but through the intelligent use of natural forces and laws.**_
+_**Be obscure clearly.**_
 
-;Paul Ryan"
+E. B. White
 
 
 
@@ -19,4 +19,4 @@ CSV         6 mins         ░░░░░░░░░░░░░░░░░�
 Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/31/2024
+4/1/2024
