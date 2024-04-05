@@ -1,21 +1,21 @@
 ## 😄 Daily Quotes 😄
 
-_**I actually was class clown, but I don't know how that happened because I've never been considered an outwardly funny person-as the people in this room will attest.**_
+_**When you're rich and famous you are the dominant force in a relationship, even if you try hard not to be. I've talked of sacrificing everything for Fleetwood Mac, but I realize now that it is simply the only thing I've ever wanted to do.**_
 
-Janeane Garofalo
+Stevie Nicks
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  27 hrs 55 mins ███████████████████▉░  94.7%
-JSON        35 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-Bash        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-JavaScript  13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Image (svg) 9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-CSV         9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Other       8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  30 hrs 35 mins ███████████████████▉░  94.7%
+JSON        39 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Bash        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+CSV         13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+JavaScript  13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Image (svg) 10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Other       8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 Java Properties 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/4/2024
+4/5/2024
