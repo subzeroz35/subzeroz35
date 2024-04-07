@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Nixon was the most dishonest individual I have ever met in my life. He lied to his wife, his family, his friends, his colleagues in the Congress, lifetime members of his own political party, the American people and the world.**_
+_**When I was a kid I didn't feel like I fit in because - this is really silly and I probably shouldn't say it, but, I didn't think anything was funny. So I used to go home and literally cry to my mom and my step-dad at the time and I didn't think anything was funny. I couldn't laugh.**_
 
-Barry Goldwater
+Courteney Cox
 
 
 
@@ -17,4 +17,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/6/2024
+4/7/2024
