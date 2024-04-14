@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The Supreme Court has ruled that they cannot have a nativity scene in Washington, D.C. This wasn't for any religious reasons. They couldn't find three wise men and a virgin.**_
+_**In France, everyone speaks French 'cause they think it's cool. Gives 'em, gives 'em an excuse to smoke.**_
 
-Jay Leno
+Scott Thompson
 
 
 
@@ -28,4 +28,4 @@ Java Properties 0 secs         ░░░░░░░░░░░░░░░░�
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/13/2024
+4/14/2024
