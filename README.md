@@ -1,19 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**Were I called on to define, very briefly, the term Art, I should call it 'the reproduction of what the Senses perceive in Nature through the veil of the soul.' The mere imitation, however accurate, of what is in Nature, entitles no man to the sacred name of 'Artist.'**_
+_**I have never killed a man, but I have read many obituaries with great pleasure.**_
 
-Edgar Allan Poe
+Clarence Darrow
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  25 hrs 12 mins █████████████████▋░░░  84.4%
-JavaScript  1 hr 24 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+<pre>TypeScript  24 hrs 36 mins █████████████████▌░░░  83.5%
+JavaScript  2 hrs 5 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
 XML         1 hr 11 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-CSV         33 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-JSON        28 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Other       23 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+CSV         24 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Other       19 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+JSON        13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 Objective-C++ 13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 CocoaPods   12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 Groovy      4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
@@ -28,4 +28,4 @@ Java Properties 0 secs         ░░░░░░░░░░░░░░░░�
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/15/2024
+4/16/2024
