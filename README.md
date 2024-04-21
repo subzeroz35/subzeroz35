@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Beauty is indeed a good gift of God but that the good may not think it a great good, God dispenses it even to the wicked.**_
+_**The pattern of a newspaperman's life is like the plot of 'Black Beauty.' Sometimes he finds a kind master who gives him a dry stall and an occasional bran mash in the form of a Christmas bonus, sometimes he falls into the hands of a mean owner who drives him in spite of spavins and expects him to live on potato peelings.**_
 
-Saint Augustine
+A. J. Liebling
 
 
 
@@ -17,4 +17,4 @@ Other       0 secs         ░░░░░░░░░░░░░░░░░�
 Objective-C++ 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/20/2024
+4/21/2024
