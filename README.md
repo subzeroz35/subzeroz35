@@ -1,20 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**We're reclaiming America and restoring honor. I believe we do that with faith, with hope, with charity, and honoring our brothers and our sisters as we honor each other.**_
+_**Imagination is always the fabric of social life and the dynamic of history. The influence of real needs and compulsions, of real interests and materials, is indirect because the crowd is never conscious of it.**_
 
-Alveda King
+Simone Weil
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  15 hrs 46 mins █████████████████▍░░░  82.8%
-XML         46 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-CSV         41 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-JSON        39 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-JavaScript  37 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Other       27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  17 hrs 29 mins █████████████████▉░░░  85.5%
+JSON        46 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+XML         46 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+JavaScript  38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Other       27 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+CSV         14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Git         4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%</pre>
 
-4/26/2024
+4/27/2024
