@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Imagination is always the fabric of social life and the dynamic of history. The influence of real needs and compulsions, of real interests and materials, is indirect because the crowd is never conscious of it.**_
+_**The best scientist is open to experience and begins with romance - the idea that anything is possible.**_
 
-Simone Weil
+Ray Bradbury
 
 
 
@@ -16,4 +16,4 @@ Other       27 mins        ▍░░░░░░░░░░░░░░░░�
 CSV         14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 Git         4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%</pre>
 
-4/27/2024
+4/28/2024
