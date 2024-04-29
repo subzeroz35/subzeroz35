@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The best scientist is open to experience and begins with romance - the idea that anything is possible.**_
+_**When I began to make some money, I really wanted to have a home.**_
 
-Ray Bradbury
+Paul Theroux
 
 
 
@@ -16,4 +16,4 @@ Other       27 mins        ▍░░░░░░░░░░░░░░░░�
 CSV         14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 Git         4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%</pre>
 
-4/28/2024
+4/29/2024
