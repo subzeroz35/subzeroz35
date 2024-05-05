@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**As a child, the family that I had and the love I had from my two parents allowed me to go ahead and be more aggressive, to search and to take risks knowing that, if I failed, I could always come home to a family of love and support.**_
+_**The New York art world readily proves people wrong. Just when folks say that things stink and flibbertigibbet critics wish the worst on us all because we're not pure enough, good omens appear.**_
 
-Tiger Woods
+Jerry Saltz
 
 
 
@@ -18,4 +18,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-5/4/2024
+5/5/2024
