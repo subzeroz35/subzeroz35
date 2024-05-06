@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The New York art world readily proves people wrong. Just when folks say that things stink and flibbertigibbet critics wish the worst on us all because we're not pure enough, good omens appear.**_
+_**To you I'm an atheist to God, I'm the Loyal Opposition.**_
 
-Jerry Saltz
+Woody Allen
 
 
 
@@ -18,4 +18,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-5/5/2024
+5/6/2024
