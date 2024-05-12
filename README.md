@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**My parents had an old-fashioned ideal of college, that four years at a liberal arts college should be a liberal arts education.**_
+_**To deal with the stark reality of having hit or hurt a woman or child, to deal with the initial responsibility you have not to do that and the knowledge you did do it, can be incredibly hard.**_
 
-Julie Bowen
+David Soul
 
 
 
@@ -17,4 +17,4 @@ Diff        4 mins         ░░░░░░░░░░░░░░░░░�
 Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Other       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-5/11/2024
+5/12/2024
