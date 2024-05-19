@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I have long said there are three distinct groups under the GOP's tent: theological warriors, who want to impose their social views on the rest of society Tea Party zealots, who say with a straight face that they want the government to get out of their Medicare and remnants of the pro-business moderates.**_
+_**Having federal officials, whether judges, bureaucrats, or congressmen, impose a new definition of marriage on the people is an act of social engineering profoundly hostile to liberty.**_
 
-Eliot Spitzer
+Ron Paul
 
 
 
@@ -16,4 +16,4 @@ Git         1 min          ░░░░░░░░░░░░░░░░░�
 Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-5/18/2024
+5/19/2024
