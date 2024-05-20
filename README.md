@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Having federal officials, whether judges, bureaucrats, or congressmen, impose a new definition of marriage on the people is an act of social engineering profoundly hostile to liberty.**_
+_**A paradigm shift, where, in addition to physical inputs for farming, a focused emphasis placed on knowledge inputs can be a promising way forward. This knowledge-based approach will bring immense returns, particularly in rain fed and dry land farming areas.**_
 
-Ron Paul
+Pratibha Patil
 
 
 
@@ -16,4 +16,4 @@ Git         1 min          ░░░░░░░░░░░░░░░░░�
 Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-5/19/2024
+5/20/2024
