@@ -1,19 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**A paradigm shift, where, in addition to physical inputs for farming, a focused emphasis placed on knowledge inputs can be a promising way forward. This knowledge-based approach will bring immense returns, particularly in rain fed and dry land farming areas.**_
+_**Baseball was, is and always will be to me the best game in the world.**_
 
-Pratibha Patil
+Babe Ruth
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 3 mins   ██████████████████▉░░  90.3%
-JavaScript  37 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
-CSV         10 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
-JSON        6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+<pre>TypeScript  8 hrs 29 mins  ██████████████████▉░░  90.5%
+JavaScript  32 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
+CSV         10 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+JSON        6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-5/20/2024
+5/21/2024
