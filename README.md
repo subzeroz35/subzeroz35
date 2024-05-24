@@ -1,18 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**What is past is past, there is a future left to all men, who have the virtue to repent and the energy to atone.**_
+_**I'm receiving 300 to 500 letters every week from people telling me that God used my stories to save their marriage or to introduce them to Christ or to heal a relationship that had been broken.**_
 
-Edward G. Bulwer-Lytton
+Karen Kingsbury
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 27 mins  ███████████████████▍░  92.8%
-JavaScript  24 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-CSV         9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-JSON        6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+<pre>TypeScript  8 hrs 17 mins  ███████████████████▏░  91.3%
+JavaScript  31 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
+JSON        8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+CSV         5 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
 
-5/23/2024
+5/24/2024
