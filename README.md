@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I am totally against the idea that a Muslim woman should not have the same opportunities as a Muslim man to learn, to open up, to work, help shape the future. To close Islam down to a sexist approach is totally intolerable and ridiculous. It's not Islam.**_
+_**Stuff about me dating Kim Kardashian - I have no idea where that came from and all these other rumors. I don't think I'm that type.**_
 
-King Hussein I
+Jeremy Lin
 
 
 
@@ -14,4 +14,4 @@ CSV         15 mins        ▍░░░░░░░░░░░░░░░░�
 JSON        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-5/25/2024
+5/26/2024
