@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Stuff about me dating Kim Kardashian - I have no idea where that came from and all these other rumors. I don't think I'm that type.**_
+_**I want to encourage everyone to be proactive with their health and get checked out.**_
 
-Jeremy Lin
+Giuliana Rancic
 
 
 
@@ -14,4 +14,4 @@ CSV         15 mins        ▍░░░░░░░░░░░░░░░░�
 JSON        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-5/26/2024
+5/27/2024
