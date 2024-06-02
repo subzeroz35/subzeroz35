@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**For science must breathe the oxygen of freedom.**_
+_**Politics is just like show business. You have a hell of an opening, coast for a while, and then have a hell of a close.**_
 
-John Charles Polanyi
+Ronald Reagan
 
 
 
@@ -13,4 +13,4 @@ JavaScript  41 mins        █▍░░░░░░░░░░░░░░░�
 XML         17 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-6/1/2024
+6/2/2024
