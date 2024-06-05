@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**Gun crime is a major cause of fear and distress throughout the UK. The problem is deeply entrenched in a wide range of social and cultural factors and therefore not an isolated issue.**_
+_**You will find as you grow older that courage is the rarest of all qualities to be found in public life.**_
 
-Diane Abbott
+Benjamin Disraeli
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  12 hrs 41 mins ██████████████████▋░░  89.2%
-JavaScript  53 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
-JSON        18 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-XML         17 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-CSV         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  18 hrs 58 mins ███████████████████▍░  92.5%
+JavaScript  53 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+JSON        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+XML         17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+CSV         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/4/2024
+6/5/2024
