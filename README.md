@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**You will find as you grow older that courage is the rarest of all qualities to be found in public life.**_
+_**With guys I revere, like Marcus Garvey or Malcolm X, their look is less about style than purpose and the expression of beauty. It wasn't just about being noticed, you know?**_
 
-Benjamin Disraeli
+Mos Def
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  18 hrs 58 mins ███████████████████▍░  92.5%
-JavaScript  53 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
-JSON        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-XML         17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-CSV         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>TypeScript  19 hrs 53 mins ██████████████████▎░░  87.2%
+JavaScript  1 hr 46 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
+JSON        38 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+CSV         16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Other       12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/5/2024
+6/6/2024
