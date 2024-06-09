@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The openness of rural Nebraska certainly influenced me. That openness, in a way, fosters the imagination. But growing up, Lincoln wasn't a small town. It was a college town. It had record stores and was a liberal place.**_
+_**Art is moral passion married to entertainment. Moral passion without entertainment is propaganda, and entertainment without moral passion is television.**_
 
-Matthew Sweet
+Rita Mae Brown
 
 
 
@@ -17,4 +17,4 @@ Image (svg) 6 mins         ░░░░░░░░░░░░░░░░░�
 Git         4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/8/2024
+6/9/2024
