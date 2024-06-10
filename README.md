@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Art is moral passion married to entertainment. Moral passion without entertainment is propaganda, and entertainment without moral passion is television.**_
+_**I was always on the go, and thought I was too busy to develop something like this. I thought at the time that diabetes went along with bad habits, but I was the last one in my family to eat junk food.**_
 
-Rita Mae Brown
+Angie Stone
 
 
 
@@ -17,4 +17,4 @@ Image (svg) 6 mins         ░░░░░░░░░░░░░░░░░�
 Git         4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/9/2024
+6/10/2024
