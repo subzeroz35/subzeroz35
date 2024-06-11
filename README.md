@@ -1,20 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**I was always on the go, and thought I was too busy to develop something like this. I thought at the time that diabetes went along with bad habits, but I was the last one in my family to eat junk food.**_
+_**While President Bush likes to project an image of strength and courage, the real truth is that in the presence of his large financial contributors, he is a moral coward.**_
 
-Angie Stone
+Al Gore
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  22 hrs 6 mins  ██████████████████▎░░  87.3%
-JavaScript  1 hr 12 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.8%
-JSON        1 hr 12 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.7%
-CSV         19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Other       19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+<pre>TypeScript  24 hrs 19 mins ██████████████████▋░░  89.1%
+JavaScript  1 hr 4 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+JSON        56 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+CSV         28 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Other       19 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 Image (svg) 6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Git         4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/10/2024
+6/11/2024
