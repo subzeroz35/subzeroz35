@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**We have a new generation of very rich people who want to do more with their money than buy a lot of expensive toys. They want to live meaningful lives.**_
+_**Men who want to support women in our struggle for freedom and justice should understand that it is not terrifically important to us that they learn to cry it is important to us that they stop the crimes of violence against us.**_
 
-Peter Singer
+Andrea Dworkin
 
 
 
@@ -17,4 +17,4 @@ Other       0 secs         ░░░░░░░░░░░░░░░░░�
 SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/15/2024
+6/16/2024
