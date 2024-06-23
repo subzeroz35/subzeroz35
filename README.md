@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Men are so necessarily mad, that not to be mad would amount to another form of madness.**_
+_**I think that as soon as you think of yourself as a famous person or anything like that, you're objectifying yourself in some weird way.**_
 
-Blaise Pascal
+Ethan Hawke
 
 
 
@@ -20,4 +20,4 @@ CSV         4 mins         ░░░░░░░░░░░░░░░░░�
 CocoaPods   3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/22/2024
+6/23/2024
