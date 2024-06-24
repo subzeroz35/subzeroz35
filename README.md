@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I think that as soon as you think of yourself as a famous person or anything like that, you're objectifying yourself in some weird way.**_
+_**No one who set out to design a form of communication would ever end up with anything like English, Mandarin, or any of the more than six thousand languages spoken today.**_
 
-Ethan Hawke
+Joshua Foer
 
 
 
@@ -20,4 +20,4 @@ CSV         4 mins         ░░░░░░░░░░░░░░░░░�
 CocoaPods   3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/23/2024
+6/24/2024
