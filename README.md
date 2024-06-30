@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Massachusetts children cannot only lead the nation in test scores, they can be competitive with the best in the world. And the gap in achievement among races can virtually disappear.**_
+_**Thus, the struggle for peace includes the struggle for freedom and justice for the masses of all countries.**_
 
-Mitt Romney
+Arthur Henderson
 
 
 
@@ -21,4 +21,4 @@ XML         0 secs         ░░░░░░░░░░░░░░░░░�
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/29/2024
+6/30/2024
