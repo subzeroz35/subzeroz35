@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I don't know if the average person really has faith in Washington anymore.**_
+_**The vain beauty cares most for the conquest which employed the whole artillery of her charms. **_
 
-Tori Amos
+Garrett, Edward
 
 
 
@@ -16,4 +16,4 @@ CSV         1 min          ░░░░░░░░░░░░░░░░░�
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-7/7/2024
+7/8/2024
