@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I love seeing my family.**_
+_**It's a great excuse and luxury, having a job and blaming it for your inability to do your own art. When you don't have to work, you are left with the horror of facing your own lack of imagination and your own emptiness. A devastating possibility when finally time is your own.**_
 
-Mia Wasikowska
+Julian Schnabel
 
 
 
@@ -24,4 +24,4 @@ Java Properties 0 secs         ░░░░░░░░░░░░░░░░�
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/14/2024
+7/15/2024
