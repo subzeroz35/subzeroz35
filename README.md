@@ -1,19 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**I have not lost faith in God. I have moments of anger and protest. Sometimes I've been closer to him for that reason.**_
+_**Poverty is multidimensional. It extends beyond money incomes to education, health care, political participation and advancement of one's own culture and social organisation.**_
 
-Elie Wiesel
+Atal Bihari Vajpayee
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  14 hrs 20 mins ██████████████████▎░░  87.3%
-CSV         46 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
-JavaScript  37 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-JSON        25 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Other       11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+<pre>TypeScript  18 hrs 37 mins ██████████████████▋░░  89.1%
+CSV         56 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+JavaScript  38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+JSON        25 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Other       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Diff        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-7/18/2024
+7/19/2024
