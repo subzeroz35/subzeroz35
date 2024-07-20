@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Poverty is multidimensional. It extends beyond money incomes to education, health care, political participation and advancement of one's own culture and social organisation.**_
+_**My desire is to be a forgiving, non-judgmental person.**_
 
-Atal Bihari Vajpayee
+Janine Turner
 
 
 
@@ -17,4 +17,4 @@ Diff        4 mins         ░░░░░░░░░░░░░░░░░�
 Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-7/19/2024
+7/20/2024
