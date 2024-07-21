@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**My desire is to be a forgiving, non-judgmental person.**_
+_**Lying in bed would be an altogether perfect and supreme experience if only one had a colored pencil long enough to draw on the ceiling.**_
 
-Janine Turner
+Gilbert K. Chesterton
 
 
 
@@ -17,4 +17,4 @@ Diff        4 mins         ░░░░░░░░░░░░░░░░░�
 Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-7/20/2024
+7/21/2024
