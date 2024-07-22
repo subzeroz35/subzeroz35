@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Lying in bed would be an altogether perfect and supreme experience if only one had a colored pencil long enough to draw on the ceiling.**_
+_**The desire to write grows with writing.**_
 
-Gilbert K. Chesterton
+Desiderius Erasmus
 
 
 
@@ -17,4 +17,4 @@ Diff        4 mins         ░░░░░░░░░░░░░░░░░�
 Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-7/21/2024
+7/22/2024
