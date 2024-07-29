@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I'd get kicked out of buildings all day long, people would rip up my business card in my face. It's a humbling business to be in. But I knew I could sell and I knew I wanted to sell something I had created. I cut the feet out of those pantyhose and I knew I was on to something. This was it.**_
+_**My health and my family are the core of my being.**_
 
-Sara Blakely
+Jon Bon Jovi
 
 
 
@@ -20,4 +20,4 @@ Git Config  2 mins         ░░░░░░░░░░░░░░░░░�
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/28/2024
+7/29/2024
