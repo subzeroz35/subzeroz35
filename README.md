@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There never was any heart truly great and generous, that was not also tender and compassionate.**_
+_**When I was younger I used to pick things just to face the fear.**_
 
-Robert Frost
+Vincent D'Onofrio
 
 
 
@@ -20,4 +20,4 @@ XML         0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/3/2024
+8/4/2024
