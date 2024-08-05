@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**When I was younger I used to pick things just to face the fear.**_
+_**The art of being wise is the art of knowing what to overlook.**_
 
-Vincent D'Onofrio
+William James
 
 
 
@@ -20,4 +20,4 @@ XML         0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/4/2024
+8/5/2024
