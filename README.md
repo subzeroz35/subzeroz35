@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I tried to use words that were dealing with the emotional quality that any human being could recognize in the way that they felt about their country. It's to do with the world we live in. That world is a brutal one and full of war. It's also full of many wonderful things and love and hope.**_
+_**Marriage is an institution, and you must be fully committed to it.**_
 
-P. J. Harvey
+Gene Simmons
 
 
 
@@ -25,4 +25,4 @@ CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/11/2024
+8/12/2024
