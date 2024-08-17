@@ -1,22 +1,22 @@
 ## 😄 Daily Quotes 😄
 
-_**By doing something positive in this world, you're helping people and the future. We're all trying to help the world... make it a better place to live. We're actually still changing the world, aren't we?**_
+_**In almost every profession - whether it's law or journalism, finance or medicine or academia or running a small business - people rely on confidential communications to do their jobs. We count on the space of trust that confidentiality provides. When someone breaches that trust, we are all worse off for it.**_
 
-Rick Danko
+Hillary Clinton
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 9 mins   ███████████████▉░░░░░  76.0%
-JavaScript  1 hr 50 mins   ███▌░░░░░░░░░░░░░░░░░  17.2%
-JSON        32 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
-Other       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-CSV         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  9 hrs 7 mins   ███████████████▌░░░░░  74.2%
+JavaScript  1 hr 25 mins   ██▍░░░░░░░░░░░░░░░░░░  11.6%
+YAML        52 mins        █▍░░░░░░░░░░░░░░░░░░░   7.1%
+JSON        40 mins        █▏░░░░░░░░░░░░░░░░░░░   5.5%
+Other       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+XML         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+CSV         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/16/2024
+8/17/2024
