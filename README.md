@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The cult of the individual is killing us. I think Twitter signals the death of western civilisation, but people have been saying that since Demosthenes.**_
+_**What's monotonous about being an actor and often makes me want to throw in the towel or drive a car off a bridge is the auditioning - the waiting around.**_
 
-Kate Atkinson
+Chris Messina
 
 
 
@@ -19,4 +19,4 @@ Java        0 secs         ░░░░░░░░░░░░░░░░░�
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/18/2024
+8/19/2024
