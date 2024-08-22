@@ -1,19 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**To use the same words is not a sufficient guarantee of understanding one must use the same words for the same genus of inward experience ultimately one must have one's experiences in common.**_
+_**I rememeber one time we were getting ready to go to South America and everything was packed up and in the car ready to go and I hid and I was crying because I really did not want to go, I wanted to play. I did not want to go.**_
 
-Friedrich Nietzsche
+Michael Jackson
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 31 mins  ███████████▋░░░░░░░░░  55.4%
-JavaScript  1 hr 53 mins   ██▉░░░░░░░░░░░░░░░░░░  13.9%
-JSON        1 hr 45 mins   ██▋░░░░░░░░░░░░░░░░░░  12.9%
-YAML        1 hr 27 mins   ██▏░░░░░░░░░░░░░░░░░░  10.7%
-Other       39 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
-CSV         11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+<pre>TypeScript  9 hrs 29 mins  ███████████▉░░░░░░░░░  57.0%
+JSON        2 hrs 8 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
+JavaScript  1 hr 59 mins   ██▌░░░░░░░░░░░░░░░░░░  11.9%
+YAML        1 hr 58 mins   ██▍░░░░░░░░░░░░░░░░░░  11.9%
+Other       40 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+CSV         12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Image (svg) 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Diff        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 XML         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Bash        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
@@ -25,4 +26,4 @@ Markdown    0 secs         ░░░░░░░░░░░░░░░░░�
 Kotlin      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/21/2024
+8/22/2024
