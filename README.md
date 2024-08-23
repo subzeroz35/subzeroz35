@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**I rememeber one time we were getting ready to go to South America and everything was packed up and in the car ready to go and I hid and I was crying because I really did not want to go, I wanted to play. I did not want to go.**_
+_**After all those years as a woman hearing 'not thin enough, not pretty enough, not smart enough, not this enough, not that enough,' almost overnight I woke up one morning and thought, 'I'm enough.'**_
 
-Michael Jackson
+Anna Quindlen
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 29 mins  ███████████▉░░░░░░░░░  57.0%
-JSON        2 hrs 8 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
-JavaScript  1 hr 59 mins   ██▌░░░░░░░░░░░░░░░░░░  11.9%
+<pre>TypeScript  9 hrs 28 mins  ███████████▉░░░░░░░░░  56.8%
+JSON        2 hrs 18 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
 YAML        1 hr 58 mins   ██▍░░░░░░░░░░░░░░░░░░  11.9%
-Other       40 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+JavaScript  1 hr 45 mins   ██▏░░░░░░░░░░░░░░░░░░  10.6%
+Other       45 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 CSV         12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 Image (svg) 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Diff        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
@@ -26,4 +26,4 @@ Markdown    0 secs         ░░░░░░░░░░░░░░░░░�
 Kotlin      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/22/2024
+8/23/2024
