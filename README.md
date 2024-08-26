@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**A friend is someone who gives you total freedom to be yourself.**_
+_**I have a terrific marriage, but unlike a lot of relationships where they ebb and flow, no matter what happens you fall deeper and deeper in love every day. It's kind of the best thing that can happen to you. It's thrilling.**_
 
-Jim Morrison
+Hugh Jackman
 
 
 
@@ -26,4 +26,4 @@ Markdown    0 secs         ░░░░░░░░░░░░░░░░░�
 Kotlin      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/25/2024
+8/26/2024
