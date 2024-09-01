@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I propose that the government should get out of the business of marrying people and, instead, only give legal status to civil unions.**_
+_**We hang the petty thieves and appoint the great ones to public office.**_
 
-Tony Campolo
+Aesop
 
 
 
@@ -18,4 +18,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/31/2024
+9/1/2024
