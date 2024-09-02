@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**We hang the petty thieves and appoint the great ones to public office.**_
+_**With patient and firm determination, I am going to press on for jobs. I'm going to press on for equality. I'm going to press on for the sake of our children. I'm going to press on for the sake of all those families who are struggling right now. I don't have time to feel sorry for myself. I don't have time to complain. I am going to press on.**_
 
-Aesop
+Barack Obama
 
 
 
@@ -18,4 +18,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/1/2024
+9/2/2024
