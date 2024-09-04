@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**My humor tends to be a little more edgy than is appropriate for 'Twilight,' although I got some in there. That was fun! There's just a tonal difference. For me, storytelling is storytelling. But, I do like writing for grown ups.**_
+_**Today when I think about diversity, I actually think about the word 'inclusion.' And I think this is a time of great inclusion. It's not men, it's not women alone. Whether it's geographic, it's approach, it's your style, it's your way of learning, the way you want to contribute, it's your age - it is really broad.**_
 
-Melissa Rosenberg
+Ginni Rometty
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 47 mins  █████████████████▎░░░  82.3%
-JavaScript  1 hr 5 mins    █▉░░░░░░░░░░░░░░░░░░░   9.2%
-JSON        33 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
-CSV         24 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Other       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  6 hrs 32 mins  ██████████████████▎░░  87.0%
+JavaScript  47 mins        ██▏░░░░░░░░░░░░░░░░░░  10.6%
+JSON        6 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Other       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+CSV         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-9/3/2024
+9/4/2024
