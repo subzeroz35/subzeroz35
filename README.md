@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**If you do not change direction, you may end up where you are heading.**_
+_**But Apple really beats to a different drummer. I used to say that Apple should be the Sony of this business, but in reality, I think Apple should be the Apple of this business.**_
 
-Lao Tzu
+Steve Jobs
 
 
 
@@ -22,4 +22,4 @@ YAML        0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/7/2024
+9/8/2024
