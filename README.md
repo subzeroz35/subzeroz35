@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**But Apple really beats to a different drummer. I used to say that Apple should be the Sony of this business, but in reality, I think Apple should be the Apple of this business.**_
+_**The purpose of education is to replace an empty mind with an open one.**_
 
-Steve Jobs
+Malcolm Forbes
 
 
 
@@ -22,4 +22,4 @@ YAML        0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/8/2024
+9/9/2024
