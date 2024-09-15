@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Most of an award-show host's job is showing up and keeping a cool head and soldiering through it, whether it's the Oscars or the Hallmark Channel's 'Hero Dog Awards.'**_
+_**Those who have always had faith in its final success can do no less than rejoice as if it was our own triumph after five years of daily struggle to impose Cuban music on the European continent.**_
 
-Rob Sheffield
+Alejo Carpentier
 
 
 
@@ -18,4 +18,4 @@ TSConfig    0 secs         ░░░░░░░░░░░░░░░░░�
 Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/14/2024
+9/15/2024
