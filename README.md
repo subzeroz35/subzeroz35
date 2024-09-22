@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Architecture begins where engineering ends.**_
+_**Pray in your family daily, that yours may be in the number of the families who call upon God.**_
 
-Walter Gropius
+Christopher Love
 
 
 
@@ -30,4 +30,4 @@ Objective-C 0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Prolog      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/21/2024
+9/22/2024
