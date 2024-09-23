@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Pray in your family daily, that yours may be in the number of the families who call upon God.**_
+_**If you hope for happiness in the world, hope for it from God, and not from the world.**_
 
-Christopher Love
+David Brainerd
 
 
 
@@ -30,4 +30,4 @@ Objective-C 0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Prolog      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/22/2024
+9/23/2024
