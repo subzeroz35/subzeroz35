@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There are some movies that I would like to forget, for the rest of my life. But even those movies teach me things.**_
+_**A lost battle is a battle one thinks one has lost.**_
 
-Antonio Banderas
+Foch, Ferdinand
 
 
 
@@ -21,4 +21,4 @@ XML         1 min          ░░░░░░░░░░░░░░░░░�
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/5/2024
+10/6/2024
