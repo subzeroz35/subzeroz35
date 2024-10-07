@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**A lost battle is a battle one thinks one has lost.**_
+_**The best proof of love is trust.**_
 
-Foch, Ferdinand
+Joyce Brothers
 
 
 
@@ -21,4 +21,4 @@ XML         1 min          ░░░░░░░░░░░░░░░░░�
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/6/2024
+10/7/2024
