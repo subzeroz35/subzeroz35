@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I do not suppose I shall be remembered for anything. But I don't think about my work in those terms. It is just as vulgar to work for the sake of posterity as to work for the sake of money.**_
+_**The two enemies of human happiness are pain and boredom.**_
 
-Orson Welles
+Arthur Schopenhauer
 
 
 
@@ -25,4 +25,4 @@ Java        0 secs         ░░░░░░░░░░░░░░░░░�
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/12/2024
+10/13/2024
