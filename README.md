@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The two enemies of human happiness are pain and boredom.**_
+_**Life's pretty good, and why wouldn't it be? I'm a pirate, after all.**_
 
-Arthur Schopenhauer
+Johnny Depp
 
 
 
@@ -25,4 +25,4 @@ Java        0 secs         ░░░░░░░░░░░░░░░░░�
 Objective-C 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/13/2024
+10/14/2024
