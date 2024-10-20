@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**He's a man of great common sense and good taste - meaning thereby a man without originality or moral courage.**_
+_**It's painful for me to watch someone who isn't funny. It's horrifying to sit in the back and watch some guy who just totally sucks.**_
 
-George Bernard Shaw
+Joe Rogan
 
 
 
@@ -18,4 +18,4 @@ Markdown    0 secs         ░░░░░░░░░░░░░░░░░�
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/19/2024
+10/20/2024
