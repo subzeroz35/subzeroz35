@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**It's painful for me to watch someone who isn't funny. It's horrifying to sit in the back and watch some guy who just totally sucks.**_
+_**The mere assemblage of peace loving people to interchange convincing reasons for their common faith, mere exhortation and argument to the public in favor of peace in general fall short of the mark.**_
 
-Joe Rogan
+Elihu Root
 
 
 
@@ -18,4 +18,4 @@ Markdown    0 secs         ░░░░░░░░░░░░░░░░░�
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/20/2024
+10/21/2024
