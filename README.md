@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**It's a pity that the tennis is really going down the drain. Every year it's getting worse and worse and worse. There has to be a radical change, and I hope it will be really soon.**_
+_**The dogmas of the quiet past are inadequate to the stormy present. The occasion is piled high with difficulty, and we mustrise with the occasion. As our case is new, so we must think anew and act anew.**_
 
-Marat Safin
+Lincoln, Abraham
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  1 hr 52 mins   ███████████████▎░░░░░  73.0%
-TypeScript  40 mins        █████▍░░░░░░░░░░░░░░░  26.1%
+<pre>JavaScript  1 hr 46 mins   ███████████████▍░░░░░  73.7%
+TypeScript  36 mins        █████▎░░░░░░░░░░░░░░░  25.4%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/22/2024
+10/23/2024
