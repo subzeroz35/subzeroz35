@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**The dogmas of the quiet past are inadequate to the stormy present. The occasion is piled high with difficulty, and we mustrise with the occasion. As our case is new, so we must think anew and act anew.**_
+_**If you can't pay for a thing, don't buy it. If you can't get paid for it, don't sell it. Do this, and you will have calm and drowsy nights, with all of the good business you have now and none of the bad. If you have time, don't wait for time.**_
 
-Lincoln, Abraham
+Ernst Fischer
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  1 hr 46 mins   ███████████████▍░░░░░  73.7%
-TypeScript  36 mins        █████▎░░░░░░░░░░░░░░░  25.4%
+<pre>JavaScript  1 hr 49 mins   ██████████████▎░░░░░░  68.4%
+TypeScript  49 mins        ██████▍░░░░░░░░░░░░░░  30.8%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/23/2024
+10/24/2024
