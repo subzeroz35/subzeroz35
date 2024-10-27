@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**My work requires acting at its most committed - it demands actors of enormous resilience, but also intelligence and wit. It doesn't work for narcissistic or selfish actors.**_
+_**As an artist I have an even more abiding interest in the compact between the Arts and Government.**_
 
-Mike Leigh
+Theodore Bikel
 
 
 
@@ -20,4 +20,4 @@ Other       2 mins         ▎░░░░░░░░░░░░░░░░�
 SQL         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/26/2024
+10/27/2024
