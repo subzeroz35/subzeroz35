@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**As an artist I have an even more abiding interest in the compact between the Arts and Government.**_
+_**Remember that credit is money.**_
 
-Theodore Bikel
+Benjamin Franklin
 
 
 
@@ -20,4 +20,4 @@ Other       2 mins         ▎░░░░░░░░░░░░░░░░�
 SQL         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/27/2024
+10/28/2024
