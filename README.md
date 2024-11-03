@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The future... seems to me no unified dream but a mince pie, long in the baking, never quite done.**_
+_**What is a normal childhood? We weren't rich, we were pretty middle-class. My dad survived from job to job with him taking care of so many relatives, he couldn't save any money.**_
 
-Edward Young
+Charlie Sheen
 
 
 
@@ -23,4 +23,4 @@ TSConfig    0 secs         ░░░░░░░░░░░░░░░░░�
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/2/2024
+11/3/2024
