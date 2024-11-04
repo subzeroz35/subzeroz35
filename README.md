@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**What is a normal childhood? We weren't rich, we were pretty middle-class. My dad survived from job to job with him taking care of so many relatives, he couldn't save any money.**_
+_**When sudden death takes a president, opportunities for new beginnings flourish among the ambitious and the tensions among such people can be dramatic, as they were when President Kennedy was killed.**_
 
-Charlie Sheen
+Russell Baker
 
 
 
@@ -23,4 +23,4 @@ TSConfig    0 secs         ░░░░░░░░░░░░░░░░░�
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/3/2024
+11/4/2024
