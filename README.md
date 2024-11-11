@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**If you want to have sustained joy, you have to not only make sure that you think right, but you also have to make decisions now that are going to guarantee some joy in the future.**_
+_**Laws too gentle are seldom obeyed too severe, seldom executed.**_
 
-Joyce Meyer
+Benjamin Franklin
 
 
 
@@ -28,4 +28,4 @@ SSH Config  0 secs         ░░░░░░░░░░░░░░░░░�
 SSH Key     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/10/2024
+11/11/2024
