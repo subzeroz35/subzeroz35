@@ -1,19 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**Guantanamo allows us to secure dangerous detainees without the risk of escape, while at the same time providing us with valuable intelligence information on how best to proceed in the war against terror and prevent future attacks.**_
+_**Having photographed the landscape for a number of years and specifically working with trees and in the forest I found, without consciously thinking about it, that it was a great learning experience for me in terms of organizing elements.**_
 
-Jim Ryun
+John Sexton
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  19 hrs 31 mins █████████████▋░░░░░░░  65.2%
-JavaScript  4 hrs 15 mins  ██▉░░░░░░░░░░░░░░░░░░  14.2%
-YAML        1 hr 32 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
+<pre>TypeScript  19 hrs 31 mins █████████████▌░░░░░░░  64.7%
+JavaScript  4 hrs 15 mins  ██▉░░░░░░░░░░░░░░░░░░  14.1%
+YAML        1 hr 46 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
 EJS         1 hr 21 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.5%
-JSON        1 hr 4 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.6%
-Other       52 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
+JSON        1 hr 4 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Other       52 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 CSS         32 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 Bash        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 XML         16 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
@@ -24,4 +24,4 @@ Markdown    1 min          ░░░░░░░░░░░░░░░░░�
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/17/2024
+11/18/2024
