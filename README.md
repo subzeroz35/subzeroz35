@@ -1,17 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**It's in the history books, the Holocaust. It's just a phrase. And the truth is it happened yesterday. It happened to my mother. I never met my grandmothers or my grandfathers. They were all wiped up in the gas chambers of Nazi Germany.**_
+_**Resistance is feasible even for those who are not heroes by nature, and it is an obligation, I believe, for those who fear the consequences and detest the reality of the attempt to impose American hegemony.**_
 
-Gene Simmons
+Noam Chomsky
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  16 hrs 21 mins ████████████▉░░░░░░░░  61.5%
-JavaScript  6 hrs 55 mins  █████▍░░░░░░░░░░░░░░░  26.1%
-YAML        1 hr 27 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
-Other       36 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+<pre>TypeScript  16 hrs 39 mins ████████████▉░░░░░░░░  61.7%
+JavaScript  7 hrs 4 mins   █████▍░░░░░░░░░░░░░░░  26.2%
+YAML        1 hr 27 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
+Other       35 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
 XML         20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 JSON        19 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 Groovy      14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
@@ -24,4 +24,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/22/2024
+11/23/2024
