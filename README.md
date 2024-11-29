@@ -1,21 +1,23 @@
 ## 😄 Daily Quotes 😄
 
-_**I film quite a bit of footage, then edit. Changes before your eyes, things you can do and things you can't. My attitude is always 'let it keep rolling.'**_
+_**How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.**_
 
-Terrence Malick
+George Washington Carver
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  21 hrs 40 mins ██████████████████▏░░  86.8%
-JavaScript  1 hr 34 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
-Other       43 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-JSON        23 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Groovy      17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+<pre>TypeScript  23 hrs 39 mins ██████████████████▊░░  89.7%
+JavaScript  1 hr 23 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
+Other       29 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+JSON        27 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 XML         15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 Image (svg) 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Groovy      3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/28/2024
+11/29/2024
