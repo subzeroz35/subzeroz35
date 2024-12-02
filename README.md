@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I think I can make an entirely new game experience, and if I can't do it, some other game designer will.**_
+_**Courage is... the knowledge of how to fear what ought to be feared and how not to fear what ought not to be feared.**_
 
-Shigeru Miyamoto
+David Ben-Gurion
 
 
 
@@ -22,4 +22,4 @@ Bash        1 min          ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/1/2024
+12/2/2024
