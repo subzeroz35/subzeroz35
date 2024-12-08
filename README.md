@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Stubborn and ardent clinging to one's opinion is the best proof of stupidity.**_
+_**The arts have always been an important ingredient to the health of a nation, but we haven't gotten there yet.**_
 
-Michel de Montaigne
+James Earl Jones
 
 
 
@@ -26,4 +26,4 @@ Groovy      0 secs         ░░░░░░░░░░░░░░░░░�
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/7/2024
+12/8/2024
