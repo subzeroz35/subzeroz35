@@ -1,21 +1,21 @@
 ## 😄 Daily Quotes 😄
 
-_**Perhaps the fact that we have seen millions voting themselves into complete dependence on a tyrant has made our generation understand that to choose one's government is not necessarily to secure freedom.**_
+_**The United States is the only power in history that became great by giving and not by taking. I think the crisis was when the United States had more money than ideas. Money doesn't produce money. Ideas produce money.**_
 
-Friedrich August von Hayek
+Shimon Peres
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  5 hrs 9 mins   ███████████▍░░░░░░░░░  54.4%
-JavaScript  3 hrs 4 mins   ██████▊░░░░░░░░░░░░░░  32.4%
-Bash        45 mins        █▋░░░░░░░░░░░░░░░░░░░   8.0%
-Other       15 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-CSS         6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-JSON        6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+<pre>TypeScript  4 hrs 20 mins  ██████████▊░░░░░░░░░░  51.2%
+JavaScript  3 hrs 3 mins   ███████▌░░░░░░░░░░░░░  36.1%
+Bash        45 mins        █▉░░░░░░░░░░░░░░░░░░░   8.9%
+Other       14 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 Markdown    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/14/2024
+12/15/2024
