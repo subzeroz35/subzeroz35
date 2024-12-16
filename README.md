@@ -1,21 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**The United States is the only power in history that became great by giving and not by taking. I think the crisis was when the United States had more money than ideas. Money doesn't produce money. Ideas produce money.**_
+_**And I have no doubt that every new example will succeed, as every past one has done, in showing that religion and Government will both exist in greater purity, the less they are mixed together.**_
 
-Shimon Peres
+James Madison
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  4 hrs 20 mins  ██████████▊░░░░░░░░░░  51.2%
-JavaScript  3 hrs 3 mins   ███████▌░░░░░░░░░░░░░  36.1%
-Bash        45 mins        █▉░░░░░░░░░░░░░░░░░░░   8.9%
-Other       14 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-Markdown    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
-JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>JavaScript  3 hrs 3 mins   ████████████▏░░░░░░░░  57.9%
+TypeScript  1 hr 46 mins   ███████░░░░░░░░░░░░░░  33.8%
+Bash        24 mins        █▋░░░░░░░░░░░░░░░░░░░   7.9%
+CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-12/15/2024
+12/16/2024
