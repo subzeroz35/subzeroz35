@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Love comes when manipulation stops when you think more about the other person than about his or her reactions to you. When you dare to reveal yourself fully. When you dare to be vulnerable.**_
+_**Happiness always looks small while you hold it in your hands, but let it go, and you learn at once how big and precious it is.**_
 
-Joyce Brothers
+Maxim Gorky
 
 
 
@@ -18,4 +18,4 @@ CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/18/2024
+12/19/2024
