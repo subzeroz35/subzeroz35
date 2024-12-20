@@ -1,21 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**Happiness always looks small while you hold it in your hands, but let it go, and you learn at once how big and precious it is.**_
+_**I'm finding, as I get older, that I'm not much of a believer in redemption. I mean, I believe in redemption in real life - redemption does happen, and it's cool when it does - but I find myself getting leery of my desire for it in stories (especially my own).**_
 
-Maxim Gorky
+George Saunders
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  8 hrs 38 mins  ███████████████▉░░░░░  75.9%
-Other       58 mins        █▊░░░░░░░░░░░░░░░░░░░   8.6%
-TypeScript  52 mins        █▋░░░░░░░░░░░░░░░░░░░   7.8%
-JSON        36 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
-Bash        13 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+<pre>JavaScript  7 hrs 57 mins  █████████████████░░░░  81.5%
+Other       1 hr 1 min     ██▏░░░░░░░░░░░░░░░░░░  10.4%
+JSON        36 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
+TypeScript  7 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Bash        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/19/2024
+12/20/2024
