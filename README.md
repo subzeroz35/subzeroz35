@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I don't necessarily start with the beginning of the book. I just start with the part of the story that's most vivid in my imagination and work forward and backward from there.**_
+_**There are no secrets to success. It is the result of preparation, hard work, and learning from failure.**_
 
-Beverly Cleary
+Colin Powell
 
 
 
@@ -17,4 +17,4 @@ Bash        1 min          ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/21/2024
+12/22/2024
