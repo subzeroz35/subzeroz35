@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There are no secrets to success. It is the result of preparation, hard work, and learning from failure.**_
+_**Evolution is unobservable. It's based on blind faith in a few dry bones and on unreliable dating systems in which the gullible trust. Kids should be allowed to make up their own minds about this issue, and not be censored to 'one side is all we will let you hear."**_
 
-Colin Powell
+Ray Comfort
 
 
 
@@ -17,4 +17,4 @@ Bash        1 min          ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/22/2024
+12/23/2024
