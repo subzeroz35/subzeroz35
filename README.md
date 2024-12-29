@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**We are more often frightened than hurt and we suffer more from imagination than from reality.**_
+_**Since the day of my birth, my death began its walk. It is walking toward me, without hurrying.**_
 
-Lucius Annaeus Seneca
+Jean Cocteau
 
 
 
@@ -21,4 +21,4 @@ CSV         0 secs         ░░░░░░░░░░░░░░░░░�
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/28/2024
+12/29/2024
