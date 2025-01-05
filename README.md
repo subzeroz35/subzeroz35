@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**You cannot achieve environmental security and human development without addressing the basic issues of health and nutrition.**_
+_**When our governments want to sell us a course of action, they do it by making sure it's the only thing on the agenda, the only thing everyone's talking about. And they pre-load the ensuing discussion with highly selected images, devious and prejudicial language, dubious linkages, weak or false 'intelligence' and selected 'leaks.'**_
 
-Gro Harlem Brundtland
+Brian Eno
 
 
 
@@ -13,4 +13,4 @@ JavaScript  3 mins         ████▋░░░░░░░░░░░░�
 TypeScript  0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
 
-1/4/2025
+1/5/2025
