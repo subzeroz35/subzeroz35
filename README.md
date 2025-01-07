@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Every day people are straying away from the church and going back to God.**_
+_**Once the product's task is known, design the interface first then implement to the interface design.**_
 
-Lenny Bruce
+Jef Raskin
 
 
 
@@ -13,4 +13,4 @@ JavaScript  3 mins         ████▋░░░░░░░░░░░░�
 TypeScript  0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
 
-1/6/2025
+1/7/2025
