@@ -1,16 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Once the product's task is known, design the interface first then implement to the interface design.**_
+_**Death is not an event in life: we do not live to experience death. If we take eternity to mean not infinite temporal duration but timelessness, then eternal life belongs to those who live in the present.**_
 
-Jef Raskin
+Ludwig Wittgenstein
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Text        13 mins        ████████████████░░░░░  76.6%
-JavaScript  3 mins         ████▋░░░░░░░░░░░░░░░░  22.5%
-TypeScript  0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%</pre>
+<pre>Text        6 mins         █████████████████████ 100.0%</pre>
 
-1/7/2025
+1/8/2025
