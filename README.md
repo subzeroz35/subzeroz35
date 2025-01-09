@@ -1,13 +1,15 @@
 ## 😄 Daily Quotes 😄
 
-_**Death is not an event in life: we do not live to experience death. If we take eternity to mean not infinite temporal duration but timelessness, then eternal life belongs to those who live in the present.**_
+_**Happiness or satisfaction consists only in the enjoyment of those objects which are by nature suited to our several particular appetites, passions, and affections.**_
 
-Ludwig Wittgenstein
+Joseph Butler
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Text        6 mins         █████████████████████ 100.0%</pre>
+<pre>JavaScript  22 mins        ██████████▍░░░░░░░░░░  50.0%
+Text        18 mins        ████████▊░░░░░░░░░░░░  41.9%
+HTML        3 mins         █▋░░░░░░░░░░░░░░░░░░░   8.2%</pre>
 
-1/8/2025
+1/9/2025
