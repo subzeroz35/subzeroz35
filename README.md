@@ -1,15 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**Happiness or satisfaction consists only in the enjoyment of those objects which are by nature suited to our several particular appetites, passions, and affections.**_
+_**Every man over forty is a scoundrel.**_
 
-Joseph Butler
+George Bernard Shaw
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JavaScript  22 mins        ██████████▍░░░░░░░░░░  50.0%
-Text        18 mins        ████████▊░░░░░░░░░░░░  41.9%
-HTML        3 mins         █▋░░░░░░░░░░░░░░░░░░░   8.2%</pre>
+<pre>JavaScript  22 mins        ██████▊░░░░░░░░░░░░░░  32.2%
+Text        20 mins        ██████▏░░░░░░░░░░░░░░  29.6%
+TypeScript  14 mins        ████▎░░░░░░░░░░░░░░░░  20.5%
+JSON        6 mins         ██░░░░░░░░░░░░░░░░░░░   9.9%
+HTML        3 mins         █░░░░░░░░░░░░░░░░░░░░   5.3%
+EJS         1 min          ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/9/2025
+1/10/2025
