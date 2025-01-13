@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**That is who Barack Obama is - a person of admirable character - and that is who he has remained for me over these last four years. I have not agreed with his every decision, but never once have I seen him break his cool, lose his composure, or abandon his insightful perspective - even during the most serious and/or absurd national disasters.**_
+_**So when bands work with me and it's 10 o'clock, usually you'd have to be getting out of the studio, we could go on until 2 in the morning cause it's my place!**_
 
-Elizabeth Gilbert
+Billy Sherwood
 
 
 
@@ -16,4 +16,4 @@ HTML        3 mins         █░░░░░░░░░░░░░░░░�
 EJS         1 min          ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/12/2025
+1/13/2025
