@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**So when bands work with me and it's 10 o'clock, usually you'd have to be getting out of the studio, we could go on until 2 in the morning cause it's my place!**_
+_**I'm very, very concerned about the Bush presidency. I'm worried about the kinds of cuts in domestic programs that mean something to a lot of people, including members of my family, who depend on certain things from the government.**_
 
-Billy Sherwood
+Sarah Jessica Parker
 
 
 
@@ -16,4 +16,4 @@ HTML        3 mins         █░░░░░░░░░░░░░░░░�
 EJS         1 min          ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/13/2025
+1/14/2025
