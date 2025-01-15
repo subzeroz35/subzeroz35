@@ -1,19 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**I'm very, very concerned about the Bush presidency. I'm worried about the kinds of cuts in domestic programs that mean something to a lot of people, including members of my family, who depend on certain things from the government.**_
+_**Film as dream, film as music. No art passes our conscience in the way film does, and goes directly to our feelings, deep down into the dark rooms of our souls.**_
 
-Sarah Jessica Parker
+Ingmar Bergman
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Text        26 mins        ███████▏░░░░░░░░░░░░░  34.5%
-JavaScript  22 mins        ██████▎░░░░░░░░░░░░░░  30.0%
-TypeScript  14 mins        ████░░░░░░░░░░░░░░░░░  19.1%
-JSON        6 mins         █▉░░░░░░░░░░░░░░░░░░░   9.3%
-HTML        3 mins         █░░░░░░░░░░░░░░░░░░░░   4.9%
-EJS         1 min          ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+<pre>JavaScript  22 mins        ██████▊░░░░░░░░░░░░░░  32.4%
+Text        19 mins        █████▊░░░░░░░░░░░░░░░  27.8%
+TypeScript  14 mins        ████▍░░░░░░░░░░░░░░░░  21.1%
+JSON        7 mins         ██▎░░░░░░░░░░░░░░░░░░  11.0%
+HTML        3 mins         █░░░░░░░░░░░░░░░░░░░░   5.3%
+EJS         1 min          ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/14/2025
+1/15/2025
