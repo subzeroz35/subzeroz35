@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Happiness is a real, objective phenomenon, scientifically verifiable. That means people and whole societies can now be measured over time and compared accurately with one another. Causes and cures for unhappiness can be quantified.**_
+_**In a daydream sort of way, I think it would be pretty cool to direct a movie. But I have been on movie and TV sets and know it is hard work. I like directing it in my mind. It is easier.**_
 
-Polly Toynbee
+Michael Connelly
 
 
 
@@ -14,4 +14,4 @@ Markdown    10 mins        ███▏░░░░░░░░░░░░░�
 TypeScript  5 mins         █▉░░░░░░░░░░░░░░░░░░░   9.0%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-1/19/2025
+1/20/2025
