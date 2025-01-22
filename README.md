@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Summer bachelors, like summer breezes, are never as cool as they pretend to be.**_
+_**It takes a long time to grow an old friend.**_
 
-Nora Ephron
+John Leonard
 
 
 
@@ -14,4 +14,4 @@ Markdown    10 mins        ███▏░░░░░░░░░░░░░�
 TypeScript  5 mins         █▊░░░░░░░░░░░░░░░░░░░   8.7%
 JSON        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-1/21/2025
+1/22/2025
