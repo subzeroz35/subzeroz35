@@ -1,16 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Life has a way of setting things in order and leaving them be. Very tidy, is life.**_
+_**Live as if you were to die tomorrow. Learn as if you were to live forever.**_
 
-Anouilh, Jean
+Mahatma Gandhi
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Text        48 mins        █████████████▋░░░░░░░  64.9%
-Python      10 mins        ███░░░░░░░░░░░░░░░░░░  14.7%
-Markdown    10 mins        ██▉░░░░░░░░░░░░░░░░░░  13.8%
-TypeScript  4 mins         █▍░░░░░░░░░░░░░░░░░░░   6.6%</pre>
+<pre>Text        31 mins        █████████████████████ 100.0%</pre>
 
-1/23/2025
+1/24/2025
