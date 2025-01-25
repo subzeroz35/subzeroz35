@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**Live as if you were to die tomorrow. Learn as if you were to live forever.**_
+_**Listen to what you know instead of what you fear.**_
 
-Mahatma Gandhi
+Richard Bach
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Text        31 mins        █████████████████████ 100.0%</pre>
+<pre>Text        16 mins        █████████████████████ 100.0%</pre>
 
-1/24/2025
+1/25/2025
