@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Listen to what you know instead of what you fear.**_
+_**Nobody really believes in equality anyway.**_
 
-Richard Bach
+Warren Farrell
 
 
 
@@ -10,4 +10,4 @@ Richard Bach
 
 <pre>Text        16 mins        █████████████████████ 100.0%</pre>
 
-1/25/2025
+1/26/2025
