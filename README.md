@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Nobody really believes in equality anyway.**_
+_**The breakdown of the black community, in order to maintain slavery, began with the breakdown of the black family. Men and women were not legally allowed to get married because you couldn't have that kind of love. It might get in the way of the economics of slavery. Your children could be taken from you and literally sold down the river.**_
 
-Warren Farrell
+Kerry Washington
 
 
 
@@ -10,4 +10,4 @@ Warren Farrell
 
 <pre>Text        16 mins        █████████████████████ 100.0%</pre>
 
-1/26/2025
+1/27/2025
