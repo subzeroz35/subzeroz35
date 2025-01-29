@@ -1,13 +1,13 @@
 ## 😄 Daily Quotes 😄
 
-_**People pay to see movies with women looking beautiful, but I think there will be a place for me to play women looking my own age.**_
+_**Not every religion has to have St. Augustine's attitude to sex. Why even in our culture marriages are celebrated in a church, everyone present knows what is going to happen that night, but that doesn't prevent it being a religious ceremony.**_
 
-Debra Winger
+Ludwig Wittgenstein
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Text        15 mins        █████████████████████ 100.0%</pre>
+<pre>Text        9 mins         █████████████████████ 100.0%</pre>
 
-1/28/2025
+1/29/2025
