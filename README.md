@@ -1,13 +1,9 @@
 ## 😄 Daily Quotes 😄
 
-_**The two words 'information' and 'communication' are often used interchangeably, but they signify quite different things. Information is giving out communication is getting through.**_
+_**Memorial Day this year is especially important as we are reminded almost daily of the great sacrifices that the men and women of the Armed Services make to defend our way of life.**_
 
-Sydney J. Harris
+Robin Hayes
 
 
 
-## 📊 Weekly development breakdown 📊
-
-<pre>Text        3 mins         █████████████████████ 100.0%</pre>
-
-1/30/2025
+1/31/2025
