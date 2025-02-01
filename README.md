@@ -1,9 +1,9 @@
 ## 😄 Daily Quotes 😄
 
-_**Memorial Day this year is especially important as we are reminded almost daily of the great sacrifices that the men and women of the Armed Services make to defend our way of life.**_
+_**It is impossible to imagine the universe run by a wise, just and omnipotent God, but it is quite easy to imagine it run by a board of gods.**_
 
-Robin Hayes
+H. L. Mencken
 
 
 
-1/31/2025
+2/1/2025
