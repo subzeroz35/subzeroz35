@@ -1,9 +1,9 @@
 ## 😄 Daily Quotes 😄
 
-_**It is impossible to imagine the universe run by a wise, just and omnipotent God, but it is quite easy to imagine it run by a board of gods.**_
+_**We have mountain of debt that isn't going away and all the problems are here to stay, and anybody who tells you that is a good thing ought to get out of the business of helping the government down the road.**_
 
-H. L. Mencken
+Rick Santelli
 
 
 
-2/1/2025
+2/2/2025
