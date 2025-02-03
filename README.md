@@ -1,9 +1,9 @@
 ## 😄 Daily Quotes 😄
 
-_**We have mountain of debt that isn't going away and all the problems are here to stay, and anybody who tells you that is a good thing ought to get out of the business of helping the government down the road.**_
+_**What would annoy the most people most often? That is the true left-wing test of government intervention.**_
 
-Rick Santelli
+P. J. O'Rourke
 
 
 
-2/2/2025
+2/3/2025
