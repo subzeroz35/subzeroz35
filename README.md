@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The supreme art of war is to subdue the enemy without fighting.**_
+_**Bad religion is arrogant, self-righteous, dogmatic and intolerant. And so is bad science. But unlike religious fundamentalists, scientific fundamentalists do not realize that their opinions are based on faith. They think they know the truth.**_
 
-Sun Tzu
+Rupert Sheldrake
 
 
 
@@ -21,4 +21,4 @@ TypeScript  0 secs         ░░░░░░░░░░░░░░░░░�
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/8/2025
+2/9/2025
