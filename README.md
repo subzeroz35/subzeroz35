@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Bad religion is arrogant, self-righteous, dogmatic and intolerant. And so is bad science. But unlike religious fundamentalists, scientific fundamentalists do not realize that their opinions are based on faith. They think they know the truth.**_
+_**Americans are rising to the tasks of history, and they expect the same of us.**_
 
-Rupert Sheldrake
+George W. Bush
 
 
 
@@ -21,4 +21,4 @@ TypeScript  0 secs         ░░░░░░░░░░░░░░░░░�
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/9/2025
+2/10/2025
