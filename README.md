@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I loved raising my kids. I loved the process, the dirt of it, the tears of it, the frustration of it, Christmas, Easter, birthdays, growth charts, pediatrician appointments. I loved all of it.**_
+_**You have to study your field and you have to find out how other people do it, and you have to keep working and learning and practicing and ultimately, you would be able to do it.**_
 
-Jane Elliot
+Theodore Sturgeon
 
 
 
@@ -22,4 +22,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/15/2025
+2/16/2025
