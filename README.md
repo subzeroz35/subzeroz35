@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**You have to study your field and you have to find out how other people do it, and you have to keep working and learning and practicing and ultimately, you would be able to do it.**_
+_**The real estate agent had to go door-to-door in the apartment building we wanted to rent, asking if it was OK for this interracial family - my mom is white and I was a 1-year-old half-African kid - to live in the apartment building.**_
 
-Theodore Sturgeon
+Tom Morello
 
 
 
@@ -22,4 +22,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/16/2025
+2/17/2025
