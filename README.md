@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Money isn't important, but you have to have enough, so you don't have to think about it. Thinking about money is a drag.**_
+_**I think good art does come from a dark place.**_
 
-Jarvis Cocker
+Rick Springfield
 
 
 
@@ -21,4 +21,4 @@ HTML        0 secs         ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/22/2025
+2/23/2025
