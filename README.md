@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I think good art does come from a dark place.**_
+_**I grew up on the golden age of children's TV.**_
 
-Rick Springfield
+Edward Norton
 
 
 
@@ -21,4 +21,4 @@ HTML        0 secs         ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/23/2025
+2/24/2025
