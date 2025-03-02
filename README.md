@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**A man's friendships are one of the best measures of his worth.**_
+_**My grandfather's family used to own a pasta factory in Naples and they would go door-to-door selling their pasta. So his love of food came from his parents, which was then passed down to my mother and then again to me.**_
 
-Charles Darwin
+Giada De Laurentiis
 
 
 
@@ -20,4 +20,4 @@ SSH Key     1 min          ░░░░░░░░░░░░░░░░░�
 Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/1/2025
+3/2/2025
