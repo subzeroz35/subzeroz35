@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Therefore, the church is not absolutely necessary as an object of faith, not even for us today, for then Abraham and the other prophets would not have given assent to those things which were revealed to them from God without any intervening help of the church.**_
+_**Government is not reason, it is not eloquence - it is force.**_
 
-William Ames
+Washington, George
 
 
 
@@ -23,4 +23,4 @@ HTML        0 secs         ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 INI         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/8/2025
+3/9/2025
