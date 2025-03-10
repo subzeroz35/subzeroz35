@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Government is not reason, it is not eloquence - it is force.**_
+_**If I feel strongly, I say it. I know I can do more good by being vocal than by staying quiet. I'd have a whole lot more money if I lied, but I wouldn't enjoy spending it.**_
 
-Washington, George
+Martina Navratilova
 
 
 
@@ -23,4 +23,4 @@ HTML        0 secs         ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 INI         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/9/2025
+3/10/2025
