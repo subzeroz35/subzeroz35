@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Imagination is the key to my lyrics. The rest is painted with a little science fiction.**_
+_**But as I was saying, from my experiences, I think men tend to be more timid in expressing their feelings for you. Regardless, I always prefer a friendship first and foremost.**_
 
-Jimi Hendrix
+Alicia Machado
 
 
 
@@ -20,6 +20,7 @@ TSConfig    0 secs         ░░░░░░░░░░░░░░░░░�
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/16/2025
+3/17/2025
