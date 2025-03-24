@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Clever men are good, but they are not the best.**_
+_**He who never sacrificed a present to a future good or a personal to a general one can speak of happiness only as the blind do of colors.**_
 
-Thomas Carlyle
+Olympia Brown
 
 
 
@@ -23,4 +23,4 @@ YAML        0 secs         ░░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/23/2025
+3/24/2025
