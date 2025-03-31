@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I got amazing training both with Theatre Sports... back in Edmonton, Alberta - I can't give those people enough credit - and the daytime drama I did. Incredible training, both of them.**_
+_**I am privileged to be a citizen of the single greatest society in all of human history.**_
 
-Nathan Fillion
+Marco Rubio
 
 
 
@@ -16,4 +16,4 @@ Other       0 secs         ░░░░░░░░░░░░░░░░░�
 Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/30/2025
+3/31/2025
