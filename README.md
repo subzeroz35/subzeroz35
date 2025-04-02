@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There is hope in dreams, imagination, and in the courage of those who wish to make those dreams a reality.**_
+_**Ever has it been that love knows not its own depth until the hour of separation.**_
 
-Jonas Salk
+Khalil Gibran
 
 
 
