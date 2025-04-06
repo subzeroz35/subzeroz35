@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Our most famous writers are Faulkner and Eudora Welty and Flannery O'Connor. It would make sense that the poetry would reflect some of those same values, some of the same techniques.**_
+_**There is only one failure in life possible, and that is not to be true to the best one knows.**_
 
-Robert Morgan
+George Eliot
 
 
 
@@ -20,4 +20,4 @@ Markdown    0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/5/2025
+4/6/2025
