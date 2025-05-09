@@ -1,17 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**It is often the failure who is the pioneer in new lands, new undertakings, and new forms of expression.**_
+_**Come Christmas Eve, we usually go to my mom and dad's. Everybody brings one gift and then we play that game when we all steal it from each other. Some are really cool, others are useful and some are a bit out there.**_
 
-Eric Hoffer
+Amy Grant
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 hrs 40 mins  ████████████████▋░░░░  79.5%
-JSON        1 hr 36 mins   ████░░░░░░░░░░░░░░░░░  19.1%
-Other       6 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+<pre>TypeScript  12 hrs 34 mins ██████████████████▎░░  87.0%
+JSON        1 hr 45 mins   ██▌░░░░░░░░░░░░░░░░░░  12.2%
+Other       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/8/2025
+5/9/2025
