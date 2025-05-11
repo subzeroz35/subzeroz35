@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The future which we hold in trust for our own children will be shaped by our fairness to other people's children.**_
+_**Purity of personal life is the one indispensable condition for building up a sound education.**_
 
-Marian Wright Edelman
+Mahatma Gandhi
 
 
 
@@ -16,4 +16,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/10/2025
+5/11/2025
