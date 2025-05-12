@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Purity of personal life is the one indispensable condition for building up a sound education.**_
+_**If you take a bunch of superstars and put them in a room where they don't have their assistants and entourage, it's funny to see what happens.**_
 
-Mahatma Gandhi
+Daryl Hall
 
 
 
@@ -16,4 +16,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/11/2025
+5/12/2025
