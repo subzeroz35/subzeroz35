@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**It's like, if you can't focus on a movie for 90 minutes without looking at your phone, then don't go to the movies! You've got some issues, so you should probably stay home and work on those issues, and not distract everyone with lights, and sounds, oh my gosh, the tapping on the screens, it makes me crazy!**_
+_**Love is the most important thing in the world. Hate, we should remove from the dictionary.**_
 
-Ginnifer Goodwin
+John Wooden
 
 
 
@@ -29,4 +29,4 @@ Ruby        0 secs         ░░░░░░░░░░░░░░░░░�
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/17/2025
+5/18/2025
