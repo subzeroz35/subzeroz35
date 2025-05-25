@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**We have to be able to grow up. Our wrinkles are our medals of the passage of life. They are what we have been through and who we want to be.**_
+_**Some people hear their own inner voices with great clearness. And they live by what they hear. Such people become crazy... or they become legend.**_
 
-Lauren Hutton
+Jim Harrison
 
 
 
@@ -21,4 +21,4 @@ Git         2 mins         ░░░░░░░░░░░░░░░░░�
 Bash        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/24/2025
+5/25/2025
