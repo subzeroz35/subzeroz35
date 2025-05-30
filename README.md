@@ -1,22 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**The four building blocks of the universe are fire, water, gravel and vinyl.**_
+_**Americans are free to choose everything from what they eat, drive and watch on TV to the President of the United States. Yet, when it comes to allowing Americans to choose the health insurance that works best for them and their family, the freedom to choose suddenly becomes un-American.**_
 
-Dave Barry
+Ron Wyden
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  11 hrs 24 mins ████████████████▏░░░░  76.9%
-JSON        2 hrs 21 mins  ███▎░░░░░░░░░░░░░░░░░  15.9%
-CocoaPods   13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-YAML        11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-XML         9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Other       9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Bash        9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-JavaScript  6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Markdown    4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  12 hrs 15 mins █████████████████▌░░░  83.4%
+JSON        2 hrs 12 mins  ███▏░░░░░░░░░░░░░░░░░  15.1%
+Bash        8 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Markdown    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+YAML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/29/2025
+5/30/2025
