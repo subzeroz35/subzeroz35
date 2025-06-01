@@ -1,17 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**I hope to make movies that are so small they don't need to make anything to be profitable.**_
+_**I learned a lot from my Mom. My favorite lesson: remember there is no such thing as a certain way to parent and to remember that you are learning along with your child - it's ok to make mistakes.**_
 
-J. J. Abrams
+Regina King
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  13 hrs 35 mins █████████████████▉░░░  85.4%
-JSON        2 hrs 7 mins   ██▊░░░░░░░░░░░░░░░░░░  13.4%
+<pre>TypeScript  14 hrs 49 mins ██████████████████▏░░  86.3%
+JSON        2 hrs 9 mins   ██▋░░░░░░░░░░░░░░░░░░  12.5%
 Bash        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 Markdown    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/31/2025
+6/1/2025
