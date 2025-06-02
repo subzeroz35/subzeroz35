@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I learned a lot from my Mom. My favorite lesson: remember there is no such thing as a certain way to parent and to remember that you are learning along with your child - it's ok to make mistakes.**_
+_**It's hard to decide how to match words to music. It's not like it's twice the work. It's always difficult for me to explain to the composer what I'm looking for. I'm not a professional I lack even basic knowledge about writing music.**_
 
-Regina King
+Ayumi Hamasaki
 
 
 
@@ -15,4 +15,4 @@ Markdown    1 min          ░░░░░░░░░░░░░░░░░�
 Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/1/2025
+6/2/2025
