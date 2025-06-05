@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**Escape from the architecture ghetto is one of the major drivers and has been from the very beginning.**_
+_**You know, rural Americans are a special people. Their labor puts food on our table and fuel in our gas tanks. Their service in our military sets a powerful example of leadership, honor and sacrifice. Their spirit of community inspires us all.**_
 
-Rem Koolhaas
+Tom Vilsack
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  16 hrs 6 mins  ██████████████████▏░░  86.4%
-JSON        2 hrs 26 mins  ██▋░░░░░░░░░░░░░░░░░░  13.1%
-XML         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  17 hrs 9 mins  ██████████████████▌░░  88.2%
+JSON        2 hrs 9 mins   ██▎░░░░░░░░░░░░░░░░░░  11.1%
+XML         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Markdown    2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/4/2025
+6/5/2025
