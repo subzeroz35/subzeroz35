@@ -1,18 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**You know, rural Americans are a special people. Their labor puts food on our table and fuel in our gas tanks. Their service in our military sets a powerful example of leadership, honor and sacrifice. Their spirit of community inspires us all.**_
+_**I do believe that freedom isn't free - but today the corporate and political right wing is trying to cheapen this truly American value. They've been cynically using the word 'freedom' to rally the American public against its own best interests.**_
 
-Tom Vilsack
+Richard Trumka
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  17 hrs 9 mins  ██████████████████▌░░  88.2%
-JSON        2 hrs 9 mins   ██▎░░░░░░░░░░░░░░░░░░  11.1%
-XML         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+<pre>TypeScript  15 hrs 45 mins ██████████████████▎░░  87.0%
+JSON        1 hr 52 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
+Diff        20 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+XML         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Markdown    2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/5/2025
+6/6/2025
