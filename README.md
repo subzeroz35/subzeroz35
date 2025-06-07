@@ -1,20 +1,23 @@
 ## 😄 Daily Quotes 😄
 
-_**I do believe that freedom isn't free - but today the corporate and political right wing is trying to cheapen this truly American value. They've been cynically using the word 'freedom' to rally the American public against its own best interests.**_
+_**Israel is no longer a people that dwells alone, and has to join the global journey toward peace, reconciliation and international cooperation.**_
 
-Richard Trumka
+Yitzhak Rabin
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  15 hrs 45 mins ██████████████████▎░░  87.0%
-JSON        1 hr 52 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
-Diff        20 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+<pre>TypeScript  13 hrs 2 mins  ████████████████▊░░░░  80.0%
+JSON        1 hr 55 mins   ██▍░░░░░░░░░░░░░░░░░░  11.8%
+Diff        47 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+JavaScript  14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Other       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 XML         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Bash        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Markdown    2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/6/2025
+6/7/2025
