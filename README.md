@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I know I had my equivalents in Adrian Lester and Lenny James when I was at drama school. I remember David Harewood doing 'Othello' at the National, and Adrian Lester having done Cheek by Jowl's famous 'As You Like It and Company' at the Donmar. Not necessarily performances I saw, but just the fact they happened was massively encouraging.**_
+_**A man who as a physical being is always turned toward the outside, thinking that his happiness lies outside him, finally turns inward and discovers that the source is within him.**_
 
-David Oyelowo
+Soren Kierkegaard
 
 
 
@@ -20,4 +20,4 @@ YAML        0 secs         ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/8/2025
+6/9/2025
