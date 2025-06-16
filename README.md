@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**You know I never used to be a bad flyer, but I did start to have a fear of flying after I shot a movie where I was terrorized on a plane. I made Wes Craven's 'Red Eye'. I don't think they're linked but it does make me pause and wonder if they are, so perhaps I will explore that in therapy some day.**_
+_**Whenever you're the child of a famous person, you get judged in odd ways because of that.**_
 
-Rachel McAdams
+Jeff Bridges
 
 
 
@@ -19,4 +19,4 @@ YAML        3 mins         ▏░░░░░░░░░░░░░░░░�
 Diff        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/15/2025
+6/16/2025
