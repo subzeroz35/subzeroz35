@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The man who has the courage of his platitudes is always a successful man.**_
+_**There is hope in dreams, imagination, and in the courage of those who wish to make those dreams a reality.**_
 
-Van Wyck Brooks
+Jonas Salk
 
 
 
@@ -21,4 +21,4 @@ Java Properties 0 secs         ░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/21/2025
+6/22/2025
