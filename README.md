@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There is hope in dreams, imagination, and in the courage of those who wish to make those dreams a reality.**_
+_**Nearly all the powerful people of this age are unbelievers, the best of them in doubt and misery, the most in plodding hesitation, doing as well as they can, what practical work lies at hand.**_
 
-Jonas Salk
+John Ruskin
 
 
 
@@ -21,4 +21,4 @@ Java Properties 0 secs         ░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/22/2025
+6/23/2025
