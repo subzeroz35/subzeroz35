@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Laughter is not a bad beginning for a friendship, and it is the best ending for one.**_
+_**Enlightened leadership is spiritual if we understand spirituality not as some kind of religious dogma or ideology but as the domain of awareness where we experience values like truth, goodness, beauty, love and compassion, and also intuition, creativity, insight and focused attention.**_
 
-Henry Ward Beecher
+Deepak Chopra
 
 
 
@@ -18,4 +18,4 @@ JavaScript  5 mins         ▏░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/28/2025
+6/29/2025
