@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Enlightened leadership is spiritual if we understand spirituality not as some kind of religious dogma or ideology but as the domain of awareness where we experience values like truth, goodness, beauty, love and compassion, and also intuition, creativity, insight and focused attention.**_
+_**My dear brothers, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry, for man's anger does not bring about the righteous life that God desires.**_
 
-Deepak Chopra
+Beverly Sills
 
 
 
@@ -18,4 +18,4 @@ JavaScript  5 mins         ▏░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/29/2025
+6/30/2025
