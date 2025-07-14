@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**As a general thing, when a woman wears the pants in a family, she has a good right to them.**_
+_**Prepare for death, if here at night you roam, and sign your will before you sup from home.**_
 
-Josh Billings
+Samuel Johnson
 
 
 
@@ -25,4 +25,4 @@ JSON with Comments 0 secs         ░░░░░░░░░░░░░░░�
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/13/2025
+7/14/2025
