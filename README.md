@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Anger may be kindled in the noblest breasts: but in these slow droppings of an unforgiving temper never takes the shape of consistency of enduring hatred.**_
+_**Well, my mom is single and we've both been single at the same time over the last ten years, so I really related to the bond between my character and Diane's.**_
 
-M. Kathleen Casey
+Amanda Peet
 
 
 
@@ -33,4 +33,4 @@ Text        0 secs         ░░░░░░░░░░░░░░░░░�
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 INI         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/20/2025
+7/21/2025
