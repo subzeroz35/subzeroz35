@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**My training as an engineer has enabled me to design the stuff, but the reason I do it is not to make music but for the opportunity to work with musicians.**_
+_**A jest's prosperity lies in the ear of him that hears it, Never in the tongue of him that makes it.**_
 
-Robert Moog
+Johnson, Samuel
 
 
 
@@ -27,4 +27,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/27/2025
+7/28/2025
