@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**What an artist is trying to do for people is bring them closer to something, because of course art is about sharing. You wouldn't be an artist unless you wanted to share an experience, a thought.**_
+_**How can faceless bureaucrats in an intelligence agency deny brave soldiers a chance to tell the truth?**_
 
-David Hockney
+Curt Weldon
 
 
 
@@ -25,4 +25,4 @@ Swift       0 secs         ░░░░░░░░░░░░░░░░░�
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/6/2025
+9/7/2025
