@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable.**_
+_**A firm, for instance, that does business in many countries of the world is driven to spend an enormous amount of time, labour, and money in providing for translation services.**_
 
-John Kenneth Galbraith
+Edward Sapir
 
 
 
@@ -19,4 +19,4 @@ Git         2 mins         ░░░░░░░░░░░░░░░░░�
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/13/2025
+9/14/2025
