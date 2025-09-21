@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**If all our happiness is bound up entirely in our personal circumstances it is difficult not to demand of life more than it has to give.**_
+_**I quit after a bad car accident. The thing about boxing is that you can be a star for five or six years, but when you go back to the old life, it's tough.**_
 
-Bertrand Russell
+Olivier Martinez
 
 
 
@@ -20,4 +20,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/20/2025
+9/21/2025
