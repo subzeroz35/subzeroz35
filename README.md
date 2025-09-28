@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The space industry is developing and delivering benefits that tie into our immediate needs and priorities here on Earth-for example, medical and materials research, and satellite communications.**_
+_**Where I am today... I still have my ups and downs, but I take it one day at a time and I just hope that I can be the best that I can possibly be, not only for myself, but also young people that are out there today that need someone to look up to.**_
 
-Marc Garneau
+Demi Lovato
 
 
 
@@ -22,4 +22,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/27/2025
+9/28/2025
