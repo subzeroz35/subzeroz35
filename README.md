@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Where I am today... I still have my ups and downs, but I take it one day at a time and I just hope that I can be the best that I can possibly be, not only for myself, but also young people that are out there today that need someone to look up to.**_
+_**Movies are an expensive business.**_
 
-Demi Lovato
+Albert Brooks
 
 
 
@@ -22,4 +22,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/28/2025
+9/29/2025
