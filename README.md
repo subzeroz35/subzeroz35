@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There was a big drive when I was at art school to make you aware of the economy of meaning - after all, this was still during the tail end of minimalism. Being responsible for everything you put in your picture, and being able to defend it. Keeping everything clear around you so you know what is operating. To open the wound and keep it clean.**_
+_**Democratic politicians have disliked things I've written, Republican politicians... if they all love you, you might as well be driving a Good Humor truck.**_
 
-Jane Campion
+Adam Clymer
 
 
 
@@ -22,4 +22,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/5/2025
+10/6/2025
