@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Hope is like peace. It is not a gift from God. It is a gift only we can give one another.**_
+_**Learn to... be what you are, and learn to resign with a good grace all that you are not.**_
 
-Elie Wiesel
+Henri Frederic Amiel
 
 
 
@@ -22,4 +22,4 @@ Public Key  0 secs         ░░░░░░░░░░░░░░░░░�
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/12/2025
+10/13/2025
