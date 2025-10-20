@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**At the root of the shy temperament is a deep fear of social judgment, one so severe it can sometimes be crippling. Introverted people don't worry unduly about whether they'll be found wanting, they just find too much socializing exhausting and would prefer either to be alone or in the company of a select few people.**_
+_**Music is the social act of communication among people, a gesture of friendship, the strongest there is.**_
 
-Jeffrey Kluger
+Malcolm Arnold
 
 
 
@@ -21,4 +21,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/19/2025
+10/20/2025
