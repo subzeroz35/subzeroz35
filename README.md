@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Romantic love is an illusion. Most of us discover this truth at the end of a love affair or else when the sweet emotions of love lead us into marriage and then turn down their flames.**_
+_**I can't watch other people doing comedy. As soon as somebody starts being funny I have to turn off because it upsets me. I get comedy indigestion. I just hate anybody else being funny. That's my job.**_
 
-Thomas Moore
+Jenny Eclair
 
 
 
@@ -19,4 +19,4 @@ Blade Template 7 mins         ▏░░░░░░░░░░░░░░░�
 JavaScript  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-11/22/2025
+11/23/2025
