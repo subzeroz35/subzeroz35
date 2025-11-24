@@ -1,22 +1,23 @@
 ## 😄 Daily Quotes 😄
 
-_**I can't watch other people doing comedy. As soon as somebody starts being funny I have to turn off because it upsets me. I get comedy indigestion. I just hate anybody else being funny. That's my job.**_
+_**I remember that at the beginning of the month, the kind of menus my mom and father would prepare for us would have fish, chicken. But at the end of the month - because my father would be waiting for paycheck - the refrigerator would get empty. I remember that without a lot of food left, some of the best meals happened right there.**_
 
-Jenny Eclair
+Jose Andres Puerta
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Other       8 hrs 25 mins  █████████▌░░░░░░░░░░░  45.8%
-PHP         3 hrs 15 mins  ███▋░░░░░░░░░░░░░░░░░  17.7%
-Markdown    3 hrs 4 mins   ███▌░░░░░░░░░░░░░░░░░  16.7%
-JSON        1 hr 52 mins   ██▏░░░░░░░░░░░░░░░░░░  10.2%
-YAML        47 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Bash        25 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-TypeScript  17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+<pre>Other       8 hrs 25 mins  █████████░░░░░░░░░░░░  42.9%
+Markdown    3 hrs 37 mins  ███▉░░░░░░░░░░░░░░░░░  18.5%
+PHP         3 hrs 15 mins  ███▍░░░░░░░░░░░░░░░░░  16.6%
+JSON        2 hrs 15 mins  ██▍░░░░░░░░░░░░░░░░░░  11.5%
+YAML        47 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+TypeScript  37 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Bash        25 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
 Blade Template 7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 JavaScript  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-11/23/2025
+11/24/2025
