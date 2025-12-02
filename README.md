@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I try to treat all the money I'm making like it's the last time I'm going to make it.**_
+_**Democracy is the theory that the common people know what they want, and deserve to get it good and hard.**_
 
-Eminem
+H. L. Mencken
 
 
 
@@ -21,4 +21,4 @@ Blade Template 1 min          ░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/1/2025
+12/2/2025
