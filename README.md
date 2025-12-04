@@ -1,25 +1,26 @@
 ## 😄 Daily Quotes 😄
 
-_**You go to a show, and there's no food at all, so if you're doing shows back to back, you can forget eating. I remember standing up in the bath one day, and there was a mirror in front of me, and I was so thin! I hated it. I never liked being that skinny.**_
+_**I stand before you as the governor of Texas but also stand before you the son of two tenant farmers. Ray Perry who came home after 35 bombing missions over Europe to work his little corner of land out there and Amelia who made sure that my sister Milla and I had everything that we needed, included hand sewing my clothes until I went off to college.**_
 
-Kate Moss
+Rick Perry
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Markdown    17 hrs 3 mins  ██████████▊░░░░░░░░░░  51.5%
-PHP         9 hrs 23 mins  █████▉░░░░░░░░░░░░░░░  28.4%
-TypeScript  3 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░   9.5%
-JSON        1 hr 24 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Blade Template 32 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Other       23 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-Bash        22 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-JavaScript  22 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Git Config  9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>Markdown    16 hrs 56 mins ██████████░░░░░░░░░░░  47.8%
+PHP         10 hrs 28 mins ██████▏░░░░░░░░░░░░░░  29.5%
+TypeScript  4 hrs 3 mins   ██▍░░░░░░░░░░░░░░░░░░  11.5%
+Blade Template 1 hr 5 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+JSON        57 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+JavaScript  47 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Bash        23 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Other       21 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Git Config  9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 Text        8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 Git         4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-YAML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+YAML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+CSV         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/3/2025
+12/4/2025
