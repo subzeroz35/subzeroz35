@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**It's a real roller-coaster ride if you're lucky to have longevity in this business - you have to be able to ride those waves.**_
+_**Real popular culture is folk art - coalminers' songs and so forth.**_
 
-Jennifer Lopez
+Noam Chomsky
 
 
 
@@ -28,4 +28,4 @@ CSV         0 secs         ░░░░░░░░░░░░░░░░░�
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 INI         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/11/2025
+12/12/2025
