@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Nothing great is created suddenly, any more than a bunch of grapes or a fig. If you tell me that you desire a fig. I answer you that there must be time. Let it first blossom, then bear fruit, then ripen.**_
+_**Indy makes the race driver. You become famous when you come here.**_
 
-Epictetus
+Rodger Ward
 
 
 
@@ -29,4 +29,4 @@ CSV         0 secs         ░░░░░░░░░░░░░░░░░�
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 INI         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/13/2025
+12/14/2025
