@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**A discipline I have observed is an attitude of love and reverence to people.**_
+_**It's better for me to play with guys because Rock 'n' Roll has such an aggressive attitude.**_
 
-Bessie Head
+Lita Ford
 
 
 
@@ -22,4 +22,4 @@ Git Config  1 min          ░░░░░░░░░░░░░░░░░�
 Text        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/20/2025
+12/21/2025
