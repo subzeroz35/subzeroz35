@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**It's better for me to play with guys because Rock 'n' Roll has such an aggressive attitude.**_
+_**What distinguishes a great artist from a weak one is first their sensibility and tenderness second, their imagination, and third, their industry.**_
 
-Lita Ford
+Salman Rushdie
 
 
 
@@ -22,4 +22,4 @@ Git Config  1 min          ░░░░░░░░░░░░░░░░░�
 Text        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/21/2025
+12/22/2025
