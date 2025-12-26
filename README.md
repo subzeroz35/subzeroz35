@@ -1,23 +1,25 @@
 ## 😄 Daily Quotes 😄
 
-_**Personal identity seems like it's just such an American archetype, from Holly Golightly re-inventing herself in 'Breakfast At Tiffany's' to Jay Gatsby in 'The Great Gatsby.' It seems like the sort of archetypal American issue. If you're given the freedom to be anything, or be anyone, what do you do with it?**_
+_**The Florida Supreme Court wanted all the legal votes to be counted. The United States Supreme Court, on the other hand, did not want all the votes to be counted.**_
 
-Chuck Palahniuk
+Vincent Bugliosi
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 hrs 1 min    █████████████▊░░░░░░░  66.1%
-Other       1 hr 33 mins   ███▌░░░░░░░░░░░░░░░░░  17.1%
-Bash        36 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
-JSON        22 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.2%
-PHP         12 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Markdown    12 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+<pre>TypeScript  6 hrs 21 mins  ███████████████░░░░░░  72.0%
+Text        51 mins        ██░░░░░░░░░░░░░░░░░░░   9.7%
+Other       34 mins        █▎░░░░░░░░░░░░░░░░░░░   6.5%
+JSON        21 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Markdown    13 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+PHP         12 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+Bash        5 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 YAML        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 TSConfig    2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Blade Template 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Blade Template 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-12/25/2025
+12/26/2025
