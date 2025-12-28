@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Faith activates God - Fear activates the Enemy.**_
+_**Everybody has a weakness. Mine is food.**_
 
-Joel Osteen
+Salma Hayek
 
 
 
@@ -22,4 +22,4 @@ Bash        0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/27/2025
+12/28/2025
