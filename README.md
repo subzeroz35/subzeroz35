@@ -1,23 +1,24 @@
 ## 😄 Daily Quotes 😄
 
-_**We must not allow the liberals to move us away from the conservative values of the American past which sustain our present and shall secure our future. As for me and my family, we will serve God, we will serve this constitutional republic, we will serve America.**_
+_**It is an interesting fact that during my tour I was never allowed access to computers, radios, or anything else that I might damage through curiosity, or perhaps something more sinister.**_
 
-Allen West
+Robert B. Laughlin
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 32 mins  █████████████▏░░░░░░░  62.7%
-PHP         1 hr 51 mins   ██▌░░░░░░░░░░░░░░░░░░  12.2%
-Markdown    1 hr 34 mins   ██▏░░░░░░░░░░░░░░░░░░  10.3%
-Text        1 hr 10 mins   █▌░░░░░░░░░░░░░░░░░░░   7.7%
-JSON        32 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-Git Config  21 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Blade Template 7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>TypeScript  10 hrs 37 mins ██████████▉░░░░░░░░░░  52.2%
+Markdown    3 hrs 22 mins  ███▍░░░░░░░░░░░░░░░░░  16.6%
+PHP         2 hrs 56 mins  ███░░░░░░░░░░░░░░░░░░  14.4%
+Text        1 hr 10 mins   █▏░░░░░░░░░░░░░░░░░░░   5.8%
+Blade Template 55 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
+JSON        46 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Git Config  21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Other       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-12/31/2025
+1/1/2026
