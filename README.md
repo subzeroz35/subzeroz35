@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I do have my ducks in line if I want to do it, but I'd love to see the Republicans pick somebody that was going to win and take over this country and frankly, to use the expression, 'Make America great again.'**_
+_**You know, a lot of people are just interested in, in building a company so they can make money and get out.**_
 
-Donald Trump
+Arthur Rock
 
 
 
@@ -24,4 +24,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/2/2026
+1/3/2026
