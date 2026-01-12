@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I'm coming out with a wine... I'm actually a restaurateur. I have Famous Famiglia Pizzeria that has opened up in the Sacramento airport. I'm also working with my business partner on opening up the Linnethia Lounge.**_
+_**What they're not ready for is guys like you and I and Nails and all the other gnarly gnarlingtons in my life, that we are high priests, Vatican assassin warlocks. Boom. Print that, people. See where that goes.**_
 
-NeNe Leakes
+Charlie Sheen
 
 
 
@@ -27,4 +27,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Cocoa       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 PowerShell  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/11/2026
+1/12/2026
