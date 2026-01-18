@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**If you press me to say why I loved him, I can say no more than because he was he, and I was I.**_
+_**Information on how to heal autism and how to possibly delay vaccines or prevent autism shouldn't come from me. It should come from the medical establishment.**_
 
-Michel de Montaigne
+Jenny McCarthy
 
 
 
@@ -22,4 +22,4 @@ JavaScript  1 min          ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-1/17/2026
+1/18/2026
