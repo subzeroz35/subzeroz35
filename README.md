@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Information on how to heal autism and how to possibly delay vaccines or prevent autism shouldn't come from me. It should come from the medical establishment.**_
+_**I try to speak in everyday language. I feel like God has gifted me to take Bible principles and make them practical.**_
 
-Jenny McCarthy
+Joel Osteen
 
 
 
@@ -22,4 +22,4 @@ JavaScript  1 min          ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-1/18/2026
+1/19/2026
