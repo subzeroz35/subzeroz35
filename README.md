@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Look, people have an image of Italians. When I go somewhere in the world, I don't care where it is, when they look at me it's not about my intelligence. It's who can I beat up.**_
+_**Justice requires that everyone should have enough to eat. But it also requires that everyone should contribute to the production of food.**_
 
-Danny Aiello
+Elias Canetti
 
 
 
@@ -26,4 +26,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/24/2026
+1/25/2026
