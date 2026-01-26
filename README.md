@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Justice requires that everyone should have enough to eat. But it also requires that everyone should contribute to the production of food.**_
+_**Losing faith in your own singularity is the start of wisdom, I suppose also the first announcement of death.**_
 
-Elias Canetti
+Peter Conrad
 
 
 
@@ -26,4 +26,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/25/2026
+1/26/2026
