@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I'm just a public-schoolboy. I've got a degree. I'm from a middle-class family in Devon. I've got no story.**_
+_**Why don't you start believing that no matter what you have or haven't done, that your best days are still out in front of you.**_
 
-Chris Martin
+Joel Osteen
 
 
 
@@ -20,4 +20,4 @@ Git         1 min          ░░░░░░░░░░░░░░░░░�
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-1/31/2026
+2/1/2026
