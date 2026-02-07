@@ -1,17 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**When I'm filming, survival requires movement. You need your energy, and you've got to eat the bad stuff, and survival food is rarely pretty, but you kind of do it. I get in that zone, and I eat the nasty stuff, but I'm not like that when I'm back home.**_
+_**To apologize is to lay the foundation for a future offense.**_
 
-Bear Grylls
+Ambrose Bierce
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  14 hrs 7 mins  ██████████████████▋░░  89.1%
-Markdown    1 hr 8 mins    █▌░░░░░░░░░░░░░░░░░░░   7.3%
-JSON        24 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Other       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>TypeScript  14 hrs 37 mins ██████████████████▏░░  86.3%
+Markdown    1 hr 43 mins   ██▏░░░░░░░░░░░░░░░░░░  10.2%
+Other       21 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+JSON        13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/6/2026
+2/7/2026
