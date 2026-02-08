@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**To apologize is to lay the foundation for a future offense.**_
+_**I was shocked at the anger toward me.**_
 
-Ambrose Bierce
+Bernadine Dohrn
 
 
 
@@ -16,4 +16,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/7/2026
+2/8/2026
