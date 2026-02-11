@@ -1,19 +1,19 @@
 ## 😄 Daily Quotes 😄
 
-_**And for me, the real world involves everything: risk, danger, beauty, energy, all we meet with in the real world.**_
+_**England is my home. London is my home. New York feels like, if I have to spend a year living in an unfamiliar city, this is a pretty lovely one to spend a year in, but I will be going home at the end of it, certainly.**_
 
-Christo
+Daniel Radcliffe
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  10 hrs 17 mins █████████████████▍░░░  83.3%
-Markdown    1 hr 25 mins   ██▍░░░░░░░░░░░░░░░░░░  11.5%
-Other       21 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-JSON        16 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>TypeScript  10 hrs 47 mins █████████████████▌░░░  83.7%
+Markdown    1 hr 23 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
+Other       24 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+JSON        12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Bash        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/10/2026
+2/11/2026
