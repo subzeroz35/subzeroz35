@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Everything seems fine until you're about 40. Then something is definitely beginning to go wrong. And you look in the mirror with your old habit of thinking, 'While I accept that everyone grows old and dies, it's a funny thing, but I'm an exception to that rule.'**_
+_**A man is a god in ruins. When men are innocent, life shall be longer, and shall pass into the immortal, as gently as we awake from dreams.**_
 
-Martin Amis
+Ralph Waldo Emerson
 
 
 
@@ -15,4 +15,4 @@ Other       17 mins        ▊░░░░░░░░░░░░░░░░�
 Bash        4 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-2/15/2026
+2/16/2026
