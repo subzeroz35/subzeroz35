@@ -1,14 +1,9 @@
 ## 😄 Daily Quotes 😄
 
-_**I love my family very much. I wish I could see them a little more often than I do. But we understand because we're a show business family and we all work.**_
+_**Orlando's a part of me. The next guy's a part of me. And the next guy's a part of me. That's all I'm trying to do, is tell cool stories that people can relate to.**_
 
-Michael Jackson
+Shemar Moore
 
 
 
-## 📊 Weekly development breakdown 📊
-
-<pre>JSON        1 min          ███████████████████▍░  92.5%
-TypeScript  0 secs         █▌░░░░░░░░░░░░░░░░░░░   7.5%</pre>
-
-2/19/2026
+2/20/2026
