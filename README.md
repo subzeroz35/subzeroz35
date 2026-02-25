@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**If you have a dream, just lie about it. Lie your way unto your dreams.**_
+_**Everyone has a different beauty and different qualities and I think that women need to learn to love their qualities and be comfortable in the fact that everyone is different.**_
 
-Joel McHale
+Miranda Kerr
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Markdown    36 mins        ████████░░░░░░░░░░░░░  38.2%
-JSON        34 mins        ███████▌░░░░░░░░░░░░░  36.2%
-TypeScript  24 mins        █████▎░░░░░░░░░░░░░░░  25.5%
+<pre>TypeScript  1 hr 48 mins   ████████████▋░░░░░░░░  60.1%
+Markdown    36 mins        ████▎░░░░░░░░░░░░░░░░  20.4%
+JSON        35 mins        ████░░░░░░░░░░░░░░░░░  19.5%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-2/24/2026
+2/25/2026
