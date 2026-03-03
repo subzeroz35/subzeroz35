@@ -1,23 +1,25 @@
 ## 😄 Daily Quotes 😄
 
-_**When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.**_
+_**I'm cool with where I'm at. It's certain things I wanna do to be better, but I'm good.**_
 
-Marcus Aurelius
+Jazmine Sullivan
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 30 mins  ██████████████░░░░░░░  66.8%
-Markdown    2 hrs 6 mins   ███▉░░░░░░░░░░░░░░░░░  18.8%
-JSON        1 hr 3 mins    █▉░░░░░░░░░░░░░░░░░░░   9.5%
-Other       19 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-Cocoa       13 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Swift       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  9 hrs 26 mins  ███████████████▌░░░░░  73.9%
+Markdown    1 hr 30 mins   ██▍░░░░░░░░░░░░░░░░░░  11.7%
+JSON        45 mins        █▏░░░░░░░░░░░░░░░░░░░   5.9%
+Other       33 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+Swift       14 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Cocoa       13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Groovy      2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/2/2026
+3/3/2026
