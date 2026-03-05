@@ -1,25 +1,25 @@
 ## 😄 Daily Quotes 😄
 
-_**Women are degraded by the propensity to enjoy the present moment, and, at last, despise the freedom which they have not sufficient virtue to struggle to attain.**_
+_**There is nothing that fear and hope does not permit men to do.**_
 
-Mary Wollstonecraft
+Luc de Clapiers
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  11 hrs 26 mins ████████████████▏░░░░  77.2%
-Markdown    1 hr 30 mins   ██▏░░░░░░░░░░░░░░░░░░  10.1%
-JSON        48 mins        █▏░░░░░░░░░░░░░░░░░░░   5.5%
-Other       33 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-Swift       14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Cocoa       13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Groovy      2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+<pre>TypeScript  8 hrs 57 mins  ████████████████▉░░░░  80.9%
+JSON        43 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Other       36 mins        █▏░░░░░░░░░░░░░░░░░░░   5.5%
+CocoaPods   14 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Swift       14 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Cocoa       13 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Groovy      2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/4/2026
+3/5/2026
