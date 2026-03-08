@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Fulfill - you can far more than fulfill - the brightest anticipations of those who, in the name of human freedom, and in the face of threats that have ripened into terrible realities since, fought that battle which placed you where you now stand.**_
+_**To not be modest about it, you'll find that with only a couple of exceptions, most of the musicians that I've worked with have done their best work by far with me.**_
 
-Robert Dale Owen
+David Bowie
 
 
 
@@ -23,4 +23,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/7/2026
+3/8/2026
