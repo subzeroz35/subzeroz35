@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**To not be modest about it, you'll find that with only a couple of exceptions, most of the musicians that I've worked with have done their best work by far with me.**_
+_**The exercise of power is determined by thousands of interactions between the world of the powerful and that of the powerless, all the more so because these worlds are never divided by a sharp line: everyone has a small part of himself in both.**_
 
-David Bowie
+Vaclav Havel
 
 
 
@@ -23,4 +23,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/8/2026
+3/9/2026
