@@ -1,26 +1,26 @@
 ## 😄 Daily Quotes 😄
 
-_**The exercise of power is determined by thousands of interactions between the world of the powerful and that of the powerless, all the more so because these worlds are never divided by a sharp line: everyone has a small part of himself in both.**_
+_**The thing about New York is you can leave your house without a plan and find the day. You can't do that in Los Angeles. You need to get in your car, all this, you can't just drive around like a lunatic. In New York, you can literally walk outside, and wind up anywhere.**_
 
-Vaclav Havel
+Michael Rapaport
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 25 mins  ███████████▉░░░░░░░░░  57.1%
-JSON        2 hrs 50 mins  ████▌░░░░░░░░░░░░░░░░  21.8%
-Swift       1 hr 6 mins    █▊░░░░░░░░░░░░░░░░░░░   8.5%
-Other       33 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Kotlin      17 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Groovy      17 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-JavaScript  14 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-XML         12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Cocoa       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  8 hrs 38 mins  ████████████▏░░░░░░░░  58.2%
+JSON        3 hrs 11 mins  ████▌░░░░░░░░░░░░░░░░  21.5%
+Swift       52 mins        █▏░░░░░░░░░░░░░░░░░░░   5.9%
+Other       37 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+JavaScript  28 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Kotlin      23 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Groovy      22 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+XML         12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Java Properties 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/9/2026
+3/10/2026
