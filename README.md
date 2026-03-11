@@ -1,26 +1,26 @@
 ## 😄 Daily Quotes 😄
 
-_**The thing about New York is you can leave your house without a plan and find the day. You can't do that in Los Angeles. You need to get in your car, all this, you can't just drive around like a lunatic. In New York, you can literally walk outside, and wind up anywhere.**_
+_**It is often easier to ask for forgiveness than to ask for permission.**_
 
-Michael Rapaport
+Grace Hopper
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 38 mins  ████████████▏░░░░░░░░  58.2%
-JSON        3 hrs 11 mins  ████▌░░░░░░░░░░░░░░░░  21.5%
-Swift       52 mins        █▏░░░░░░░░░░░░░░░░░░░   5.9%
-Other       37 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-JavaScript  28 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
-Kotlin      23 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Groovy      22 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-XML         12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+<pre>TypeScript  10 hrs 22 mins █████████████▏░░░░░░░  62.5%
+JSON        3 hrs 12 mins  ████░░░░░░░░░░░░░░░░░  19.3%
+Swift       52 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Other       37 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+JavaScript  28 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Kotlin      23 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+Groovy      22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+XML         12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Java Properties 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/10/2026
+3/11/2026
