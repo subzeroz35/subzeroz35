@@ -1,28 +1,28 @@
 ## 😄 Daily Quotes 😄
 
-_**I wasn't going to get such a nice car - I was going to get a cute little hybrid or something, keep the trees happy - but then my grandfather died, and it was all: retail therapy!**_
+_**Can advertising foist an inferior product on the consumer? Bitter experience has taught me that it cannot. On those rare occasions when I have advertised products which consumer tests have found inferior to other products in the same field, the results have been disastrous.**_
 
-Chris Colfer
+David Ogilvy
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  13 hrs 43 mins ██████████████▎░░░░░░  68.2%
-JSON        3 hrs 16 mins  ███▍░░░░░░░░░░░░░░░░░  16.3%
-Swift       52 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
-Other       33 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
-JavaScript  28 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
-Kotlin      23 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+<pre>TypeScript  13 hrs 48 mins ██████████████▎░░░░░░  68.0%
+JSON        2 hrs 36 mins  ██▋░░░░░░░░░░░░░░░░░░  12.9%
+Kotlin      43 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+JavaScript  40 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+YAML        35 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
+Markdown    34 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 Groovy      22 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-XML         12 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Other       22 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Git         11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 Bash        9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+XML         7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 Java Properties 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Swift       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+nvmrc       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/12/2026
+3/13/2026
