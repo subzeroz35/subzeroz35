@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Wisdom is not wisdom when it is derived from books alone.**_
+_**It does not matter much whom we live with in this world, but it matters a great deal whom we dream of.**_
 
-Horace
+Willa Cather
 
 
 
@@ -26,4 +26,4 @@ nvmrc       0 secs         ░░░░░░░░░░░░░░░░░�
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/14/2026
+3/15/2026
