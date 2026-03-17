@@ -1,29 +1,26 @@
 ## 😄 Daily Quotes 😄
 
-_**Without courage, wisdom bears no fruit.**_
+_**There is nothing new in art except talent.**_
 
-Baltasar Gracian
+Anton Chekhov
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  14 hrs 15 mins ██████████████▌░░░░░░  69.4%
-JSON        2 hrs 16 mins  ██▎░░░░░░░░░░░░░░░░░░  11.1%
-Markdown    1 hr 13 mins   █▎░░░░░░░░░░░░░░░░░░░   6.0%
-JavaScript  51 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-YAML        38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-Kotlin      25 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Other       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Git         11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+<pre>TypeScript  13 hrs 5 mins  ██████████████▍░░░░░░  68.6%
+JSON        2 hrs 13 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
+Markdown    1 hr 29 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
+YAML        38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+JavaScript  38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Kotlin      20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Other       13 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Git         9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 Bash        9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Groovy      7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+TSConfig    6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
 Swift       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 nvmrc       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/16/2026
+3/17/2026
