@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**And of course I didn't make any money from stand up for years, so I had temp jobs. That was the way I made money.**_
+_**Insofar as international law is observed, it provides us with stability and order and with a means of predicting the behavior of those with whom we have reciprocal legal obligations.**_
 
-Demetri Martin
+J. William Fulbright
 
 
 
@@ -17,4 +17,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/22/2026
+3/23/2026
