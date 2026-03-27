@@ -1,19 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**The percentage you're paying is too high priced While you're living beyond all your means And the man in the suit has just bought a new car From the profit he's made on your dreams.**_
+_**I've always hoped 'Chopped' would telegraph our enormous affection and love and admiration for chefs and food, but at the same time, we are inflicting extraordinary cruelty on them.**_
 
-Steve Winwood
+Ted Allen
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 47 mins  █████████████████▎░░░  82.3%
-JSON        33 mins        █▏░░░░░░░░░░░░░░░░░░░   5.9%
-Other       28 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
-Bash        26 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
-YAML        11 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+<pre>TypeScript  3 hrs 48 mins  ███████████▍░░░░░░░░░  54.5%
+Other       1 hr 31 mins   ████▌░░░░░░░░░░░░░░░░  21.8%
+Bash        48 mins        ██▍░░░░░░░░░░░░░░░░░░  11.7%
+JSON        36 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
+YAML        11 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Docker      2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-3/26/2026
+3/27/2026
