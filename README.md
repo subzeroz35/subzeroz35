@@ -1,19 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**Nature is not simply a technical or economical resource, and human beings are not mere numbers. To suggest that one can somehow align all the squabbling institutions of science, environmental management, government and diplomacy in an alliance of convenience to regulate the global climate seems to me optimistic.**_
+_**It all happened so fast. The ghetto. The deportation. The sealed cattle car. The fiery altar upon which the history of our people and the future of mankind were meant to be sacrificed.**_
 
-James Buchan
+Elie Wiesel
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>JSON        1 hr 7 mins    ███████▎░░░░░░░░░░░░░  34.7%
-Other       1 hr 6 mins    ███████▏░░░░░░░░░░░░░  34.0%
-TypeScript  27 mins        ██▉░░░░░░░░░░░░░░░░░░  14.1%
-Bash        22 mins        ██▍░░░░░░░░░░░░░░░░░░  11.6%
-YAML        6 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Docker      4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>JSON        46 mins        ███████████▋░░░░░░░░░  55.7%
+TypeScript  24 mins        ██████▏░░░░░░░░░░░░░░  29.5%
+YAML        5 mins         █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Other       4 mins         █░░░░░░░░░░░░░░░░░░░░   5.1%
+Docker      2 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Bash        0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%</pre>
 
-4/2/2026
+4/3/2026
