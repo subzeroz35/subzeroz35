@@ -1,9 +1,9 @@
 ## 😄 Daily Quotes 😄
 
-_**Jealousy is bred in doubts. When those doubts change into certainties, then the passion either ceases or turns absolute madness.**_
+_**I would find myself laughing and wondering where these ideas came from. You can call it imagination, I suppose. But I was grateful for wherever they came from.**_
 
-Francois de La Rochefoucauld
+Amy Tan
 
 
 
-4/4/2026
+4/5/2026
