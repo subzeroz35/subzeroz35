@@ -1,9 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**Business ethics has always had problems that are distinct from those of other professions, such as medicine, law, engineering, dentistry, or nursing.**_
+_**The reserve of modern assertions is sometimes pushed to extremes, in which the fear of being contradicted leads the writer to strip himself of almost all sense and meaning.**_
 
-Peter Singer
+Winston Churchill
 
 
 
-4/6/2026
+## 📊 Weekly development breakdown 📊
+
+<pre>Other       1 hr 2 mins    █████████▍░░░░░░░░░░░  45.1%
+TypeScript  51 mins        ███████▋░░░░░░░░░░░░░  36.5%
+JavaScript  14 mins        ██░░░░░░░░░░░░░░░░░░░  10.1%
+JSON        11 mins        █▋░░░░░░░░░░░░░░░░░░░   8.3%</pre>
+
+4/7/2026
