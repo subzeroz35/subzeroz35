@@ -1,16 +1,16 @@
 ## 😄 Daily Quotes 😄
 
-_**The reserve of modern assertions is sometimes pushed to extremes, in which the fear of being contradicted leads the writer to strip himself of almost all sense and meaning.**_
+_**If you share a common ancestor with somebody, you're related to them. It doesn't mean that you're going to invite them to the family reunion, but it means that you share DNA. I think it's fascinating.**_
 
-Winston Churchill
+Henry Louis Gates
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Other       1 hr 2 mins    █████████▍░░░░░░░░░░░  45.1%
-TypeScript  51 mins        ███████▋░░░░░░░░░░░░░  36.5%
-JavaScript  14 mins        ██░░░░░░░░░░░░░░░░░░░  10.1%
-JSON        11 mins        █▋░░░░░░░░░░░░░░░░░░░   8.3%</pre>
+<pre>Other       1 hr 59 mins   ███████████▌░░░░░░░░░  55.3%
+TypeScript  1 hr 10 mins   ██████▉░░░░░░░░░░░░░░  32.8%
+JavaScript  14 mins        █▎░░░░░░░░░░░░░░░░░░░   6.5%
+JSON        11 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%</pre>
 
-4/7/2026
+4/8/2026
