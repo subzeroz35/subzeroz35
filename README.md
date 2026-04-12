@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I've always had an inquisitive mind about everything from flowers to television sets to motor cars. Always pulled them apart - couldn't put 'em back, but always extremely interested in how things work.**_
+_**Each day, each one of us chooses not to do many things that would be legal but offensive to those around us.**_
 
-Craig Johnston
+Ralph Peters
 
 
 
@@ -14,4 +14,4 @@ JSON        22 mins        █▋░░░░░░░░░░░░░░░�
 JavaScript  14 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-4/11/2026
+4/12/2026
