@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Each day, each one of us chooses not to do many things that would be legal but offensive to those around us.**_
+_**Lawyers are men who hire out their words and anger.**_
 
-Ralph Peters
+Horace
 
 
 
@@ -14,4 +14,4 @@ JSON        22 mins        █▋░░░░░░░░░░░░░░░�
 JavaScript  14 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
 
-4/12/2026
+4/13/2026
