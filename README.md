@@ -1,17 +1,22 @@
 ## 😄 Daily Quotes 😄
 
-_**Lawyers are men who hire out their words and anger.**_
+_**A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.**_
 
-Horace
+George Bernard Shaw
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Other       2 hrs 39 mins  ███████████▉░░░░░░░░░  57.1%
-TypeScript  1 hr 22 mins   ██████▏░░░░░░░░░░░░░░  29.5%
-JSON        22 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
-JavaScript  14 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+<pre>Other       2 hrs 44 mins  █████████▏░░░░░░░░░░░  43.7%
+JSON        1 hr 51 mins   ██████▏░░░░░░░░░░░░░░  29.6%
+TypeScript  57 mins        ███▏░░░░░░░░░░░░░░░░░  15.3%
+XML         16 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+Bash        10 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Text        8 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Markdown    6 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+YAML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.4%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/13/2026
+4/14/2026
