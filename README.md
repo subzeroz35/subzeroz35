@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I don't know the key to success, but the key to failure is trying to please everybody.**_
+_**Choose your life's mate carefully. From this one decision will come 90 percent of all your happiness or misery.**_
 
-Bill Cosby
+H. Jackson Brown, Jr.
 
 
 
@@ -23,4 +23,4 @@ Swift       0 secs         ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/19/2026
+4/20/2026
