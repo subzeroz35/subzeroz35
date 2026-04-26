@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Every thought we think is creating our future.**_
+_**Education is the ability to listen to almost anything without losing your temper or your self-confidence.**_
 
-Louise L. Hay
+Frost, Robert
 
 
 
@@ -20,4 +20,4 @@ TSConfig    0 secs         ░░░░░░░░░░░░░░░░░�
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/25/2026
+4/26/2026
