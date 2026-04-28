@@ -1,23 +1,22 @@
 ## 😄 Daily Quotes 😄
 
-_**Happiness, I do not know where to turn to discover you on earth, in the air or the sky yet I know you exist and are no futile dream.**_
+_**I was impressed by Hendrix. His attitude was brilliant. Even the way he walked was amazing.**_
 
-Rosalia de Castro
+Ritchie Blackmore
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  15 hrs 51 mins ████████████▎░░░░░░░░  58.9%
-Other       4 hrs 42 mins  ███▋░░░░░░░░░░░░░░░░░  17.4%
-Markdown    3 hrs 5 mins   ██▍░░░░░░░░░░░░░░░░░░  11.5%
-Bash        1 hr 24 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
-JavaScript  1 hr 3 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-JSON        38 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-Text        8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  10 hrs 18 mins ██████████▋░░░░░░░░░░  50.9%
+Other       4 hrs 19 mins  ████▍░░░░░░░░░░░░░░░░  21.4%
+Markdown    2 hrs 23 mins  ██▍░░░░░░░░░░░░░░░░░░  11.8%
+Bash        1 hr 24 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
+JavaScript  1 hr 1 min     █░░░░░░░░░░░░░░░░░░░░   5.1%
+JSON        38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Text        8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/27/2026
+4/28/2026
