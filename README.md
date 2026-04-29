@@ -1,22 +1,22 @@
 ## 😄 Daily Quotes 😄
 
-_**I was impressed by Hendrix. His attitude was brilliant. Even the way he walked was amazing.**_
+_**It wasn't glamorous in my day. In the regions, reporters were seen as such low life that they didn't merit their name in the Radio Times. Now people are interested in being famous. I never gave it a thought.**_
 
-Ritchie Blackmore
+Kate Adie
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  10 hrs 18 mins ██████████▋░░░░░░░░░░  50.9%
-Other       4 hrs 19 mins  ████▍░░░░░░░░░░░░░░░░  21.4%
-Markdown    2 hrs 23 mins  ██▍░░░░░░░░░░░░░░░░░░  11.8%
-Bash        1 hr 24 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
-JavaScript  1 hr 1 min     █░░░░░░░░░░░░░░░░░░░░   5.1%
-JSON        38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-Text        8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+<pre>TypeScript  7 hrs 41 mins  █████████░░░░░░░░░░░░  43.2%
+Other       4 hrs 47 mins  █████▋░░░░░░░░░░░░░░░  26.9%
+Markdown    1 hr 55 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
+Bash        1 hr 45 mins   ██░░░░░░░░░░░░░░░░░░░   9.8%
+JSON        55 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
+JavaScript  41 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Text        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/28/2026
+4/29/2026
