@@ -1,22 +1,25 @@
 ## 😄 Daily Quotes 😄
 
-_**It wasn't glamorous in my day. In the regions, reporters were seen as such low life that they didn't merit their name in the Radio Times. Now people are interested in being famous. I never gave it a thought.**_
+_**When people talk of the freedom of writing, speaking or thinking I cannot choose but laugh. No such thing ever existed. No such thing now exists but I hope it will exist. But it must be hundreds of years after you and I shall write and speak no more.**_
 
-Kate Adie
+John Adams
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 41 mins  █████████░░░░░░░░░░░░  43.2%
-Other       4 hrs 47 mins  █████▋░░░░░░░░░░░░░░░  26.9%
-Markdown    1 hr 55 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
-Bash        1 hr 45 mins   ██░░░░░░░░░░░░░░░░░░░   9.8%
-JSON        55 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
-JavaScript  41 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-Text        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>TypeScript  6 hrs 20 mins  ████████▌░░░░░░░░░░░░  40.9%
+Other       4 hrs 7 mins   █████▌░░░░░░░░░░░░░░░  26.5%
+Bash        2 hrs 5 mins   ██▊░░░░░░░░░░░░░░░░░░  13.4%
+JSON        59 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
+JavaScript  51 mins        █▏░░░░░░░░░░░░░░░░░░░   5.5%
+Markdown    48 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
+Text        9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+CSS         6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/29/2026
+4/30/2026
