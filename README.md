@@ -1,26 +1,30 @@
 ## 😄 Daily Quotes 😄
 
-_**The little trouble in the world that is not due to love is due to friendship.**_
+_**The sad truth is that without complex business partnerships between African elites and European traders and commercial agents, the slave trade to the New World would have been impossible, at least on the scale it occurred.**_
 
-E. W. Howe
+Henry Louis Gates
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Other       7 hrs 23 mins  █████████▏░░░░░░░░░░░  43.8%
-TypeScript  2 hrs 41 mins  ███▎░░░░░░░░░░░░░░░░░  16.0%
-Markdown    1 hr 46 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
-Bash        1 hr 44 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
-JSON        1 hr 21 mins   █▋░░░░░░░░░░░░░░░░░░░   8.1%
-Python      56 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
-JavaScript  32 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Text        8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-CSS         6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-TOML        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Git Config  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>Other       8 hrs 42 mins  ███████▊░░░░░░░░░░░░░  37.0%
+TypeScript  5 hrs 14 mins  ████▋░░░░░░░░░░░░░░░░  22.3%
+Bash        2 hrs 28 mins  ██▏░░░░░░░░░░░░░░░░░░  10.5%
+JSON        2 hrs 21 mins  ██░░░░░░░░░░░░░░░░░░░  10.1%
+Markdown    2 hrs 7 mins   █▉░░░░░░░░░░░░░░░░░░░   9.0%
+Python      56 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+JavaScript  41 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Text        17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+TOML        15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+CSS         7 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Kotlin      6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Git Config  6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 SRecode Template 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+HTML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/5/2026
+5/6/2026
