@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Don't forget Mother's Day. Or as they call it in Beverly Hills, Dad's Third Wife Day.**_
+_**Skepticism is a virtue in history as well as in philosophy.**_
 
-Jay Leno
+Napoleon Bonaparte
 
 
 
@@ -26,4 +26,4 @@ Groovy      0 secs         ░░░░░░░░░░░░░░░░░�
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/11/2026
+5/12/2026
