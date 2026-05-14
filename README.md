@@ -1,28 +1,25 @@
 ## 😄 Daily Quotes 😄
 
-_**It is no good getting furious if you get stuck. What I do is keep thinking about the problem but work on something else. Sometimes it is years before I see the way forward. In the case of information loss and black holes, it was 29 years.**_
+_**The signs of outstanding leadership appear primarily among the followers. Are the followers reaching their potential? Are they learning? Serving? Do they achieve the required results? Do they change with grace? Manage conflict?**_
 
-Stephen Hawking
+Max de Pree
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  13 hrs 43 mins █████████▎░░░░░░░░░░░  44.3%
-Markdown    6 hrs 20 mins  ████▎░░░░░░░░░░░░░░░░  20.4%
-Other       5 hrs 8 mins   ███▍░░░░░░░░░░░░░░░░░  16.6%
-JSON        2 hrs 51 mins  █▉░░░░░░░░░░░░░░░░░░░   9.2%
-Bash        1 hr 26 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-JavaScript  41 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Text        19 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-TOML        10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Kotlin      6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Git Config  4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+<pre>TypeScript  15 hrs 44 mins ███████████░░░░░░░░░░  52.6%
+Markdown    6 hrs 40 mins  ████▋░░░░░░░░░░░░░░░░  22.3%
+Other       4 hrs          ██▊░░░░░░░░░░░░░░░░░░  13.4%
+JSON        1 hr 36 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
+JavaScript  51 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Text        34 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Bash        22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 YAML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-CSS         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Kotlin      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/13/2026
+5/14/2026
