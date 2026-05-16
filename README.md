@@ -1,21 +1,27 @@
 ## 😄 Daily Quotes 😄
 
-_**Film will only became an art when its materials are as inexpensive as pencil and paper.**_
+_**To succeed in business it is necessary to make others see things as you see them.**_
 
-Jean Cocteau
+Aristotle Onassis
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  13 hrs 21 mins ██████████▍░░░░░░░░░░  49.9%
-Markdown    6 hrs 40 mins  █████▏░░░░░░░░░░░░░░░  25.0%
-Other       3 hrs 37 mins  ██▊░░░░░░░░░░░░░░░░░░  13.6%
-JSON        1 hr 18 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
-JavaScript  51 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
-Text        34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Bash        20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  17 hrs 39 mins ███████████▉░░░░░░░░░  56.7%
+Markdown    3 hrs 46 mins  ██▌░░░░░░░░░░░░░░░░░░  12.1%
+Other       3 hrs 16 mins  ██▏░░░░░░░░░░░░░░░░░░  10.5%
+JSON        1 hr 46 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+JavaScript  1 hr 25 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.6%
+Text        1 hr 25 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.6%
+CSS         46 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Bash        40 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Git         13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+HTML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Image (svg) 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+YAML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Git Config  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/15/2026
+5/16/2026
