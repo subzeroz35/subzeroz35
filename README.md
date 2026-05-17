@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**To succeed in business it is necessary to make others see things as you see them.**_
+_**I'm not asking any of you to make drastic changes to every single one of your recipes or to totally change the way you do business. But what I am asking is that you consider reformulating your menu in pragmatic and incremental ways to create healthier versions of the foods that we all love.**_
 
-Aristotle Onassis
+Michelle Obama
 
 
 
@@ -24,4 +24,4 @@ Git Config  1 min          ░░░░░░░░░░░░░░░░░�
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/16/2026
+5/17/2026
