@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time.**_
+_**When I was building the Vietnam Memorial, I never once asked the veterans what it was like in the war, because from my point of view, you don't pry into other people's business.**_
 
-Johann Wolfgang von Goethe
+Maya Lin
 
 
 
@@ -24,4 +24,4 @@ Git Config  1 min          ░░░░░░░░░░░░░░░░░�
 TOML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/19/2026
+5/20/2026
