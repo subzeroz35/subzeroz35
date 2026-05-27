@@ -1,31 +1,28 @@
 ## 😄 Daily Quotes 😄
 
-_**And of course I didn't make any money from stand up for years, so I had temp jobs. That was the way I made money.**_
+_**Do not brood over your past mistakes and failures as this will only fill your mind with grief, regret and depression. Do not repeat them in the future.**_
 
-Demetri Martin
+Sivananda
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  21 hrs 9 mins  ██████████████░░░░░░░  66.8%
-Other       2 hrs 56 mins  █▉░░░░░░░░░░░░░░░░░░░   9.3%
-Bash        2 hrs 34 mins  █▋░░░░░░░░░░░░░░░░░░░   8.1%
-Markdown    1 hr 27 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-JSON        1 hr 21 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-TOML        46 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-CSS         42 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Git         14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Text        10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Git Config  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Image (svg) 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-JavaScript  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-YAML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-CSV         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>TypeScript  23 hrs 28 mins ██████████████░░░░░░░  67.0%
+Other       2 hrs 58 mins  █▊░░░░░░░░░░░░░░░░░░░   8.5%
+Markdown    2 hrs 34 mins  █▌░░░░░░░░░░░░░░░░░░░   7.3%
+Bash        1 hr 58 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+JSON        1 hr 45 mins   █░░░░░░░░░░░░░░░░░░░░   5.0%
+CSS         47 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+TOML        46 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Text        10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Git Config  9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Image (svg) 7 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+JavaScript  6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+YAML        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 nvmrc       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/26/2026
+5/27/2026
