@@ -1,28 +1,30 @@
 ## 😄 Daily Quotes 😄
 
-_**If you want to know the taste of a pear, you must change the pear by eating it yourself. If you want to know the theory and methods of revolution, you must take part in revolution. All genuine knowledge originates in direct experience.**_
+_**My greatest point is my persistence. I never give up in a match. However down I am, I fight until the last ball. My list of matches shows that I have turned a great many so-called irretrievable defeats into victories.**_
 
-Mao Zedong
+Bjorn Borg
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  26 hrs 26 mins ██████████████▌░░░░░░  69.5%
-JSON        2 hrs 35 mins  █▍░░░░░░░░░░░░░░░░░░░   6.8%
-Other       2 hrs 28 mins  █▎░░░░░░░░░░░░░░░░░░░   6.5%
-Markdown    2 hrs 11 mins  █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Bash        2 hrs 4 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
-CSS         51 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-TOML        35 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-JavaScript  12 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Git Config  11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Text        10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
-YAML        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Image (svg) 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>TypeScript  25 hrs 46 mins █████████████▍░░░░░░░  63.9%
+JSON        3 hrs 6 mins   █▌░░░░░░░░░░░░░░░░░░░   7.7%
+Bash        3 hrs          █▌░░░░░░░░░░░░░░░░░░░   7.4%
+Other       2 hrs 38 mins  █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Markdown    2 hrs 37 mins  █▎░░░░░░░░░░░░░░░░░░░   6.5%
+CSS         1 hr 4 mins    ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+TOML        35 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Git Config  32 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+JavaScript  31 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Text        10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.4%
+YAML        7 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+CSV         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Image (svg) 4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+HTML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 nvmrc       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/28/2026
+5/30/2026
