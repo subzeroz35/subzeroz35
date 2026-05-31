@@ -1,30 +1,31 @@
 ## 😄 Daily Quotes 😄
 
-_**My greatest point is my persistence. I never give up in a match. However down I am, I fight until the last ball. My list of matches shows that I have turned a great many so-called irretrievable defeats into victories.**_
+_**I like the bad-boy types. Generally the guy I'm attracted to is the guy in the club with all the tattoos and nail polish. He's usually the lead singer in a punk band and plays guitar. But my serious boyfriends are relatively clean-cut, nice guys. So it's strange.**_
 
-Bjorn Borg
+Megan Fox
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  25 hrs 46 mins █████████████▍░░░░░░░  63.9%
-JSON        3 hrs 6 mins   █▌░░░░░░░░░░░░░░░░░░░   7.7%
-Bash        3 hrs          █▌░░░░░░░░░░░░░░░░░░░   7.4%
-Other       2 hrs 38 mins  █▎░░░░░░░░░░░░░░░░░░░   6.5%
-Markdown    2 hrs 37 mins  █▎░░░░░░░░░░░░░░░░░░░   6.5%
-CSS         1 hr 4 mins    ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-TOML        35 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Git Config  32 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-JavaScript  31 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Text        10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.4%
+<pre>TypeScript  29 hrs 40 mins ██████████████▏░░░░░░  67.7%
+JSON        3 hrs 33 mins  █▋░░░░░░░░░░░░░░░░░░░   8.1%
+Markdown    3 hrs 24 mins  █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Bash        2 hrs 42 mins  █▎░░░░░░░░░░░░░░░░░░░   6.2%
+CSS         1 hr 22 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Other       55 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+JavaScript  39 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Git Config  30 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Image (svg) 15 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
+TOML        11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.4%
+HTML        10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.4%
 YAML        7 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+XML         6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 CSV         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Image (svg) 4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-HTML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Text        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-nvmrc       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Image (png) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/30/2026
+5/31/2026
