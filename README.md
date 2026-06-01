@@ -1,31 +1,31 @@
 ## 😄 Daily Quotes 😄
 
-_**I like the bad-boy types. Generally the guy I'm attracted to is the guy in the club with all the tattoos and nail polish. He's usually the lead singer in a punk band and plays guitar. But my serious boyfriends are relatively clean-cut, nice guys. So it's strange.**_
+_**Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.**_
 
-Megan Fox
+Ayn Rand
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  29 hrs 40 mins ██████████████▏░░░░░░  67.7%
-JSON        3 hrs 33 mins  █▋░░░░░░░░░░░░░░░░░░░   8.1%
-Markdown    3 hrs 24 mins  █▋░░░░░░░░░░░░░░░░░░░   7.8%
-Bash        2 hrs 42 mins  █▎░░░░░░░░░░░░░░░░░░░   6.2%
-CSS         1 hr 22 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-Other       55 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+<pre>TypeScript  30 hrs 38 mins ██████████████▊░░░░░░  70.8%
+JSON        3 hrs 41 mins  █▊░░░░░░░░░░░░░░░░░░░   8.5%
+Markdown    3 hrs 2 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
+Bash        2 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░   5.2%
+Other       49 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 JavaScript  39 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Git Config  30 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+CSS         38 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Git Config  34 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 Image (svg) 15 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-TOML        11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.4%
-HTML        10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.4%
+HTML        11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.4%
 YAML        7 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 XML         6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+TSConfig    5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 CSV         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+TOML        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Text        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (png) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/31/2026
+6/1/2026
