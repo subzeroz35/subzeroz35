@@ -1,31 +1,30 @@
 ## 😄 Daily Quotes 😄
 
-_**Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.**_
+_**If the Romans had been obliged to learn Latin, they would never have found time to conquer the world.**_
 
-Ayn Rand
+Heinrich Heine
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  30 hrs 38 mins ██████████████▊░░░░░░  70.8%
-JSON        3 hrs 41 mins  █▊░░░░░░░░░░░░░░░░░░░   8.5%
-Markdown    3 hrs 2 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
-Bash        2 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░   5.2%
-Other       49 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-JavaScript  39 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-CSS         38 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Git Config  34 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Image (svg) 15 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
+<pre>TypeScript  29 hrs 23 mins █████████████▍░░░░░░░  63.9%
+Markdown    5 hrs 2 mins   ██▎░░░░░░░░░░░░░░░░░░  11.0%
+JSON        4 hrs 8 mins   █▉░░░░░░░░░░░░░░░░░░░   9.0%
+Bash        3 hrs 23 mins  █▌░░░░░░░░░░░░░░░░░░░   7.4%
+Other       51 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Git Config  41 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+JavaScript  38 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+CSS         38 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Image (svg) 17 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+TOML        13 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
 HTML        11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.4%
-YAML        7 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 XML         6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 TSConfig    5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 CSV         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-TOML        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+YAML        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Text        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (png) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/1/2026
+6/2/2026
