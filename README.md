@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**If the Romans had been obliged to learn Latin, they would never have found time to conquer the world.**_
+_**What does it say about a president's policies when he has to use a cartoon character rather than real people to justify his record? What does it say about the fiction of old liberalism to insist that good jobs and good schools and good wages will result from policies that have failed us, time and again?**_
 
-Heinrich Heine
+Mitt Romney
 
 
 
@@ -27,4 +27,4 @@ Git         3 mins         ░░░░░░░░░░░░░░░░░�
 Text        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Image (png) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/2/2026
+6/3/2026
