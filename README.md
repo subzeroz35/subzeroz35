@@ -1,33 +1,34 @@
 ## 😄 Daily Quotes 😄
 
-_**Great thoughts and a pure heart, that is what we should ask from God.**_
+_**However things may seem, no evil thing is success and no good thing is failure.**_
 
-Johann Wolfgang von Goethe
+Henry Wadsworth Longfellow
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  14 hrs 37 mins ████████▍░░░░░░░░░░░░  40.0%
-Markdown    10 hrs 30 mins ██████░░░░░░░░░░░░░░░  28.7%
-JSON        5 hrs 2 mins   ██▉░░░░░░░░░░░░░░░░░░  13.8%
-Bash        3 hrs 8 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
-Other       1 hr 13 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Git Config  51 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Text        24 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-YAML        21 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Python      11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  15 hrs 42 mins █████████▊░░░░░░░░░░░  46.7%
+Markdown    7 hrs 44 mins  ████▊░░░░░░░░░░░░░░░░  23.0%
+JSON        4 hrs 2 mins   ██▌░░░░░░░░░░░░░░░░░░  12.0%
+Bash        2 hrs 33 mins  █▌░░░░░░░░░░░░░░░░░░░   7.6%
+Git Config  49 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Other       44 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+YAML        43 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Image (svg) 22 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Kotlin      15 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Text        14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Python      11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
 Groovy      8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Kotlin      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Graphviz (DOT) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Image (png) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Prisma      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-CMake       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+CMake       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/23/2026
+6/24/2026
