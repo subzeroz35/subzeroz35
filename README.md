@@ -1,33 +1,29 @@
 ## 😄 Daily Quotes 😄
 
-_**Sales are contingent upon the attitude of the salesman - not the attitude of the prospect.**_
+_**Democrats are going to proudly run on the fact that we turned the economy around. It was our policies under President Obama's leadership through the Recovery Act, through investing in the automobile industry.**_
 
-W. Clement Stone
+Debbie Wasserman Schultz
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  15 hrs 20 mins ████████████▊░░░░░░░░  61.0%
-JSON        3 hrs 7 mins   ██▌░░░░░░░░░░░░░░░░░░  12.4%
-Markdown    2 hrs 35 mins  ██▏░░░░░░░░░░░░░░░░░░  10.3%
-Other       55 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-Git Config  52 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-YAML        41 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
-Bash        31 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Image (svg) 22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Kotlin      15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Groovy      9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-JavaScript  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Python      5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+<pre>TypeScript  15 hrs 44 mins ███████████████▏░░░░░  72.5%
+JSON        2 hrs 12 mins  ██▏░░░░░░░░░░░░░░░░░░  10.2%
+Markdown    55 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+Other       52 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+YAML        39 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Bash        24 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Image (svg) 22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Kotlin      15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Python      4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (png) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Graphviz (DOT) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-CMake       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Graphviz (DOT) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/29/2026
+6/30/2026
