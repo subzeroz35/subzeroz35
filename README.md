@@ -1,29 +1,27 @@
 ## 😄 Daily Quotes 😄
 
-_**Democrats are going to proudly run on the fact that we turned the economy around. It was our policies under President Obama's leadership through the Recovery Act, through investing in the automobile industry.**_
+_**Government health care changes the relationship between the citizen and the state, and, in fact, I think it's an assault on citizenship.**_
 
-Debbie Wasserman Schultz
+Mark Steyn
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  15 hrs 44 mins ███████████████▏░░░░░  72.5%
-JSON        2 hrs 12 mins  ██▏░░░░░░░░░░░░░░░░░░  10.2%
-Markdown    55 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Other       52 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-YAML        39 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
-Bash        24 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-Image (svg) 22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
-Kotlin      15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-Python      4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+<pre>TypeScript  15 hrs 1 min   ███████████████▌░░░░░  74.1%
+JSON        2 hrs 21 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
+Other       1 hr 3 mins    █░░░░░░░░░░░░░░░░░░░░   5.2%
+Markdown    54 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+Bash        27 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Kotlin      9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Python      4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+JavaScript  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Groovy      3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-JavaScript  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+YAML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Image (png) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Graphviz (DOT) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Graphviz (DOT) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/30/2026
+7/1/2026
