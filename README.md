@@ -1,25 +1,26 @@
 ## 😄 Daily Quotes 😄
 
-_**The history of the world shows that peoples and societies do not have to pass through a fixed series of stages in the course of development.**_
+_**Every decent man is ashamed of the government he lives under.**_
 
-Aung San Suu Kyi
+H. L. Mencken
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  15 hrs 16 mins ██████████████▏░░░░░░  67.4%
-JSON        3 hrs 9 mins   ██▉░░░░░░░░░░░░░░░░░░  13.9%
-Other       1 hr 23 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
-Markdown    1 hr 13 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
-JavaScript  50 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-YAML        22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+<pre>TypeScript  12 hrs 22 mins ███████████▍░░░░░░░░░  54.2%
+JSON        3 hrs 17 mins  ███░░░░░░░░░░░░░░░░░░  14.4%
+Markdown    3 hrs 3 mins   ██▊░░░░░░░░░░░░░░░░░░  13.4%
+Other       1 hr 26 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
+JavaScript  49 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Python      37 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+YAML        26 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Bash        22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
 Kotlin      9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Bash        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Text        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 Groovy      3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Text        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Git Config  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/3/2026
+7/4/2026
