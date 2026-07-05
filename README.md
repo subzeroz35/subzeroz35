@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Every decent man is ashamed of the government he lives under.**_
+_**If repression has indeed been the fundamental link between power, knowledge, and sexuality since the classical age, it stands to reason that we will not be able to free ourselves from it except at a considerable cost.**_
 
-H. L. Mencken
+Michel Foucault
 
 
 
@@ -23,4 +23,4 @@ Git Config  2 mins         ░░░░░░░░░░░░░░░░░�
 Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/4/2026
+7/5/2026
