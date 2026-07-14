@@ -1,38 +1,38 @@
 ## 😄 Daily Quotes 😄
 
-_**Without television and mass communication, that knowledge wouldn't exist. So I think it actually has the possibility of turning people into more understanding and more empathetic people.**_
+_**Learning how to operate a soul figures to take time.**_
 
-John Warnock
+Timothy Leary
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  18 hrs 23 mins █████████▋░░░░░░░░░░░  46.3%
-Markdown    10 hrs 6 mins  █████▎░░░░░░░░░░░░░░░  25.5%
-JSON        3 hrs 59 mins  ██░░░░░░░░░░░░░░░░░░░  10.1%
-YAML        1 hr 16 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.2%
-Kotlin      1 hr 2 mins    ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Other       56 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
-Bash        54 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-JavaScript  36 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+<pre>TypeScript  22 hrs 47 mins ███████████▋░░░░░░░░░  55.7%
+Markdown    8 hrs 47 mins  ████▌░░░░░░░░░░░░░░░░  21.5%
+JSON        3 hrs 34 mins  █▊░░░░░░░░░░░░░░░░░░░   8.8%
+Kotlin      1 hr 4 mins    ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Other       1 hr 1 min     ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+YAML        59 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+JavaScript  36 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 Swift       31 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Docker      26 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 Text        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Docker      14 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
 Java Properties 13 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Python      13 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-CSS         11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Python      12 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Objective-C++ 11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Git Config  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Image (svg) 4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Nginx configuration file 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Nginx configuration file 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Objective-C 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 nvmrc       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/13/2026
+7/14/2026
