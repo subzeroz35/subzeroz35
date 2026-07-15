@@ -1,38 +1,37 @@
 ## 😄 Daily Quotes 😄
 
-_**Learning how to operate a soul figures to take time.**_
+_**My advantage as a woman and a human being has been in having a mother who believed strongly in women's education. She was an early undergraduate at Oxford, and her own mother was a doctor.**_
 
-Timothy Leary
+Antonia Fraser
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  22 hrs 47 mins ███████████▋░░░░░░░░░  55.7%
-Markdown    8 hrs 47 mins  ████▌░░░░░░░░░░░░░░░░  21.5%
-JSON        3 hrs 34 mins  █▊░░░░░░░░░░░░░░░░░░░   8.8%
-Kotlin      1 hr 4 mins    ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Other       1 hr 1 min     ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-YAML        59 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-JavaScript  36 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Swift       31 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Text        16 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Docker      14 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Java Properties 13 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Python      12 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  19 hrs 55 mins ███████████▌░░░░░░░░░  54.8%
+Markdown    7 hrs 49 mins  ████▌░░░░░░░░░░░░░░░░  21.5%
+JSON        3 hrs 6 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
+YAML        1 hr 7 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Kotlin      1 hr 4 mins    ▌░░░░░░░░░░░░░░░░░░░░   3.0%
+Other       1 hr 1 min     ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+JavaScript  36 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Swift       31 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Docker      14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Text        14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Java Properties 13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 Objective-C++ 11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Git Config  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Image (svg) 4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Nginx configuration file 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Nginx configuration file 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Groovy      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Objective-C 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 nvmrc       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/14/2026
+7/15/2026
