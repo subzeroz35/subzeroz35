@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**My advantage as a woman and a human being has been in having a mother who believed strongly in women's education. She was an early undergraduate at Oxford, and her own mother was a doctor.**_
+_**During the decades after Brown v. Board of Education there was terrific progress. Tens of thousands of public schools were integrated racially. During that time the gap between black and white achievement narrowed.**_
 
-Antonia Fraser
+Jonathan Kozol
 
 
 
@@ -34,4 +34,4 @@ nvmrc       0 secs         ░░░░░░░░░░░░░░░░░�
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/15/2026
+7/16/2026
