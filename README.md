@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Indeed science alone may perhaps be sterile when pursued without an understanding of the world in which scientific knowledge is created and in which the fruits of science are used.**_
+_**If you don't drink, smoke, or drive a car, you're a tax evader.**_
 
-Polykarp Kusch
+Thomas S. Foley
 
 
 
@@ -32,4 +32,4 @@ Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░�
 Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/17/2026
+7/18/2026
