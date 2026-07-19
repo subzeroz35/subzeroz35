@@ -1,35 +1,29 @@
 ## 😄 Daily Quotes 😄
 
-_**If you don't drink, smoke, or drive a car, you're a tax evader.**_
+_**Don't worry about writing a book or getting famous or making money. Just lead an interesting life.**_
 
-Thomas S. Foley
+Michael Morpurgo
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  14 hrs 18 mins █████████▊░░░░░░░░░░░  46.6%
-Markdown    7 hrs 33 mins  █████▏░░░░░░░░░░░░░░░  24.6%
-Text        3 hrs 2 mins   ██░░░░░░░░░░░░░░░░░░░   9.9%
-JSON        2 hrs 25 mins  █▋░░░░░░░░░░░░░░░░░░░   7.9%
-Other       1 hr 5 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.6%
-YAML        43 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
-Bash        19 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Kotlin      18 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Docker      14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Java Properties 12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-JavaScript  10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Swift       5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+<pre>Markdown    12 hrs 4 mins  ████████░░░░░░░░░░░░░  38.3%
+TypeScript  10 hrs 2 mins  ██████▋░░░░░░░░░░░░░░  31.9%
+Text        3 hrs 2 mins   ██░░░░░░░░░░░░░░░░░░░   9.7%
+JSON        1 hr 58 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
+JavaScript  1 hr 43 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
+Other       56 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+YAML        41 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Bash        34 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Docker      14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Kotlin      4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Nginx configuration file 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Objective-C++ 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/18/2026
+7/19/2026
