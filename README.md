@@ -1,27 +1,24 @@
 ## 😄 Daily Quotes 😄
 
-_**If you don't like the way the world is, you change it. You have an obligation to change it. You just do it one step at a time.**_
+_**Good manners will open doors that the best education cannot.**_
 
-Marian Wright Edelman
+Clarence Thomas
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 37 mins  ███████▏░░░░░░░░░░░░░  34.4%
-Markdown    9 hrs 3 mins   ██████▊░░░░░░░░░░░░░░  32.5%
-Text        3 hrs 4 mins   ██▎░░░░░░░░░░░░░░░░░░  11.0%
-JSON        2 hrs 5 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
-JavaScript  1 hr 48 mins   █▎░░░░░░░░░░░░░░░░░░░   6.5%
-Other       57 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-YAML        36 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Bash        34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Kotlin      4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Docker      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>Markdown    9 hrs 44 mins  ███████▏░░░░░░░░░░░░░  34.0%
+TypeScript  9 hrs 11 mins  ██████▋░░░░░░░░░░░░░░  32.1%
+Text        3 hrs 6 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
+JSON        2 hrs 18 mins  █▋░░░░░░░░░░░░░░░░░░░   8.1%
+JavaScript  2 hrs 2 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
+Other       55 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+YAML        35 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Bash        35 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Git         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Kotlin      3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Python      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/20/2026
+7/21/2026
