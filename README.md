@@ -1,25 +1,27 @@
 ## 😄 Daily Quotes 😄
 
-_**Nothing drew me to the film business. I was propelled by the fear and anxiety of Vietnam. I had been drafted into the Marines. My brother was already serving in Vietnam. I bought, if you will, a stay of execution - both literally and figuratively - and went on to graduate school of business from the law school that I was attending.**_
+_**The only limit to your impact is your imagination and commitment.**_
 
-Peter Guber
+Tony Robbins
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  15 hrs 16 mins ████████▋░░░░░░░░░░░░  41.6%
-Markdown    10 hrs 2 mins  █████▋░░░░░░░░░░░░░░░  27.4%
-JSON        3 hrs 15 mins  █▊░░░░░░░░░░░░░░░░░░░   8.9%
-Text        2 hrs 35 mins  █▍░░░░░░░░░░░░░░░░░░░   7.1%
-JavaScript  2 hrs 14 mins  █▎░░░░░░░░░░░░░░░░░░░   6.1%
-Other       1 hr 34 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Bash        1 hr           ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-YAML        25 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
-Git         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>TypeScript  20 hrs 12 mins ███████████░░░░░░░░░░  52.9%
+Markdown    9 hrs 55 mins  █████▍░░░░░░░░░░░░░░░  26.0%
+JSON        2 hrs 56 mins  █▌░░░░░░░░░░░░░░░░░░░   7.7%
+JavaScript  2 hrs 23 mins  █▎░░░░░░░░░░░░░░░░░░░   6.3%
+Other       1 hr 10 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Bash        41 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Git         14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+YAML        14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+Text        11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Image (svg) 5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Groovy      3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Kotlin      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Swift       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%</pre>
+Swift       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/23/2026
+7/24/2026
