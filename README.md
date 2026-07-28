@@ -1,27 +1,26 @@
 ## 😄 Daily Quotes 😄
 
-_**Thought is the wind, knowledge the sail, and mankind the vessel.**_
+_**I don't know how to construct a career that'll make me famous. Except maybe get my ears pinned back, get my teeth done, and go to America. But then I'll be competing with billions of actors who haven't got false teeth, and who are 25.**_
 
-Augustus Hare
+Ian Hart
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  21 hrs 24 mins ██████████████▎░░░░░░  68.3%
-JSON        3 hrs 25 mins  ██▎░░░░░░░░░░░░░░░░░░  10.9%
-Markdown    2 hrs 38 mins  █▊░░░░░░░░░░░░░░░░░░░   8.4%
-Other       2 hrs 3 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Bash        39 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-JavaScript  37 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-Git         17 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+<pre>TypeScript  23 hrs 3 mins  ██████████████▋░░░░░░  70.2%
+JSON        3 hrs 35 mins  ██▎░░░░░░░░░░░░░░░░░░  10.9%
+Other       3 hrs 4 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
+Markdown    1 hr 34 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
+Bash        42 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+JavaScript  25 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Git         11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
 Image (svg) 5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Groovy      3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Text        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Kotlin      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Swift       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/27/2026
+7/28/2026
