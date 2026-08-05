@@ -1,27 +1,32 @@
 ## 😄 Daily Quotes 😄
 
-_**My dad left when I was 3 1/2, and he left my mom and I.**_
+_**Once you get into this great stream of history, you can't get out.**_
 
-David Cassidy
+Richard M. Nixon
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  24 hrs 51 mins ██████████████▏░░░░░░  67.4%
-Markdown    4 hrs 32 mins  ██▌░░░░░░░░░░░░░░░░░░  12.3%
-JSON        3 hrs 51 mins  ██▏░░░░░░░░░░░░░░░░░░  10.5%
-Text        1 hr 32 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+<pre>TypeScript  20 hrs 33 mins ████████████▏░░░░░░░░  58.0%
+JSON        5 hrs 36 mins  ███▎░░░░░░░░░░░░░░░░░  15.8%
+Markdown    4 hrs 32 mins  ██▋░░░░░░░░░░░░░░░░░░  12.8%
+Text        1 hr 44 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
+Other       29 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 Docker      27 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Image (svg) 25 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-YAML        21 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Other       16 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Groovy      8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-JavaScript  8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+YAML        27 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Image (svg) 25 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Groovy      12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+CSV         12 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
+JavaScript  11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Ruby        8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 Git Config  8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Git         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Kotlin      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Image (png) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-nvmrc       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Kotlin      6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Git         5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Bash        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Image (png) 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+nvmrc       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+C           0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/4/2026
+8/5/2026
