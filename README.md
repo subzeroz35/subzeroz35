@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Small deeds done are better than great deeds planned.**_
+_**Leadership requires the courage to make decisions that will benefit the next generation.**_
 
-Peter Marshall
+Alan Autry
 
 
 
@@ -30,4 +30,4 @@ TSConfig    0 secs         ░░░░░░░░░░░░░░░░░�
 C           0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (jpeg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/6/2026
+8/7/2026
