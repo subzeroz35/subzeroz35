@@ -1,20 +1,20 @@
 ## 😄 Daily Quotes 😄
 
-_**My mom won't let me buy high-fashion stuff unless it's TK Maxx or a birthday occasion.**_
+_**My three addictions of choice are food, love and work.**_
 
-Chloe Moretz
+Alanis Morissette
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Markdown    12 hrs 36 mins ███████░░░░░░░░░░░░░░  33.6%
-TypeScript  10 hrs 54 mins ██████░░░░░░░░░░░░░░░  29.1%
-JSON        5 hrs 48 mins  ███▏░░░░░░░░░░░░░░░░░  15.5%
+<pre>Markdown    12 hrs 41 mins ███████░░░░░░░░░░░░░░  33.8%
+TypeScript  10 hrs 50 mins ██████░░░░░░░░░░░░░░░  28.9%
+JSON        5 hrs 36 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
 JavaScript  3 hrs 44 mins  ██░░░░░░░░░░░░░░░░░░░  10.0%
 Text        1 hr 33 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.2%
+Other       54 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
 YAML        48 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Other       42 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 Image (png) 32 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 CSV         14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 Ruby        8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
@@ -30,4 +30,4 @@ TSConfig    0 secs         ░░░░░░░░░░░░░░░░░�
 C           0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (jpeg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/9/2026
+8/10/2026
