@@ -1,26 +1,27 @@
 ## 😄 Daily Quotes 😄
 
-_**Design in art, is a recognition of the relation between various things, various elements in the creative flux. You can't invent a design. You recognize it, in the fourth dimension. That is, with your blood and your bones, as well as with your eyes.**_
+_**The Leadership Training Institute of America is a cultural think tank providing training and opportunity in leadership development and cultural dynamics.**_
 
-David Herbert Lawrence
+Michael Burgess
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Markdown    14 hrs 4 mins  ████████▌░░░░░░░░░░░░  41.0%
-TypeScript  11 hrs 5 mins  ██████▊░░░░░░░░░░░░░░  32.3%
-JavaScript  4 hrs 28 mins  ██▋░░░░░░░░░░░░░░░░░░  13.0%
-JSON        2 hrs 43 mins  █▋░░░░░░░░░░░░░░░░░░░   7.9%
-Other       1 hr 14 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-Bash        11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
-YAML        9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Diff        8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Text        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+<pre>Markdown    14 hrs 4 mins  ████████▉░░░░░░░░░░░░  42.6%
+TypeScript  12 hrs 2 mins  ███████▋░░░░░░░░░░░░░  36.4%
+JavaScript  2 hrs 40 mins  █▋░░░░░░░░░░░░░░░░░░░   8.1%
+JSON        2 hrs 13 mins  █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Other       1 hr 6 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+CSV         20 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Bash        19 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Diff        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Image (svg) 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Ruby        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+TSConfig    2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Text        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/14/2026
+8/15/2026
