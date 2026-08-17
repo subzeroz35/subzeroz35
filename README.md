@@ -1,18 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**To reduce deficit spending and our enormous debt, you reign in spending. You cut the budget. You don't take more from the private sector and grow government with it. And that's exactly what Obama has in mind with this expiration of Bush tax cuts proposal of his.**_
+_**Wisdom has never made a bigot, but learning has.**_
 
-Sarah Palin
+Josh Billings
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  12 hrs 2 mins  █████████▊░░░░░░░░░░░  46.5%
-Markdown    8 hrs 52 mins  ███████▏░░░░░░░░░░░░░  34.3%
-JSON        2 hrs 13 mins  █▊░░░░░░░░░░░░░░░░░░░   8.6%
-Other       1 hr 2 mins    ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-JavaScript  48 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+<pre>TypeScript  12 hrs 8 mins  █████████▉░░░░░░░░░░░  47.1%
+Markdown    8 hrs 48 mins  ███████▏░░░░░░░░░░░░░  34.1%
+JSON        2 hrs 14 mins  █▊░░░░░░░░░░░░░░░░░░░   8.7%
+JavaScript  51 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Other       50 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
 CSV         20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 Bash        19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 Diff        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
@@ -24,4 +24,4 @@ Text        0 secs         ░░░░░░░░░░░░░░░░░�
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/16/2026
+8/17/2026
