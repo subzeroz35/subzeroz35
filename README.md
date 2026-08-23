@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**If I took over the 'Glamour' offices for a day, I would put Joe Pesci on the cover. I would say 'We've got to change all these magazines a little bit. We have to bring out a different version of what is, like, cool. You know, what's winning. Joe Pesci, Burt Reynolds.'**_
+_**May the God of your choice bless and keep you. I respect Him as long as He does not circumcise me anymore.**_
 
-Jake Johnson
+Kinky Friedman
 
 
 
@@ -26,4 +26,4 @@ Kotlin      0 secs         ░░░░░░░░░░░░░░░░░�
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/22/2026
+8/23/2026
