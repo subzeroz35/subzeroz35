@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**May the God of your choice bless and keep you. I respect Him as long as He does not circumcise me anymore.**_
+_**I'll let you in on a secret: I can't stand Jay Ward. I hate being compared to Rocky and Bullwinkle. It's just a different style of humor.**_
 
-Kinky Friedman
+John Kricfalusi
 
 
 
@@ -26,4 +26,4 @@ Kotlin      0 secs         ░░░░░░░░░░░░░░░░░�
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/23/2026
+8/24/2026
