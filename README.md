@@ -1,29 +1,27 @@
 ## 😄 Daily Quotes 😄
 
-_**Nearly every study shows that competition from cheap foreign labor undercuts the wages of American workers and legal immigrants.**_
+_**Computers make me totally blank out.**_
 
-Lamar S. Smith
+Dalai Lama
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 33 mins  ███████▌░░░░░░░░░░░░░  36.1%
-Markdown    8 hrs 11 mins  ██████▌░░░░░░░░░░░░░░  31.0%
-Python      3 hrs 14 mins  ██▌░░░░░░░░░░░░░░░░░░  12.3%
-JSON        1 hr 53 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
-JavaScript  1 hr 29 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
-YAML        54 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Other       29 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-CocoaPods   15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Bash        8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Git Config  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+<pre>Markdown    10 hrs 57 mins ████████░░░░░░░░░░░░░  38.6%
+TypeScript  6 hrs 24 mins  ████▋░░░░░░░░░░░░░░░░  22.6%
+Python      5 hrs 37 mins  ████▏░░░░░░░░░░░░░░░░  19.8%
+JSON        1 hr 44 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
+JavaScript  1 hr 28 mins   █░░░░░░░░░░░░░░░░░░░░   5.2%
+YAML        54 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Other       35 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+CocoaPods   15 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Bash        8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Git Config  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 TOML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Diff        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Text        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/28/2026
+8/29/2026
