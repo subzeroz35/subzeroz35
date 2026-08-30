@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Computers make me totally blank out.**_
+_**I'm glad I was born when I was. My time was the golden age of variety. If I were starting out again now, maybe things would happen for me, but it certainly would not be on a variety show with 28 musicians, 12 dancers, two major guest stars, 50 costumes a week by Bob Mackie. The networks just wouldn't spend the money today.**_
 
-Dalai Lama
+Carol Burnett
 
 
 
@@ -24,4 +24,4 @@ Diff        2 mins         ░░░░░░░░░░░░░░░░░�
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-8/29/2026
+8/30/2026
