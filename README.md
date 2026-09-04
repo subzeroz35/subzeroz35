@@ -1,20 +1,25 @@
 ## 😄 Daily Quotes 😄
 
-_**While it's really hard to do, at the same time, I'm escaping my body, which I really want to do. I'm living someone else's life. I get very intensely into the story, into the interviews and the research. I'm experiencing things along with my subjects. I have a freedom I don't have in my physical life.**_
+_**The man of science has learned to believe in justification, not by faith, but by verification.**_
 
-Laura Hillenbrand
+Thomas Huxley
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Markdown    7 hrs 39 mins  ███████████░░░░░░░░░░  53.0%
-Python      5 hrs 9 mins   ███████▍░░░░░░░░░░░░░  35.6%
-TypeScript  1 hr 6 mins    █▌░░░░░░░░░░░░░░░░░░░   7.7%
-JSON        18 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Other       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-TOML        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
-YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>Other       5 hrs 49 mins  ███████▉░░░░░░░░░░░░░  37.7%
+Markdown    3 hrs 45 mins  █████░░░░░░░░░░░░░░░░  24.3%
+Python      2 hrs 32 mins  ███▍░░░░░░░░░░░░░░░░░  16.5%
+TypeScript  2 hrs 28 mins  ███▎░░░░░░░░░░░░░░░░░  16.0%
+JSON        37 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+JavaScript  8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Diff        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/3/2026
+9/4/2026
