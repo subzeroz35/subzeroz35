@@ -1,24 +1,27 @@
 ## 😄 Daily Quotes 😄
 
-_**The thing people don't understand is that touring or travelling or whatever you do in my position means you go to all these cool places all over the world, but you see everything from a car window. You don't get to see much of the city or meet people at all.**_
+_**If I knew for a certainty that a man was coming to my house with the conscious design of doing me good, I should run for my life.**_
 
-Taylor Momsen
+Henry David Thoreau
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Other       3 hrs 25 mins  █████████▎░░░░░░░░░░░  44.1%
-TypeScript  2 hrs 34 mins  ██████▉░░░░░░░░░░░░░░  33.1%
-JSON        42 mins        █▉░░░░░░░░░░░░░░░░░░░   9.2%
-Markdown    22 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
-YAML        16 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-JavaScript  15 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Python      4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-Diff        2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Bash        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+<pre>Markdown    4 hrs 5 mins   ███████▉░░░░░░░░░░░░░  38.0%
+TypeScript  3 hrs 33 mins  ██████▉░░░░░░░░░░░░░░  33.1%
+JSON        1 hr 21 mins   ██▋░░░░░░░░░░░░░░░░░░  12.7%
+Other       37 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Bash        24 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+YAML        16 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+JavaScript  15 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+Python      4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+Diff        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Docker      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+CSS         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/6/2026
+9/7/2026
