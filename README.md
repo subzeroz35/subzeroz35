@@ -1,30 +1,32 @@
 ## 😄 Daily Quotes 😄
 
-_**It would be great to be able to pass on to someone all of the successes, the failures, and the knowledge that one has had. To help someone, avoid all the fire, pain and anxiety would be wonderful.**_
+_**I don't believe in the so-called Olympic spirit. I speak from personal experience. When China hosted the Games, it failed to include the people. The event was constructed without regard for their joy.**_
 
-Sylvester Stallone
+Ai Weiwei
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>Markdown    8 hrs 49 mins  █████████▋░░░░░░░░░░░  46.0%
-TypeScript  5 hrs 49 mins  ██████▍░░░░░░░░░░░░░░  30.4%
-JSON        1 hr 46 mins   █▉░░░░░░░░░░░░░░░░░░░   9.3%
-Bash        47 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-Other       38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Text        24 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-YAML        19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-JavaScript  15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-CSS         9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Python      4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Diff        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Git         2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Docker      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>Markdown    10 hrs 37 mins ████████▋░░░░░░░░░░░░  41.5%
+TypeScript  9 hrs 8 mins   ███████▍░░░░░░░░░░░░░  35.7%
+JSON        2 hrs 27 mins  ██░░░░░░░░░░░░░░░░░░░   9.6%
+Bash        47 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Other       42 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Text        27 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Python      20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+YAML        19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+JavaScript  17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Git         10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+CSS         9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Diff        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Image (jpeg) 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Docker      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git Config  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Image (png) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 SQL         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/8/2026
+9/9/2026
