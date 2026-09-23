@@ -1,30 +1,33 @@
 ## 😄 Daily Quotes 😄
 
-_**You that would judge me, do not judge alone this book or that, come to this hallowed place where my friends' portraits hang and look thereon Ireland's history in their lineaments trace think where man's glory most begins and ends and say my glory was I had such friends.**_
+_**It's funny that there was so much disturbance about having a Catholic in the White House with Kennedy, and when we finally get a religion in the White House that's causing a lot of conflicts, and concerns, and disturbances for a lot of people, it's in the Bush Administration.**_
 
-William Butler Yeats
+Roger Ebert
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  10 hrs 36 mins ████████████▊░░░░░░░░  60.9%
-Markdown    4 hrs 24 mins  █████▎░░░░░░░░░░░░░░░  25.3%
-JSON        1 hr 7 mins    █▎░░░░░░░░░░░░░░░░░░░   6.5%
-Bash        40 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-Text        8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-YAML        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
-SCSS        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Other       5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Git         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+<pre>TypeScript  11 hrs 40 mins ███████████▊░░░░░░░░░  56.4%
+Markdown    5 hrs 13 mins  █████▎░░░░░░░░░░░░░░░  25.2%
+JSON        1 hr 24 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Bash        44 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Text        19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+HTML        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+JavaScript  16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+YAML        15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+SCSS        8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Other       5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Git Config  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+XML         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Image (png) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Image (jpeg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Docker      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-JavaScript  1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Image (png) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/22/2026
+9/23/2026
