@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**It is literally the case that learning languages makes you smarter. The neural networks in the brain strengthen as a result of language learning.**_
+_**Man, coaching is a hard job, and it requires a lot of time... I hear stories from coaches who tell me that players call them in the middle of the night not knowing where they parked their car.**_
 
-Michael Gove
+Joe Montana
 
 
 
@@ -30,4 +30,4 @@ Groovy      0 secs         ░░░░░░░░░░░░░░░░░�
 Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/26/2026
+9/27/2026
