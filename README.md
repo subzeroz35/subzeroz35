@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Man, coaching is a hard job, and it requires a lot of time... I hear stories from coaches who tell me that players call them in the middle of the night not knowing where they parked their car.**_
+_**Between the fear that something would happen and the hope that still it wouldn't, there is much more space than one thinks. On that narrow, hard, bare and dark space a lot of us spend their lives.**_
 
-Joe Montana
+Ivo Andric
 
 
 
@@ -30,4 +30,4 @@ Groovy      0 secs         ░░░░░░░░░░░░░░░░░�
 Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/27/2026
+9/28/2026
