@@ -1,32 +1,31 @@
 ## 😄 Daily Quotes 😄
 
-_**I never learned from a man who agreed with me.**_
+_**You don't go to the movies to do historical research, unless it's historical research about the movies.**_
 
-Robert A. Heinlein
+Tony Kushner
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  8 hrs 9 mins   █████████▍░░░░░░░░░░░  44.8%
-Markdown    5 hrs 5 mins   █████▊░░░░░░░░░░░░░░░  27.9%
-JSON        1 hr 5 mins    █▎░░░░░░░░░░░░░░░░░░░   6.0%
-Text        52 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
-HTML        34 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
-SCSS        33 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-Other       24 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Bash        21 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-JavaScript  17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Image (png) 15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-YAML        10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-Git Config  5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-TSConfig    5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+<pre>TypeScript  7 hrs 41 mins  █████████▋░░░░░░░░░░░  46.1%
+Markdown    4 hrs 34 mins  █████▊░░░░░░░░░░░░░░░  27.4%
+JSON        1 hr 33 mins   █▉░░░░░░░░░░░░░░░░░░░   9.3%
+Text        45 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+SCSS        34 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Other       28 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+HTML        18 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Image (png) 14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Bash        12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+JavaScript  5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+TSConfig    4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Image (jpeg) 4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-XML         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Python      2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Java        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/29/2026
+9/30/2026
