@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Beauty is the first test: there is no permanent place in the world for ugly mathematics.**_
+_**There is no reason to design buildings that are more basic and rectilinear, because with concrete you can cover almost any space.**_
 
-Godfrey Harold Hardy
+Oscar Niemeyer
 
 
 
@@ -39,4 +39,4 @@ Image (jpeg) 0 secs         ░░░░░░░░░░░░░░░░░�
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/10/2026
+10/11/2026
