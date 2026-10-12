@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**There is no reason to design buildings that are more basic and rectilinear, because with concrete you can cover almost any space.**_
+_**I went into the business for the money, and the art grew out of it. If people are disillusioned by that remark, I can't help it. It's the truth.**_
 
-Oscar Niemeyer
+Charlie Chaplin
 
 
 
@@ -39,4 +39,4 @@ Image (jpeg) 0 secs         ░░░░░░░░░░░░░░░░░�
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/11/2026
+10/12/2026
