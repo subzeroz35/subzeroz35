@@ -1,40 +1,38 @@
 ## 😄 Daily Quotes 😄
 
-_**I believe that being an actress or being involved in a movie has to be a life experience, otherwise why go for it? I have to change me, and I have to learn things, and I have to push me and my limits. By acting, I find a freedom inside of a prison in a way.**_
+_**I have amazing friends who have led inspirational lives.**_
 
-Juliette Binoche
+Andrew Shue
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  10 hrs 13 mins █████████▎░░░░░░░░░░░  44.4%
-Markdown    3 hrs 34 mins  ███▎░░░░░░░░░░░░░░░░░  15.6%
-JSON        2 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░   9.5%
-Text        1 hr 10 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
-JavaScript  1 hr 8 mins    █░░░░░░░░░░░░░░░░░░░░   4.9%
-TOML        57 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-Docker      40 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-Other       36 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-Python      22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-Image (png) 22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Kotlin      22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-CSS         19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Bash        14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Git Config  14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Diff        8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-YAML        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+<pre>TypeScript  9 hrs 27 mins  █████████▏░░░░░░░░░░░  44.0%
+Markdown    5 hrs 13 mins  █████░░░░░░░░░░░░░░░░  24.4%
+JSON        1 hr 20 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
+JavaScript  1 hr 12 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
+Text        1 hr           ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Git Config  43 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Other       31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Bash        31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+Python      28 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Kotlin      18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Image (png) 13 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+YAML        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Diff        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 CSV         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-TSConfig    2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Java        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Objective-C 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Objective-C 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+TOML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Swift       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-SQL         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (jpeg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/15/2026
+10/16/2026
