@@ -1,38 +1,30 @@
 ## 😄 Daily Quotes 😄
 
-_**I have amazing friends who have led inspirational lives.**_
+_**Our money is bait money, and bait money is not to be used.**_
 
-Andrew Shue
+Mike Tyson
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  9 hrs 27 mins  █████████▏░░░░░░░░░░░  44.0%
-Markdown    5 hrs 13 mins  █████░░░░░░░░░░░░░░░░  24.4%
-JSON        1 hr 20 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
-JavaScript  1 hr 12 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
-Text        1 hr           ▉░░░░░░░░░░░░░░░░░░░░   4.7%
-Git Config  43 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Other       31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-Bash        31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-Python      28 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Kotlin      18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Image (png) 13 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-YAML        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Diff        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-CSV         3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Java        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Objective-C 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+<pre>TypeScript  7 hrs 17 mins  ████████▏░░░░░░░░░░░░  38.7%
+Markdown    6 hrs 28 mins  ███████▏░░░░░░░░░░░░░  34.4%
+Other       54 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+Python      48 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+JSON        44 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Git Config  38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Bash        31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Text        27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+JavaScript  26 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Image (png) 13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+YAML        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Kotlin      5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+HTML        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-TOML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-HTML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Swift       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (jpeg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/16/2026
+10/17/2026
