@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Our money is bait money, and bait money is not to be used.**_
+_**Our society is illuminated by the spiritual insights of the Hebrew prophets. America and Israel have a common love of human freedom, and they have a common faith in a democratic way of life.**_
 
-Mike Tyson
+Lyndon B. Johnson
 
 
 
@@ -27,4 +27,4 @@ Image (jpeg) 0 secs         ░░░░░░░░░░░░░░░░░�
 Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/17/2026
+10/18/2026
