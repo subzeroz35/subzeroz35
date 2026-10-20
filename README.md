@@ -1,30 +1,25 @@
 ## 😄 Daily Quotes 😄
 
-_**Few men in our history have ever obtained the Presidency by planning to obtain it.**_
+_**Going home and spending time with your family and your real friends keeps you grounded.**_
 
-James A. Garfield
+Jennifer Ellison
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  7 hrs 17 mins  ████████▏░░░░░░░░░░░░  38.8%
-Markdown    6 hrs 28 mins  ███████▏░░░░░░░░░░░░░  34.4%
-Other       53 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
-Python      48 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-JSON        44 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-Git Config  38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Bash        31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
-Text        27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-JavaScript  26 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Image (png) 13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-YAML        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Kotlin      5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-HTML        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Git         1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Image (jpeg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Groovy      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Image (svg) 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+<pre>TypeScript  6 hrs 2 mins   ███████▊░░░░░░░░░░░░░  37.4%
+Markdown    5 hrs 40 mins  ███████▍░░░░░░░░░░░░░  35.1%
+Other       59 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Python      48 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
+JSON        38 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Bash        31 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Git Config  29 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+HTML        22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+Image (png) 13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+JavaScript  13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Text        6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+YAML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/19/2026
+10/20/2026
