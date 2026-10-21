@@ -1,25 +1,24 @@
 ## 😄 Daily Quotes 😄
 
-_**Going home and spending time with your family and your real friends keeps you grounded.**_
+_**Capucci was the biggest schooling I had. It wasn't just about the technical knowledge, such as color and volume, but also about the secret rules, and the beautiful codes of respect between the atelier and the master.**_
 
-Jennifer Ellison
+Giambattista Valli
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  6 hrs 2 mins   ███████▊░░░░░░░░░░░░░  37.4%
-Markdown    5 hrs 40 mins  ███████▍░░░░░░░░░░░░░  35.1%
-Other       59 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
-Python      48 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
-JSON        38 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-Bash        31 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Git Config  29 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-HTML        22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
-Image (png) 13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-JavaScript  13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Text        6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+<pre>Markdown    5 hrs 36 mins  ████████▎░░░░░░░░░░░░  39.7%
+TypeScript  4 hrs 21 mins  ██████▍░░░░░░░░░░░░░░  30.9%
+Other       53 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Python      50 mins        █▏░░░░░░░░░░░░░░░░░░░   6.0%
+JSON        45 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Bash        31 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+Git Config  28 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+HTML        22 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+JavaScript  9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Text        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
 YAML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/20/2026
+10/21/2026
